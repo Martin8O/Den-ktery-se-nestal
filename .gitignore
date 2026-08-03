@@ -1,0 +1,11 @@
+Local/
+data/
+build/
+__pycache__/
+*.pyc
+.env
+secrets/
+.claude/settings.local.json
+
+# Machine-specific build settings (tectonic paths) — never committed
+tools/local.ps1
