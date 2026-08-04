@@ -143,7 +143,7 @@ Výrok napsala večer v kanceláři, načisto, bez oprav:
 
 Přečetla si to po sobě. Každá věta stála, kde stát měla; žádná nebyla křivá. Za štítkem s číslem spisu zůstane viset lidský zbytek — muž, který bude do smrti nosit kytky cizímu jménu —, ale to už výroky neřeší, od toho výroky nejsou. Archiv vyhrál, jako vyhrává vždycky. Přesnost je taky druh milosrdenství, říkala si; aspoň věděl, na čem je, aspoň mu nikdo nelhal.
 
-Složku odložila do drátěného koše VYŘÍZENÉ a koš tiše, kovově cvakl, jako cvakají věci, kterým je všechno jedno.
+Složku odložila do drátěného koše VYŘÍZENÉ a koš tiše, kovově cvakl.
 
 * * *
 

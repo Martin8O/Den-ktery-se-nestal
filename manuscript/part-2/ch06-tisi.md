@@ -77,7 +77,7 @@ Prolezla první, protože byla užší; parapet ji tlačil do žeber a pod rukam
 
 František Hruška seděl v křesle u kamen, hlavu mírně na stranu, ruce na opěrkách, a byl mrtvý.
 
-Tereza viděla v životě mrtvé — u řemesla se jim člověk nevyhne, exhumační řízení, identifikace, fotky ve spisech. Nikdy ale nevešla do místnosti, kde smrt ještě neměla papíry. To bylo něco jiného. Mrtvý se spisem je fakt. Mrtvý bez spisu je otázka, a ta otázka stála v pokoji s nimi a čekala, kdo ji položí první.
+Tereza viděla v životě mrtvé — u řemesla se jim člověk nevyhne, exhumační řízení, identifikace, fotky ve spisech. Nikdy ale nevešla do místnosti, kde smrt ještě neměla papíry. To bylo něco jiného. Mrtvý se spisem je fakt. Mrtvý bez spisu je otázka.
 
 * * *
 
@@ -85,7 +85,7 @@ Vypadalo to přesně tak, jak to mělo vypadat. To bylo na tom to nejstrašněj�
 
 Tereza stála dva kroky od něj a nedotýkala se ničeho a dělala jedinou věc, kterou pro něj ještě uměla: dívala se pořádně.
 
-Košile zapnutá až ke krku, i knoflíček u límce. Kdo si ráno v šeru obléká košili ke krku? Muž, který jde jednat s úřadem. Oblékl se pro návštěvu — pro toho, kdo se dozvonil za tmy s ohlášeným přepočtem výsluhy — a v křesle seděl jako hostitel, ne jako spáč. Na stolku vedle křesla stály dva hrnky. Jeden dopitý, s lógrem na dně. Druhý plný, nedotčený, s hladinou potaženou studenou blankou; mléko se u okraje srazilo do souostroví. Host kávu nepil. Host nechal hostitele obsloužit, počkal, až se posadí, a pak — co? Nic. Na Františku Hruškovi nebylo nic. Žádná stopa, žádný tlak, žádný vpich, nic, co by uměla najít bez rukavic a bez práva se dotýkat; jen klid, který na mrtvých bývá, a hrnek kávy, kterou nikdo nevypil.
+Košile zapnutá až ke krku, i knoflíček u límce. Kdo si ráno v šeru obléká košili ke krku? Muž, který jde jednat s úřadem. Oblékl se pro návštěvu, pro toho, kdo se dozvonil za tmy s ohlášeným přepočtem výsluhy, a v křesle seděl jako hostitel, ne jako spáč. Na stolku vedle křesla stály dva hrnky. Jeden dopitý, s lógrem na dně. Druhý plný, nedotčený, s hladinou potaženou studenou blankou; mléko se u okraje srazilo do souostroví. Host kávu nepil. Host nechal hostitele obsloužit, počkal, až se posadí, a pak — co? Nic. Na Františku Hruškovi nebylo nic. Žádná stopa, žádný tlak, žádný vpich, nic, co by uměla najít bez rukavic a bez práva se dotýkat; jen klid, který na mrtvých bývá, a hrnek kávy, kterou nikdo nevypil.
 
 "Terezo." Jonáš stál ve dveřích pokoje a držel se futra. Bílý, se skvrnami na lícních kostech, dýchal ústy. "Já — moment. Moment, jo?"
 
@@ -97,7 +97,7 @@ Tereza obcházela pokoj po obvodu, ruce za zády, jako se chodí po muzeu. V hla
 
 Dívala se po tom, co tu má být — a nebylo.
 
-Hruška byl důlní měřič. Ta slova znamenala celý život papírů: deníky měření, mapy slojí, kopie protokolů, fotografie part, odznaky, vyznamenání za výdrž. Vitrína u stěny: prázdná, jen vybledlé obdélníky na polici, kde stávaly rámečky. Police nad kamny: knihy ano — beletrie, kuchařka, atlas hub — ale ani jedna ročenka, ani jeden svazek s hřbetem nadepsaným rokem. Pod oknem stůl se zásuvkami; horní pootevřená, uvnitř gumičky, tužky, brýle na čtení. Papír žádný. V celém pokoji, v celém viditelném domě, nebyl jediný popsaný list — jen na stole obálka. Úřední, s okénkem, pečlivě rozříznutá. Oznámení o osobním projednání přepočtu výsluhového příspěvku, čtvrtek 9. 10., 07:30, pracovník se dostaví na adresu. Kulaté razítko, nečitelný podpis, spisová značka správy důchodů.
+Hruška byl důlní měřič. Ta slova znamenala celý život papírů: deníky měření, mapy slojí, kopie protokolů, fotografie part, odznaky, vyznamenání za výdrž. Vitrína u stěny: prázdná, jen vybledlé obdélníky na polici, kde stávaly rámečky. Police nad kamny: knihy ano, beletrie, kuchařka, atlas hub, ale ani jedna ročenka, ani jeden svazek s hřbetem nadepsaným rokem. Pod oknem stůl se zásuvkami; horní pootevřená, uvnitř gumičky, tužky, brýle na čtení. Papír žádný. V celém pokoji, v celém viditelném domě, nebyl jediný popsaný list — jen na stole obálka. Úřední, s okénkem, pečlivě rozříznutá. Oznámení o osobním projednání přepočtu výsluhového příspěvku, čtvrtek 9. 10., 07:30, pracovník se dostaví na adresu. Kulaté razítko, nečitelný podpis, spisová značka správy důchodů.
 
 Poslední kotvy Františka Hrušky odjely dodávkou někdy v posledních dnech — tiše, po částech, možná pod hlavičkou skartace, možná koupě sběratele, možná "syn si pro to přijel" — a dnes ráno za tmy přišel úředník s obálkou, nechal si uvařit kávu, kterou nevypil, a odešel. U předních dveří si Tereza cestou zpátky všimla ještě jednoho detailu a zapsala si ho do hlavy bez komentáře, protože komentář by znamenal závěr: zámek byl zevnitř prázdný a na hřebíku vedle futra visela jen smyčka provázku bez klíčů. Pan Hruška, který nikam nechodil, míval klíče na hřebíku. Teď nebyly v domě — a dveře byly zamčené. A po něm zbyl domek bez papírů, mrtvý muž bez viditelné příčiny a čtrnáctá zóna Jonášovy mapy, uzavřená přesně podle harmonogramu, který nikdo nikde nevedl.
 
@@ -117,7 +117,7 @@ Jonáš se na ni podíval a v tom pohledu bylo poprvé něco, co tam nikdy nebyl
 
 Otřela kliky, kterých se dotkli, cípem šály, spíšové okno přivřeli na první západku, jak bylo. Na dvorku se zastavila u záhonu — okopaný, s vyrovnanými řádky, přichystaný na česnek — a chvilku, jedinou, si dovolila myslet na to, že tenhle člověk ještě v pondělí počítal s příštím rokem. Pak šli, normálním krokem, dva lidé od plynáren, kterým nikdo neotevřel.
 
-Cestou k autu si Tereza skládala inventuru toho rána, položku po položce, jak se skládá spis. Obálka: pravý papír, pravé razítko — buď padělek dokonalý, nebo vůbec žádný padělek, a druhá možnost byla horší. A vrah, který posílá poštou termín návštěvy, protože ví, že ohlášený úředník je jediný cizí člověk, kterému starý opatrný muž otevře za tmy. Nikde chyba. Nikde spěch. Řemeslo, pomyslela si, a ta myšlenka měla ošklivou příchuť, protože poznat cizí řemeslo znamená být z oboru.
+Cestou k autu si Tereza skládala to ráno, položku po položce, jak se skládá spis. Obálka: pravý papír, pravé razítko — buď padělek dokonalý, nebo vůbec žádný padělek, a druhá možnost byla horší. A vrah, který posílá poštou termín návštěvy, protože ví, že ohlášený úředník je jediný cizí člověk, kterému starý opatrný muž otevře za tmy. Nikde chyba. Nikde spěch. Řemeslo, pomyslela si, a ta myšlenka měla ošklivou příchuť.
 
 * * *
 
@@ -163,6 +163,6 @@ Večer v osm jí zazvonil telefon. Budka; v pozadí tramvaj.
 
 "Dobrou, Terezo."
 
-Položila sluchátko a dlouho stála v předsíni s rukou na telefonu — podruhé za dva týdny, tentýž pohyb, držet přístroj na místě, aby už nic neřekl. Pak si sedla ke stolu a zapsala do notesu čtyři řádky bez adjektiv a pátý, který škrtla a napsala znovu a zase škrtla, protože se bránila tomu, jak zněl. Stál tam nakonec stejně, protože byla verifikátorka a záznam se nefalšuje:
+Položila sluchátko a dlouho stála v předsíni s rukou na telefonu — podruhé za dva týdny, tentýž pohyb, držet přístroj na místě, aby už nic neřekl. Pak si sedla ke stolu a zapsala do notesu čtyři holé řádky a pátý, který škrtla a napsala znovu a zase škrtla, protože se bránila tomu, jak zněl. Stál tam nakonec stejně, protože byla verifikátorka a záznam se nefalšuje:
 
 Vrah za sebou zamkl. Vrazi nezamykají. Úředníci ano.

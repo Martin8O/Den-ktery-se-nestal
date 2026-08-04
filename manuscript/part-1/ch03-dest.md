@@ -25,7 +25,7 @@ Než sešla dolů, obešla suterén, jak se obcházel před služební sondou: r
 
 Kalibrační protokol vyplnila předem, doma, rukou. Účel: kontrola vychýlení. Subjekt řízení: žádný. Cílový bod: zvolen operátorem. Do kolonky cílového bodu napsala souřadnice tak, jak se psaly — místo, datum, čas — a psala je klidně, protože doma u stolu se to psalo klidně: hřbitov Malvazinky, 19. července 2025, čtrnáct nula nula až patnáct třicet.
 
-Pohřeb vlastní dcery jako kalibrační bod. Učebnice, kapitola sedm: bod, který operátor důvěrně zná.
+Pohřeb vlastní dcery jako kalibrační bod.
 
 * * *
 
@@ -73,7 +73,7 @@ Sonda si nevybírá podle důležitosti. Bere, kam dosáhne.
 
 Stála dlouho. Věděla, že se to nevrátí. Mikroinfarkt paměti není zapomenutí; zapomenuté se dá připomenout, fotografií, vyprávěním, vůní té vůně. Tohle bylo odstranění. Kdyby jí teď někdo dal Eminu čepici, poznala by čepici. Nepoznala by nic dalšího. Místo bylo hladké. Zaplatila za odpověď kusem otázky — a tohle, přesně tohle, dělala čtrnáct let cizím lidem za plat.
 
-Pak vzala z pultu kalibrační protokol a do kolonky NÁLEZ napsala: bez nálezu, hlavice v toleranci. Písmo měla horší než jindy. Zapsala čas, podepsala se, hranou levé dlaně rozmazala inkoust a byla to první úřední lež jejího života; vešla se do dvou slov a nikdo ji nikdy nenajde.
+Pak vzala z pultu kalibrační protokol a do kolonky NÁLEZ napsala: bez nálezu, hlavice v toleranci. Písmo měla horší než jindy. Zapsala čas, podepsala se, hranou levé dlaně rozmazala inkoust a byla to první úřední lež jejího života.
 
 * * *
 
@@ -97,7 +97,7 @@ A sonda č. 2025/S-441. Provedená čtrnáct dní po události, na žádost matr
 
 Věděla, jak zní odpověď doktríny: z archivu. Zápis je kotva, kotvy se sčítají, archiv vítězí. Šest let jí ta odpověď stačila, protože ta odpověď byla její zaměstnání.
 
-Na okraj spisu, tužkou, kterou pak pečlivě vygumovala, si napsala tři slova: tenký · prázdné okno · pozdní tvrdost. Pak originál vrátila do archivu, řádně, s podpisem, a vyšla z budovy do rána, které si o ní myslelo, že jde z noční.
+Na okraj spisu, tužkou, kterou pak pečlivě vygumovala, si napsala tři slova: tenký · prázdné okno · pozdní tvrdost. Pak originál vrátila do archivu, řádně, s podpisem, a vyšla z budovy do rána.
 
 * * *
 

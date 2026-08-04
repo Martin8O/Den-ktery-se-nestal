@@ -27,7 +27,7 @@ Namočila si zápěstí pod studenou vodu, jak se drží bdělost, a vrátila se
 
 Kotva třetí: řemeslo. Úřední obálka s pravým razítkem; ohlášení předem, protože ohlášenému úředníkovi se otvírá; vozy z resortních aukcí s prázdnými držáky po majácích. Nikdo se neskrýval, protože úřední vzhled je v téhle zemi neprůstřelný — a ten se nedá koupit v železářství jako oranžová vesta. Ten se fasuje.
 
-Zkoušela to vyvrátit. Celou noc, poctivě, jako se vyvracejí cizí nálezy. Hypotéza: cizí služba. Padla na čtvrtcích — cizí služba by nepracovala v rytmu českého úředního týdne a nefasovala by vozy z resortních aukcí. Hypotéza: soukromá struktura, dědické podvody ve velkém. Padla na výběru obětí — Záruba ani Hruška neměli majetek, který by stál za benzin; umírali lidé, jejichž jediné bohatství byla paměť. Hypotéza: náhoda, apofenie, truchlící mozek skládající vzory. Ta byla nejodolnější, ta se držela do třech do rána — a padla na spisu V-2031-0387, protože náhoda neumí přepsat výrok se zachovanou podpisovou doložkou a čistou kartou pohybů. Náhodě chybí přístup. Všechno, co viděla, mělo přístup.
+Zkoušela to vyvrátit. Celou noc, poctivě, jako se vyvracejí cizí nálezy. Hypotéza: cizí služba. Padla na čtvrtcích; cizí služba by nepracovala v rytmu českého úředního týdne a nefasovala by vozy z resortních aukcí. Hypotéza: soukromá struktura, dědické podvody ve velkém. Padla na výběru obětí; Záruba ani Hruška neměli majetek, který by stál za benzin; umírali lidé, jejichž jediné bohatství byla paměť. Hypotéza: náhoda, apofenie, truchlící mozek skládající vzory. Ta byla nejodolnější, ta se držela do třech do rána — a padla na spisu V-2031-0387, protože náhoda neumí přepsat výrok se zachovanou podpisovou doložkou a čistou kartou pohybů. Náhodě chybí přístup. Všechno, co viděla, mělo přístup.
 
 Tři kotvy, tři nezávislé směry, jeden průsečík. Napsala si ho doprostřed listu, jedním slovem, a dlouho se na něj dívala: rytmus Ústavu · vědění Ústavu · vzhled státu. Pak list spálila nad dřezem, spláchla popel a stála u okna do čtyř do rána, protože závěr, který z toho plynul, se nedal odspat. Nehledala už, kdo zabil Jonáše. Hledala, kudy vede podpis — protože instituce, na rozdíl od vrahů, nedělají nic bez podpisu. To je jejich síla i jejich pata. Vražda se dá zapřít. Rozpočtová položka ne.
 
@@ -121,7 +121,11 @@ Kolem prošla servírka s tácem, cinkla lžička; kavárna žila dál, plná li
 
 Káva před Terezou chladla; nechala ji.
 
-"Mír, paní Wagnerová, historicky vzato, není dílo smíření. Je to dílo eroze. My jsme eroze, která přišla do práce včas. Dějiny, které nemohou změknout, jsou dějiny, ve kterých se nedá odpustit — odpuštění, podívejte se do toho slova, je dohoda o změkčení; my ji jen provádíme technicky. Měkká minulost znamená mír. Někdo musí zahradničit zapomínání, jinak se svět udusí vlastní pamětí."
+"Mír, paní Wagnerová, historicky vzato, není dílo smíření. Je to dílo —" U vedlejšího stolu se dva studenti dohadovali, kdo platí, a jeden z nich převrhl skleničku; Halina se za tím otočila, o vteřinu déle, než by se za skleničkou otáčet musela, a větu ztratila. "Kde jsem byla."
+
+"U míru." Tereza se dívala na její šálek. "Vy ten čaj vůbec nepijete. Je to rekvizita?"
+
+"Je to rekvizita," řekla Halina, a poprvé za celé odpoledne to znělo jako věta, kterou si předem nespočítala. "Eroze. Mír je dílo eroze — my jsme eroze, která přišla do práce včas. Dějiny, které nemohou změknout, jsou dějiny, ve kterých se nedá odpustit; odpuštění, podívejte se do toho slova, je dohoda o změkčení. Měkká minulost znamená mír. Někdo musí zahradničit zapomínání, jinak se svět udusí vlastní pamětí."
 
 "Zahradničit." Tereza se nedotkla kávy. "Viděla jsem vaše zahradničení zblízka. Křeslo u kamen. Košile zapnutá ke krku, protože se oblékl pro úřad. Kávu vám uvařil."
 

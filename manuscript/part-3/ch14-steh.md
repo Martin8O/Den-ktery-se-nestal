@@ -31,7 +31,7 @@ Servisní vstup ze dvora byl tam, kde měl být, a klíč s papírovým štítke
 
 * * *
 
-Čtvrté patro v noci a v servisním režimu: nouzová světla, tep chlazení, ozon. Trasa podél východní stěny, mrtvým úhlem, kolem registru — dveře tmavé — do přípravny. Lampa na stole vlevo; nerozsvítila ji, svítila si baterkou cloněnou dlaní. Ve vratkách, srovnaných na pátek, našla, co potřebovala: provozní postupy zápisu, kalibrační tabulky sálu — a tenké desky, které znala po hmatu dřív, než na ně posvítila. F-2025-0714-K. Pět listů, které jí přepsaly život; teď pojedou s ní o dvoje dveře dál, protože zápis se nejlíp klade proti zápisu — bod, interval, formulace, všechno si vezme z jejich vlastní práce, do písmene. Přišlo jí to spravedlivé způsobem, na který spravedlnost obvykle nemá papíry: budou biti vlastní pečlivostí.
+Čtvrté patro v noci a v servisním režimu: nouzová světla, tep chlazení, ozon. Trasa podél východní stěny, mrtvým úhlem, kolem tmavých dveří registru do přípravny. Lampa na stole vlevo; nerozsvítila ji, svítila si baterkou cloněnou dlaní. Ve vratkách, srovnaných na pátek, našla, co potřebovala: provozní postupy zápisu, kalibrační tabulky sálu — a tenké desky, které znala po hmatu dřív, než na ně posvítila. F-2025-0714-K. Pět listů, které jí přepsaly život; teď pojedou s ní o dvoje dveře dál, protože zápis se nejlíp klade proti zápisu — bod, interval, formulace, všechno si vezme z jejich vlastní práce, do písmene. Přišlo jí to spravedlivé způsobem, na který spravedlnost obvykle nemá papíry: budou biti vlastní pečlivostí.
 
 Desky ležely ve vratkách s lístkem: vyžádáno k revizi, kategorie K — jednotka stála v technické pauze a někdo nahoře si nechával předkládat její staré zápisy, jeden po druhém, k prověření. I strach pracoval pro ni: audit, který se rozběhl kvůli všemu, co se v té budově za podzim stalo, jí právě položil na stůl přípravny přesně ten spis, který potřebovala.
 
@@ -59,7 +59,7 @@ První pokus vrátila brána ve 22:58.
 
 Žádný náraz; jen prstenec zpomalil, tah povolil a na panelu naskočilo suché hlášení, které znala z literatury a nikdy neviděla naživo: PODÁNÍ NEKONZISTENTNÍ — VRÁCENO. A pod tím lokalizace rozporu, souřadnice v ní: operátor. Rozuměla tomu dřív, než to dočetla. Držela zpátky. Podala věty a materiál, ale to hlavní — šest let, celé mateřství, každý večer s hrnkem — držela instinktivně u sebe, jako se drží dítě před cizíma rukama. Brána nedostala celek, a co není celé, není bezrozporné.
 
-A cena propadla. Cítila to hned, na první inventuře: rok chyběl. Celý rok — dvacet devět, třicet? — pracovní, prázdný, naštěstí; věděla, že v něm byla, protože počítala řadu, a neuměla z něj vytáhnout jediný den. Propadlá záloha. Stroj bral i za vrácené pokusy — řád to říkal vždycky, cena propadá, četla to stokrát a podepisovala to cizím lidem, a teprve teď, v křesle, pochopila, co ta dvě slova znamenají: platit za nic. Účet rostl a nic za něj nekupoval, a hodiny na panelu ukazovaly 23:01 a trasa byla čistá do 23:20 a pak už jen tma a odhad.
+A cena propadla. Cítila to hned, na první inventuře: rok chyběl. Celý rok — dvacet devět, třicet? — pracovní, prázdný, naštěstí; věděla, že v něm byla, protože počítala řadu, a neuměla z něj vytáhnout jediný den. Propadlá záloha. Stroj bral i za vrácené pokusy; řád to říkal vždycky, cena propadá, četla to stokrát a podepisovala to cizím lidem, a teprve teď, v křesle, pochopila, co ta dvě slova znamenají: platit za nic. Účet rostl a nic za něj nekupoval, a hodiny na panelu ukazovaly 23:01 a trasa byla čistá do 23:20 a pak už jen tma a odhad.
 
 Mohla přestat. To si řekla poctivě, jednou, celou větou: ještě teď se dá vstát, uklidit, odejít, žít s jedním prázdným rokem navíc. Pak tu větu založila tam, kam patřila — k pomstě, k pravdě, k cukrárně, na hromádku zamítnutých levnějších cest — a udělala, co se u vrácené fixace dělá: četla lokalizaci a opravovala podání.
 
@@ -83,13 +83,13 @@ Brána: PRŮCHOD.
 
 * * *
 
-Nebyl blesk. Nebylo světlo. Prstenec se točil dál, tah zesílil do hloubky, kterou cítila za hrudní kostí — kamsi dolů, k vrstvám, do posledního měkkého — a na pultu, kde ležela její kopie osvědčení o úmrtí, se nic nedělo — papír je papír, doběh jde po síti, ne po listech. A přesto, když ji ve 23:40 zvedla a četla, četla už jiný dokument; ne proto, že se změnil papír. Proto, že se změnilo, co drží.
+Nebyl blesk. Nebylo světlo. Prstenec se točil dál, tah zesílil do hloubky, kterou cítila za hrudní kostí — kamsi dolů, k vrstvám, do posledního měkkého — a na pultu, kde ležela její kopie osvědčení o úmrtí, se nic nedělo; papír je papír, doběh jde po síti, ne po listech. A přesto, když ji ve 23:40 zvedla a četla, četla už jiný dokument; ne proto, že se změnil papír. Proto, že se změnilo, co drží.
 
 > **Osvědčení o úmrtí č. 2025/07-1442, kopie.** Subjekt: Ema Wagnerová, nar. 5. 6. 2019, dcera Terezy Wagnerové. Příčina: utonutí. — *Četla ta slova šest let jako rozsudek. Teď v nich stálo totéž a nedržela je žádná síť: dítě toho jména se nenarodilo, matka toho jména nebyla matkou. Papír s razítkem, který mluví o nikom.*
 
 > **Týž dokument, jak ho ponese archiv:** zápis se vede dál, v plném znění, s poznámkou revize: subjekt neztotožněn; osvědčení klasifikováno jako prokázané falzum s pravými důsledky; důsledky (pohřební řízení, dědická odúmrť, statistika) se nemění.
 
-Prokázané falzum s pravými důsledky. Druhý takový papír v jedné budově. Ten první visel ve vitríně v přízemí a stál na něm celý dům; tenhle bude ležet v zásuvce a nebude na něm stát nic, nikdy, a v tom byl celý rozdíl a celé vítězství. Výkres lhal, aby svět vznikl. Certifikát bude lhát, aby jedno dítě mohlo žít. Rýmovalo se to a Tereza ten rým viděla celý, jasně, na tři vteřiny — a pak jí zmizelo slovo vitrína a musela dál bez něj.
+Prokázané falzum s pravými důsledky. Druhý takový papír v jedné budově. Ten první visel ve vitríně v přízemí a stál na něm celý dům; tenhle bude ležet v zásuvce a nebude na něm stát nic, nikdy, a v tom byl celý rozdíl a celé vítězství. Výkres lhal, aby svět vznikl. Certifikát bude lhát, aby jedno dítě mohlo žít. A vprostřed té myšlenky jí zmizelo slovo vitrína; dál musela bez něj.
 
 A jedna věc se v tom rýmu ještě skrývala, poslední, a došla jí tam, v křesle, s cizím dokumentem v ruce: úřední jazyk, kterým se šest let dokládala Emina smrt, teď stejným tónem, stejným razítkem, stejnou nezúčastněnou pečlivostí doloží, že smrt nebyla. Formulář, který býval zbraň, se ani nehnul — jen se pod ním vyměnil svět. Nikdy nebude milovat úřední češtinu. Ale dnes v noci poprvé pochopila, proč jí Jonáš říkal nejpoctivější věta úřadu: formulář neumí litovat, a proto umí unést cokoliv. I zázrak. Zázrak s razítkem, vedený jako nesrovnalost.
 
@@ -99,7 +99,7 @@ Doběh šel po síti a síť byla ona. Cítila to tak, jak jí to popsal spis ka
 
 Protože.
 
-Tady to bylo, to místo, před kterým ji varoval vlastní plán: nesmíš zapomenout proč dřív, než došiješ. Doběh ještě běžel, sekvence chtěla uzavřít, potvrdit, zaznamenat konec výkonu — deset úkonů, dvě minuty práce — a ona seděla v bílém sněžení a hledala proč a nacházela díry. A pak, z místa hlouběji, než kam stroj dosáhl, protože tam žádný stroj nedosáhne, to přišlo samo, ne jako vzpomínka — jako tíha: spící hlava na rameni. Vůně už ne. Hlas už ne. Jen tíha, še— šest let stará — tíha dítěte, které usnulo a věří, že bude neseno.
+Tady to bylo, to místo, před kterým ji varoval vlastní plán: nesmíš zapomenout proč dřív, než došiješ. Doběh ještě běžel, sekvence chtěla uzavřít, potvrdit, zaznamenat konec výkonu, deset úkonů, dvě minuty práce; a ona seděla v bílém sněžení a hledala proč a nacházela díry. A pak, z místa hlouběji, než kam stroj dosáhl, protože tam žádný stroj nedosáhne, to přišlo samo, ne jako vzpomínka — jako tíha: spící hlava na rameni. Vůně už ne. Hlas už ne. Jen tíha, še— šest let stará — tíha dítěte, které usnulo a věří, že bude neseno.
 
 Ema. Voda. Ne.
 

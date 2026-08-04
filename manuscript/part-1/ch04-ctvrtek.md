@@ -63,7 +63,7 @@ Kabát. V předsíni visel na věšáku kabát, ten, co měl na hřbitově, o č
 
 "Že se nestydí," řekla Tereza.
 
-Cestou k tramvaji se zastavila u květinářství na rohu, o kterém mluvila domovnice. Květinářka byla mladá, s gumovými rukavicemi po lokty, a pana Zárubu znala hned: neděle, ráno, karafiáty, červené, vždycky liché číslo. Schovávala mu je pod pult, protože v neděli dopoledne bývalo vyprodáno.
+Cestou k tramvaji se zastavila u květinářství na rohu, o kterém mluvila domovnice. Květinářka byla mladá, s gumovými rukavicemi po lokty, a napřed doprodala dvěma školačkám tulipán — jeden, dohromady, dlouho vybíraly barvu a platily po korunách z dlaně — a teprve pak měla čas. Pana Zárubu znala hned: neděle, ráno, karafiáty, červené, vždycky liché číslo. Schovávala mu je pod pult, protože v neděli dopoledne bývalo vyprodáno.
 
 "A říkal," zeptala se Tereza, "pro koho jsou?"
 
@@ -71,7 +71,7 @@ Cestou k tramvaji se zastavila u květinářství na rohu, o kterém mluvila dom
 
 "Mají," řekla Tereza.
 
-Koupila si karafiáty, tři, protože odejít bez ničeho by bylo nápadné, a v tramvaji je držela hlavičkami dolů a skládala si to. Živý člověk, který slyšel jméno Milena. Kotva? Ne. Kotva z druhé ruky nedokládá fakt, dokládá výrok: květinářka nepamatovala Milenu, pamatovala, že Záruba říkal Milenka. Pro archiv nula. Pro toho, kdo ve středu jezdil s dodávkou, taky nula — proto směla květinářka dál prodávat karafiáty a domovnice utírat prach. Ti dva neuklízeli vzpomínky na Zárubu. Uklízeli doklady, a rozuměli rozdílu líp než kdokoli, koho Tereza za čtrnáct let potkala v oboru.
+Koupila si karafiáty, tři, protože odejít bez ničeho by bylo nápadné, a v tramvaji je držela hlavičkami dolů a skládala si to. Živý člověk, který slyšel jméno Milena. Kotva? Ne. Kotva z druhé ruky nedokládá fakt, dokládá výrok: květinářka nepamatovala Milenu, pamatovala, že Záruba říkal Milenka. Pro archiv nula. Pro toho, kdo ve středu jezdil s dodávkou, taky nula — proto směla květinářka dál prodávat karafiáty a domovnice utírat prach. Ti dva neuklízeli vzpomínky na Zárubu. Uklízeli doklady.
 
 * * *
 
@@ -145,7 +145,7 @@ Doma si udělala čaj, nechala ho vystydnout a sedla si ke stolu se svým notese
 
 Záruba mrtev čtvrtek 03–06 h. Byt vyklizen středa. Spis přepsán, karta pohybů čistá. Znění první drží jediná paměť.
 
-Podtrhla poslední řádek. Seděla nad ním a zkoušela, kudy z něj vede cesta, která není buď zbabělost, nebo sebevražda. Ohlásit to znamenalo předložit jedinou kotvu, kterou měla — sebe — instituci, jejíž spisy se přepisovaly samy od sebe s čistou kartou pohybů. Mlčet znamenalo dělat přesně to, co dělal systém: nechávat fakta měknout. Mezi tím ležel úzký pruh, po kterém se od pondělka učila chodit: vědět, měřit, zapisovat si to, co se nikam nezapisuje, a počkat, až bude mít víc než paměť. Jonáš měl data. Ona měla přístup a řemeslo. Zbývalo přestat být jediná — a vybrat si k tomu člověka tak, aby ho tím nezabila. To druhé zatím neuměla, a tak zůstávalo u prvního: vědět, měřit, mlčet, vydržet.
+Podtrhla poslední řádek. Seděla nad ním a zkoušela, kudy z něj vede cesta, která není buď zbabělost, nebo sebevražda. Ohlásit to znamenalo předložit instituci, jejíž spisy se přepisovaly samy od sebe s čistou kartou pohybů, jedinou kotvu, kterou měla: sebe. Mlčet znamenalo dělat přesně to, co dělal systém: nechávat fakta měknout. Mezi tím ležel úzký pruh, po kterém se od pondělka učila chodit: vědět, měřit, zapisovat si to, co se nikam nezapisuje, a počkat, až bude mít víc než paměť. Jonáš měl data. Ona měla přístup a řemeslo. Zbývalo přestat být jediná — a vybrat si k tomu člověka tak, aby ho tím nezabila. To druhé zatím neuměla, a tak zůstávalo u prvního: vědět, měřit, mlčet, vydržet.
 
 Pak notes zavřela, protože zbytek se nepsal nikam: že spis přepsali kvůli mrtvému, který už nemohl nic dosvědčit — a stejně to udělali, důkladně, pro pořádek, protože systém nenechává volné konce. Že jediný volný konec, který teď zbýval, seděl u tohohle stolu a pil studený čaj. A že existuje statistika, dvakrát nad očekáváním, p hluboko pod tisícinou, o tom, jak volné konce končí.
 

@@ -2,6 +2,32 @@
 
 > Professional changelog of progress + decisions. Newest entries on top. Decision index: `docs/adr.md`.
 
+## 2026-08-04 — E6 · De-mannerism pass: the audit's findings applied, no artificial flaws
+
+A blind full-book audit ("does this read machine-written?") returned verdict (c) — *the machine
+shows through excess competence, not weak writing* — with measured signatures: 93 % of the 67
+scene/chapter endings landing on an aphorism, 106+ antithesis constructions, 883 em-dashes
+(1/62 words), figurative-tic vocabulary, and not one scene without narrative function. The author
+challenged the audit's "write a scene that goes nowhere" advice and the challenge was correct:
+camouflage was rejected as a goal. Every change below was accepted only where it made the book
+*read* better; the shrinking machine-signature is a side effect.
+
+Done: 13 scene-break aphorisms dissolved into factual endings (carded chapter out-hooks
+untouched); Halina's cafe monologue gets a lost thread and an off-target interruption; Roubal's
+"three floors" lecture delivers its third floor untidily instead of on a raised finger; dash
+density 883 → 819 with 4+-dash paragraphs 26 → 18; figurative *inventura* / *bez adjektiv* /
+*po vrstvách* thinned; the third meta-reference to the i5/ch10 sentence and the self-naming of
+the ch14 rhyme cut (the audit's single worst finding); one path in ch13 now rejected in disgust
+and another rejected wrongly first; four small unsymbolic no-payoff details added (a bathroom
+renovation, cheap chlebíčky, two schoolgirls buying one tulip, a cracked egg) which also lifted
+three chapters back over their target band. Word count 53,470. Gate GREEN (0 hard), rebuilt all
+three formats. → ADR-014
+
+**Model-fit:** used frontier·high with a blind auditor sub-agent → fit; the audit's measured
+counts (not impressions) are what made the edit scoped and defensible. Next time: run this audit
+*inside* P2, before typesetting — it is a review lens like any other, and it found things four
+cold reads did not.
+
 ## 2026-08-04 — Published: public GitHub repository, English README, personal data stripped
 
 **Shipped.** The repo went public with a reader-facing English README covering the book, its

@@ -85,7 +85,7 @@ Sondážní sál byl v suterénu: klenba z režných cihel, kabely v lištách p
 
 Tereza stála za sklem velínu s protokolem. Vedle ní technička, za nimi oba Řehořovi — starší s pěstmi v kapsách, mladší s dokladem o zaplacení zálohy složeným v dlani na způsob kapesníku. Ať se rozhodne cokoliv, jeden z nich odejde a bude do smrti vyprávět, že se to celé zmanipulovalo.
 
-Příprava trvala déle než výkon, tak to bylo vždycky. Technička kalibrovala hlavici na cílový bod — datum, místo, okruh osob, všechno z ověřeného spisu, protože sonda potřebuje adresu a adresa se skládá z kotev. Mach si zatím svlékl sako, složil je přes opěradlo židle u dveří a z náprsní kapsy vyndal notes s gumičkou. Otevřel ho, chvíli četl — rty se mu nepatrně hýbaly — a zase ho zavřel, gumičku přetáhl, notes odložil na sako. Rituál před každou sondou, čtrnáct let ho Tereza vídala a nikdy se nezeptala, co v tom notesu je; dnes to věděla, aniž se ptala. Inventura před cestou. Kontrola, co všechno má, aby po návratu poznal, co chybí.
+Příprava trvala déle než výkon, tak to bylo vždycky. Technička kalibrovala hlavici na cílový bod: datum, místo, okruh osob, všechno z ověřeného spisu, protože sonda potřebuje adresu a adresa se skládá z kotev. Mach si zatím svlékl sako, složil je přes opěradlo židle u dveří a z náprsní kapsy vyndal notes s gumičkou. Otevřel ho, chvíli četl — rty se mu nepatrně hýbaly — a zase ho zavřel, gumičku přetáhl, notes odložil na sako. Rituál před každou sondou, čtrnáct let ho Tereza vídala a nikdy se nezeptala, co v tom notesu je; dnes to věděla, aniž se ptala. Inventura před cestou. Kontrola, co všechno má, aby po návratu poznal, co chybí.
 
 Mach se posadil do křesla, jako se sedá do vlaku, kterým se jezdí do práce třicet let. Podepsal odhad — technička mu podala desky, on je podepsal na koleni, vrátil — a položil ruce na opěrky.
 
@@ -109,11 +109,11 @@ Prstenec se dotočil. Mach otevřel oči, chvíli se díval do klenby a pak řek
 
 Za sklem nikdo nepromluvil. Starší Řehoř se ptal, co to znamená, a nikdo mu neodpověděl, protože ti, kdo věděli, mlčeli, a technička psala protokol.
 
-Bratři odešli každý jiným schodištěm. Mladší se u dveří velínu zastavil a zeptal se, komu má poděkovat; Tereza mu podala výtisk protokolu a řekla, že nikomu, že minulost není zásluha. Starší nepoděkoval, což bylo v pořádku — prohrál spravedlivě, a to se odpouští nejhůř. Do formuláře výsledovky napsala Tereza obvyklé věty a v kolonce NÁKLADY VÝKONU, kam se úřední řečí psalo číslo výkonu a jméno operátora, chvíli držela pero, než vyplnila obojí. Formulář neměl kolonku pro Annu. Formuláře na tohle kolonky nemívaly a v tom, napadlo ji cestou po schodech, byla celá architektura budovy: všechno se evidovalo, jen účty se rozpouštěly v lidech.
+Bratři odešli každý jiným schodištěm. Mladší se u dveří velínu zastavil a zeptal se, komu má poděkovat; Tereza mu podala výtisk protokolu a řekla, že nikomu, že minulost není zásluha. Starší nepoděkoval, což bylo v pořádku — prohrál spravedlivě, a to se odpouští nejhůř. Do formuláře výsledovky napsala Tereza obvyklé věty a v kolonce NÁKLADY VÝKONU, kam se úřední řečí psalo číslo výkonu a jméno operátora, chvíli držela pero, než vyplnila obojí. Formulář neměl kolonku pro Annu.
 
 * * *
 
-Odpoledne se ve třetím patře krájel dort. Ekonomické oddělení ho objednalo hned ráno — dvě stě sond byl rekord budovy a rekordy se v úřadech slaví s logistickou předvídavostí. Marcipánová dvoustovka, káva z konvic, ředitel pronesl tři věty, z nichž dvě byly citace řádu, a třetí, o Machově příkladné službě paměti národa, četl z lístku.
+Odpoledne se ve třetím patře krájel dort. Ekonomické oddělení ho objednalo hned ráno — dvě stě sond byl rekord budovy a rekordy se v úřadech slaví s logistickou předvídavostí. Marcipánová dvoustovka, káva z konvic, ředitel pronesl tři věty, z nichž dvě byly citace řádu, a třetí, o Machově příkladné službě paměti národa, četl z lístku. Chlebíčky došly za dvacet minut; vlašský salát na nich byl z lahůdek odnaproti, všichni to věděli a nikdo to nahlas neřekl.
 
 Jonáš stál u mísy s chlebíčky a Tereze potichu hlásil statistiku: "Průměr budovy je čtyřicet sond za kariéru. Karel má pětinásobek průměru. Kdyby se sondy běhaly, Karel právě zaběhl maraton za hodinu — fyziologicky by se o něm měly psát články, jenže o nás se články nepíšou." Vtipkoval a nespouštěl přitom z Macha oči a Tereza ten pohled znala; tak se dívá statistik na odlehlou hodnotu, kterou má rád. "Víš, co je na tom nejlepší?" dodal Jonáš tišeji. "Že mu nikdo z těch, co mu teď třesou rukou, nedokáže říct, co přesně ho ta služba stála. On sám to neví. To je jediná evidence v téhle budově, která se vede tak, že se maže. Zkus si to představit: účetnictví, kde se doklady platí doklady." Zarazil se nad vlastní větou. "To bych si měl zapsat. To je skoro definice."
 
@@ -135,7 +135,7 @@ Tereza mlčela. Uměla mlčet tak, aby to bylo slyšet jako otázka; s Machem to
 
 Večer ji na chodbě dohonil Roubal. Beze slov jí podal desky — protokol Řehoř, k podpisu supervizora — a beze slov čekal, opřený o parapet, s trpělivostí člověka, kterému patří čas.
 
-Podepsala na parapetu. Levou rukou, hranou dlaně přes čerstvý inkoust; razítková barva se jí otiskla do kůže stříbrošedě — otiskovala se tak čtrnáct let a Tereza si ji večer smývala kartáčkem, který na to měla vyhrazený, protože pořádek se skládá z vyhrazených věcí. Roubal to pozoroval s výrazem vlídné inventury.
+Podepsala na parapetu. Levou rukou, hranou dlaně přes čerstvý inkoust; razítková barva se jí otiskla do kůže stříbrošedě — otiskovala se tak čtrnáct let a Tereza si ji večer smývala kartáčkem, který na to měla vyhrazený, protože pořádek se skládá z vyhrazených věcí. Roubal to pozoroval vlídně a dlouho.
 
 "Levačky by měly fasovat rychleschnoucí barvu," řekl. "Dám to do porady. Myslím to vážně." A pak, stejným tónem: "Karel Mach končí. Od prvního přechází do metodiky. Bude učit mladé číst protokoly a bude v tom výborný. Říkám vám to jako první, Terezo, protože po něm zbývá v terénu díra a vy jste jediná, koho do ní chci. Znamená to víc sond. Rozmyslete se do pondělka."
 
