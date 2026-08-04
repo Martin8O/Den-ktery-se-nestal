@@ -15,7 +15,7 @@ the enforced lists in section 8 are never copied into this file, so extending a
 list in the guide extends the gate.  Section 9's numbers live in THRESHOLDS
 below, quoted from the guide.
 
-Design notes (Czech adaptation of the Unplottable gate):
+Design notes (Czech adaptation of the gate written for an earlier novel project):
   * `status: stub` files are exempt from word bands and prose lints - the gate
     must run green on an unwritten scaffold; front-matter, card-mirror, ledger,
     timeline and scaffold checks still apply to them.  `probe` is exempt from
@@ -31,7 +31,7 @@ Design notes (Czech adaptation of the Unplottable gate):
     Everything is case-insensitive and word-boundary safe; Python's `re` is
     Unicode-aware on str, so \\b and re.I handle Czech diacritics.
   * The English -ly manner-adverb machinery, American-spelling lint and the
-    Muggle-capitalisation check of the reference gate are gone; the adverb
+    English-only capitalisation check of the reference gate are gone; the adverb
     budget is now the report-only `overused-adverbs` list in section 8.
   * The "sites" check became "spisy": spis codes `F-RRRR-MMDD-P` used in the
     manuscript must exist in bible/glossary.md.

@@ -2,6 +2,27 @@
 
 > Professional changelog of progress + decisions. Newest entries on top. Decision index: `docs/adr.md`.
 
+## 2026-08-04 — Published: public GitHub repository, English README, personal data stripped
+
+**Shipped.** The repo went public with a reader-facing English README covering the book, its
+statistics, the three-prompt method, the chain runs, the review panels, the architecture, the
+gate and the build — plus a spoiler warning above the fold, because `bible/` gives away every
+twist in the book it belongs to. `docs/architecture.md` was re-pointed as the working reference
+for people editing the repo, with the README carrying the overview.
+
+**Privacy sweep before the first push.** The author is credited by first name only — cover,
+colophon, EPUB/PDF metadata; the full surname is gone from every built artefact (verified by
+reading the strings back out of the PDF and the EPUB, not by trusting the source). Third-person
+references to the author in `CLAUDE.md` became "the author". `.claude/settings.json` was untracked
+and gitignored: it pointed at hook scripts living outside this repo, so it was both machine-local
+and a leak of an unrelated private directory. The names of unrelated private projects were
+generalised in `docs/adr.md`, `tools/gate.py` and `tools/build.ps1`, whose defaults still carried
+the reference project's title and language — those now default to this book. → ADR-013
+
+**Verification.** Rebuilt all three formats on the new defaults (`powershell tools\build.ps1` with
+no arguments now produces the right book): PDF 178 pages, EPUB creator `Martin`, rights line
+correct, surname absent from both. Gate GREEN.
+
 ## 2026-08-04 — Title · *Nedoložení* → ***Den, který se nestal***
 
 The author rejected the K0 working title as odd-sounding and un-Czech, and he was right —

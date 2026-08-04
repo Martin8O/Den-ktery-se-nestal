@@ -1,8 +1,11 @@
 # Architecture — how this book is built
 
-An original Czech-language science-fiction novel (~57k words ≈ 200 A5 pages), written natively in
-Czech, one verifiable slice at a time. The method externalises the story's structure into checkable
-artefacts so every step is locally correct and the book stays globally consistent.
+An original Czech-language science-fiction novel (53,393 words ≈ 178 A5 pages), written natively
+in Czech, one verifiable slice at a time. The method externalises the story's structure into
+checkable artefacts so every step is locally correct and the book stays globally consistent.
+
+> Reader-facing overview, statistics and method summary: `README.md`. This file is the working
+> reference for anyone (human or agent) editing the repo.
 
 ## Repo layout
 
@@ -21,8 +24,11 @@ artefacts so every step is locally correct and the book stays globally consisten
   check fires; `--assemble` concatenates the book for the build.
 - `tools/build.ps1` — EPUB + MOBI + A5 PDF via pandoc / Calibre / tectonic (`book/` carries
   front/back matter, metadata, cover).
+- `tools/make_cover.py` — the cover, generated from code (Pillow, seeded RNG, no external
+  assets); the title block auto-fits the clear column beside the seam.
 - `docs/` — this file · `adr.md` (decision index).
-- `Local/` — private, gitignored working area (plan, wiki, scratch, session state).
+- `Local/` — private, gitignored working area (plan, wiki, scratch, session state). Not published:
+  it holds the prompt plan, the chain log and throwaway prose probes.
 
 ## The three invariants
 

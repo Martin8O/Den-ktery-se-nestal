@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Unplottable - build EPUB, MOBI and A5 (book-size) PDF from the manuscript.
+    Build EPUB, MOBI and A5 (book-size) PDF from the manuscript.
 
 .DESCRIPTION
     Assembles manuscript/part-*/ into one book-shaped markdown file via
@@ -32,14 +32,16 @@
     powershell tools\build.ps1 -Format epub
     powershell tools\build.ps1 -Check
 #>
+# Defaults below build the Czech book; -Root/-Stem/-Title/-Lang retarget the same
+# pipeline at a translated source tree.
 [CmdletBinding()]
 param(
     [ValidateSet('epub', 'pdf', 'mobi', 'all')][string]$Format = 'all',
     [string]$OutDir = 'build',
-    [string]$Root = '',          # source root holding manuscript/ + book/ (default: repo, English). RU: 'Translation/RU'
-    [string]$Stem = 'unplottable',
-    [string]$Title = 'Unplottable',
-    [string]$Lang = 'en-GB',     # RU: 'ru-RU' (drives pandoc/babel hyphenation)
+    [string]$Root = '',          # source root holding manuscript/ + book/ (default: this repo)
+    [string]$Stem = 'den-ktery-se-nestal',
+    [string]$Title = 'Den, který se nestal',
+    [string]$Lang = 'cs-CZ',     # drives pandoc/babel hyphenation
     [switch]$Check
 )
 
@@ -59,7 +61,7 @@ function Get-Tool([string]$name) {
     if ($cmd) { return $cmd.Source } else { return $null }
 }
 
-Write-Host "== Unplottable build ==" -ForegroundColor Cyan
+Write-Host "== book build ==" -ForegroundColor Cyan
 Write-Host "repo:   $repo"
 
 $python = Get-Tool 'python'

@@ -2,7 +2,7 @@
 
 Původní česky psaný SF román (~57k slov ≈ 200 stran A5), psaný NATIVNĚ ČESKY, jeden ověřitelný
 krok po druhém. **Dělba práce:** veškerá obsahová rozhodnutí (svět, postavy, zvraty, věty) patří
-asistentovi; metoda, rozsah a tempo patří Martinovi. **Žádné obsahové otázky Martinovi; ŽÁDNÉ
+asistentovi; metoda, rozsah a tempo patří autorovi. **Žádné obsahové otázky autorovi; ŽÁDNÉ
 SPOILERY v chatu** — zvraty se v konverzaci označují jen ledger id (T1…T5, P-T*-*).
 
 > `Local/` je soukromá, gitignorovaná pracovní zóna (plán, wiki, scratch, stav sezení).
@@ -13,7 +13,7 @@ SPOILERY v chatu** — zvraty se v konverzaci označují jen ledger id (T1…T5,
 
 ## Co to je
 - Premisa/struktura/zvraty: `bible/plot-architecture.md` (SPOILERY) · rozhodnutí: `docs/adr.md`.
-- Plán: `Local/all prompts.md` (3 Martinovy prompty: K0 příprava · P1 psaní · P2 redakce+sazba;
+- Plán: `Local/all prompts.md` (3 autorské prompty: K0 příprava · P1 psaní · P2 redakce+sazba;
   uvnitř řetězy dle `Local/chain-W.md`) · standard promptů: `Local/Prompts requirements.md`.
 
 ## Tvrdé zásady
@@ -23,7 +23,7 @@ SPOILERY v chatu** — zvraty se v konverzaci označují jen ledger id (T1…T5,
 - **Ledger disciplína:** zvraty/planty/payoffy jen přes `bible/foreshadowing-ledger.md`;
   front-matter `plants:`/`payoffs:` v synchronu (gate kontroluje); po S3 změny jen na WPn.
 - **Jazyk:** próza i bible ČESKY (nativně, nikdy přes angličtinu); kód/identifikátory/commity
-  anglicky; chat s Martinem prostou češtinou bez žargonu.
+  anglicky; chat s autorem prostou češtinou bez žargonu.
 - **Tvrdé příběhové zábrany (ADR-001):** nikdo necestuje časem (jen informace, Z7) · žádní
   mimozemšťané/stvořitelé · vyprávění nelže (klam jen rámem) · Zapisovatelka nikdy nelže ·
   násilí dle style-guide §3 (18+, bez sexuálního násilí, bez násilí na dětech na stránce) ·

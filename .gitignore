@@ -9,3 +9,6 @@ secrets/
 
 # Machine-specific build settings (tectonic paths) — never committed
 tools/local.ps1
+
+# Machine-local Claude Code hooks (paths outside this repo)
+.claude/settings.json
