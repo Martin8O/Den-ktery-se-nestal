@@ -7,7 +7,7 @@
 
 ## 0. Premise lock (ADR-001 po schválení)
 
-- **Titul (pracovní):** *Nedoložení*
+- **Titul (finální, P2):** *Den, který se nestal* (dříve pracovně *Nedoložení*)
 - **Logline:** Verifikátorka minulosti, která profesně dokazuje, že vzpomínky lžou, objeví šev ve
   vlastní paměti: utonutí její dcery je padělek. Jenže ve světě, kde pozorování minulost zapisuje,
   se doložená smrt nedá odestát — leda by z dějin vymazala to jediné, co ji drží: sebe samu jako

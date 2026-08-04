@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Cover for 'Nedoložení' — paper with a single red stitch seam (E4).
+"""Cover for 'Den, který se nestal' — paper with a single red stitch seam (E4).
 
 1600x2560 px (1:1.6, Kindle-friendly). Aged-paper field, faint file-stamp
 ring, a torn seam running down the page held by red thread stitches, title
@@ -134,25 +134,41 @@ def font(path, size):
     return ImageFont.truetype(path, size)
 
 try:
-    f_title = font("C:/Windows/Fonts/pala.ttf", 208)
-    f_author = font("C:/Windows/Fonts/pala.ttf", 66)
+    TITLE_FACE = "C:/Windows/Fonts/pala.ttf"
+    f_author = font(TITLE_FACE, 66)
     f_sub = font("C:/Windows/Fonts/palai.ttf", 56)
 except OSError:
-    f_title = font("C:/Windows/Fonts/georgia.ttf", 208)
-    f_author = font("C:/Windows/Fonts/georgia.ttf", 66)
+    TITLE_FACE = "C:/Windows/Fonts/georgia.ttf"
+    f_author = font(TITLE_FACE, 66)
     f_sub = font("C:/Windows/Fonts/georgiai.ttf", 56)
 
-# title, two lines to sit left of/over the seam
+# Title sits left of the seam; the seam wanders to x >= 0.56*W, so the text
+# block is fitted into the clear column rather than set at a fixed size.
+TITLE_LINES = ["DEN,", "KTERÝ", "SE NESTAL"]
 tx0 = 150
-ty0 = 950
-d.text((tx0 + 4, ty0 + 6), "NEDO-", font=f_title, fill=(0, 0, 0, 60))
-d.text((tx0, ty0), "NEDO-", font=f_title, fill=INK)
-d.text((tx0 + 4, ty0 + 216), "LOŽENÍ", font=f_title, fill=(0, 0, 0, 60))
-d.text((tx0, ty0 + 210), "LOŽENÍ", font=f_title, fill=INK)
+MAXW = 700
+
+title_size = 210
+while title_size > 48:
+    f_try = font(TITLE_FACE, title_size)
+    widest = max(f_try.getbbox(t)[2] - f_try.getbbox(t)[0] for t in TITLE_LINES)
+    if widest <= MAXW:
+        break
+    title_size -= 2
+f_title = font(TITLE_FACE, title_size)
+lead = int(title_size * 1.14)
+
+ty0 = 900
+y = ty0
+for line in TITLE_LINES:
+    d.text((tx0 + 4, y + 6), line, font=f_title, fill=(0, 0, 0, 60))
+    d.text((tx0, y), line, font=f_title, fill=INK)
+    y += lead
 
 # thin rule + subtitle line
-d.line([(tx0 + 6, ty0 + 490), (tx0 + 560, ty0 + 490)], fill=INK_SOFT, width=4)
-d.text((tx0 + 6, ty0 + 530), "román", font=f_sub, fill=INK_SOFT)
+rule_y = y + 60
+d.line([(tx0 + 6, rule_y), (tx0 + 460, rule_y)], fill=INK_SOFT, width=4)
+d.text((tx0 + 6, rule_y + 40), "román", font=f_sub, fill=INK_SOFT)
 
 # author, bottom left
 d.text((tx0 + 6, H - 260), "Martin", font=f_author, fill=INK)

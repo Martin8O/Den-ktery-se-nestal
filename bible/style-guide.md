@@ -1,4 +1,4 @@
-# Style guide — závazná pravidla prózy (Nedoložení)
+# Style guide — závazná pravidla prózy (Den, který se nestal)
 
 > Návrh S4 (2026-08-03). **Řídí veškerou W-fázovou prózu.** Gate konzumuje strojově čitelné
 > seznamy v §8 a prahy v §9 (parsuje je za běhu — rozšíření seznamu = rozšíření kontroly bez

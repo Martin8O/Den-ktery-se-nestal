@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Nedoložení - the quality gate (S5).
+"""Den, který se nestal - the quality gate (S5).
 
 One command, standard library only:
 
@@ -975,7 +975,7 @@ def assemble(repo: Repo, out: Path) -> int:
 
     part_label = cfg.get("part_label", "Část")
     inter_label = cfg.get("interlude_label", "Fixace")
-    lines = ["---", f"title: {cfg.get('title', 'Nedoložení')}",
+    lines = ["---", f"title: {cfg.get('title', 'Den, který se nestal')}",
              f"lang: {cfg.get('lang', 'cs-CZ')}", "---", ""]
     current_part = None
     for ch in sorted(chapters, key=sort_key):
@@ -1113,7 +1113,7 @@ def selftest(repo: Repo) -> int:
 # --------------------------------------------------------------------------
 
 def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(description="Nedoložení quality gate")
+    ap = argparse.ArgumentParser(description="Den, který se nestal quality gate")
     ap.add_argument("paths", nargs="*", type=Path,
                     help="check only these manuscript files")
     ap.add_argument("--cards", action="store_true",

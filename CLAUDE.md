@@ -1,4 +1,4 @@
-# CLAUDE.md — *Nedoložení* (D:\Projekty\Scifi)
+# CLAUDE.md — *Den, který se nestal* (D:\Projekty\Scifi)
 
 Původní česky psaný SF román (~57k slov ≈ 200 stran A5), psaný NATIVNĚ ČESKY, jeden ověřitelný
 krok po druhém. **Dělba práce:** veškerá obsahová rozhodnutí (svět, postavy, zvraty, věty) patří

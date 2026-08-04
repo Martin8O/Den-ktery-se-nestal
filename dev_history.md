@@ -1,6 +1,22 @@
-# dev_history — *Nedoložení*
+# dev_history — *Den, který se nestal*
 
 > Professional changelog of progress + decisions. Newest entries on top. Decision index: `docs/adr.md`.
+
+## 2026-08-04 — Title · *Nedoložení* → ***Den, který se nestal***
+
+The author rejected the K0 working title as odd-sounding and un-Czech, and he was right —
+`nedoložení` is a real word but lives only in officialese, so as a title it reads as a fragment
+of a form. My first counter-proposal (a one-letter change to *Nedoložená*) was a bad answer to a
+fair complaint; the second attempt offered four titles across genuinely different registers and
+the author chose the most readable. Propagated everywhere the live title appears — assemble
+config, EPUB/PDF metadata, colophon, cover, build stem, README, CLAUDE.md, style guide, plot
+architecture, gate — while ADR-001 and the K0 entry below keep the working title as the record of
+what was decided then. The cover generator now auto-fits the title block into the clear column
+left of the seam, so a future title change costs nothing in layout. Rebuilt and re-verified: PDF
+178 pages with the new title on the title page and no trace of the old one, EPUB metadata and
+cover correct. Lesson: a "working title" that survives to the last prompt stops being provisional
+without anyone deciding it should — re-open it explicitly before typesetting, not after.
+→ ADR-012
 
 ## 2026-08-04 — P2 · Edited and typeset: EPUB + MOBI + 178-page A5 PDF, gate green
 
