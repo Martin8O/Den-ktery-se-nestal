@@ -7,7 +7,7 @@ date_in_story: 1978
 target_words: 900
 plants: [P-T1-3]
 payoffs: []
-status: draft
+status: revised
 ---
 
 Papír jsem koupila včera.

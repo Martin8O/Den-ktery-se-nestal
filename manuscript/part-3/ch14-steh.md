@@ -7,7 +7,7 @@ date_in_story: 2031-11-13
 target_words: 3700
 plants: []
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Kniha provozu sálu II, čt 13. 11. 2031** · 21:02 konec denního programu · 22:31 servisní režim
@@ -83,7 +83,7 @@ Brána: PRŮCHOD.
 
 * * *
 
-Nebyl blesk. Nebylo světlo. Prstenec se točil dál, tah zesílil do hloubky, kterou cítila za hrudní kostí, a na pultu, kde ležela její kopie osvědčení o úmrtí, se nic nedělo — papír je papír, doběh jde po síti, ne po listech. A přesto, když ji ve 23:40 zvedla a četla, četla už jiný dokument; ne proto, že se změnil papír. Proto, že se změnilo, co drží.
+Nebyl blesk. Nebylo světlo. Prstenec se točil dál, tah zesílil do hloubky, kterou cítila za hrudní kostí — kamsi dolů, k vrstvám, do posledního měkkého — a na pultu, kde ležela její kopie osvědčení o úmrtí, se nic nedělo — papír je papír, doběh jde po síti, ne po listech. A přesto, když ji ve 23:40 zvedla a četla, četla už jiný dokument; ne proto, že se změnil papír. Proto, že se změnilo, co drží.
 
 > **Osvědčení o úmrtí č. 2025/07-1442, kopie.** Subjekt: Ema Wagnerová, nar. 5. 6. 2019, dcera Terezy Wagnerové. Příčina: utonutí. — *Četla ta slova šest let jako rozsudek. Teď v nich stálo totéž a nedržela je žádná síť: dítě toho jména se nenarodilo, matka toho jména nebyla matkou. Papír s razítkem, který mluví o nikom.*
 
@@ -103,7 +103,7 @@ Tady to bylo, to místo, před kterým ji varoval vlastní plán: nesmíš zapom
 
 Ema. Voda. Ne.
 
-Došila. Úkon po úkonu, deset úkonů, rukama, které si pamatovaly pořadí, i když hlava zapomínala důvody. Mezi sedmým a osmým úkonem jí zmizelo, kde zaparkovala myšlenku, kterou nesla celý večer, a ruce jely dál; mezi devátým a desátým si nemohla vzpomenout, jak se jmenuje ta mince v její kapse, ta okrouhlá, ta s ročníkem — a ruce jely dál, protože ruce nepotřebují substantiva. Ve 23:52 sekvence potvrdila uzavření. Prstenec se dotáčel, dlouze, jako se dotáčí setrvačník, kterému nikdo neporoučí, a Tereza seděla s tou nepojmenovanou kulatou věcí v dlani a věděla o ní jediné, to hlavní: unese ji jedna ruka.
+Došila. Úkon po úkonu, deset úkonů, rukama, které si pamatovaly pořadí, i když hlava zapomínala důvody. Mezi sedmým a osmým úkonem jí zmizelo, kde zaparkovala myšlenku, kterou nesla celý večer, a ruce jely dál; mezi devátým a desátým si nemohla vzpomenout, jak se jmenuje ta mince v její kapse, ta okrouhlá, ta s ročníkem — a ruce jely dál, protože ruce nepotřebují substantiva. Ve 23:52 sekvence potvrdila uzavření. Prstenec se dotáčel, dlouze, a Tereza seděla s tou nepojmenovanou kulatou věcí v dlani a věděla o ní jediné, to hlavní: unese ji jedna ruka.
 
 A ve dveřích sálu stál Roubal.
 

@@ -7,7 +7,7 @@ date_in_story: 2031-10-30
 target_words: 3700
 plants: []
 payoffs: [P-T3-1, P-T3-2, P-T3-3]
-status: draft
+status: revised
 ---
 
 > **Registr, kniha vstupů, čt 30. 10. 2031** · 07:52 Boháčová M. · 08:16 Wagnerová T.
@@ -19,7 +19,7 @@ Ráno se oblékla jako každý čtvrtek, snědla snídani, kterou necítila, a v
 
 Čtvrteční patro bylo jiný organismus. Chodbou procházeli lidé, které v budově nikdy neviděla — dva technici v šedém, žena s deskami, mladý muž, který tlačil vozík s termoskami, jako by se tu chystala oslava; dveře sálu II byly dokořán a šla z nich zima a ozon a světlo jiné barvy, než mají zářivky. Tak takhle vypadá čtvrtek, řekla si, když procházela kolem; čtrnáct let pod ním žila jako pod počasím a on byl celou dobu tohle — směna, termosky, rozpisy, pár desítek lidí v šedém, kteří po práci jedou domů tramvají. Nikdo se na nikoho nedíval. Čtvrtek měl vlastní etiketu: každý viděl jen svou trasu. Tereza šla po té své — registr, stůl, žádanka číslo čtyřicet čtyři, spis řady R — a byla to nejlepší role jejího života, protože v ní nebylo nic hraného kromě jádra.
 
-Paní Boháčová měla čtvrteční provoz v rukou jako dirigent: v osm třicet naložila první vozík, podklady podle rozpisu, a odvezla ho do přípravny; v devět dvacet druhý, do sálu; mezi tím seděla za pultem a pletla a její jehlice odměřovaly registr spolehlivěji než hodiny na zdi. Tereza pracovala. Četla podklady, dělala poznámky, odevzdávala je — a měřila. Cesta do přípravny: čtyři minuty tam i zpět, pokud se Boháčová nezastavila na řeč s techniky. Cesta do sálu: sedm až devět minut, protože u sálu se podklady předávaly proti podpisu. Kamera: na pult. Skříně řady F: východní stěna, zásuvky po ročnících, rok 2025 třetí odspodu. Zámky na skříních se přes den nezamykaly — režim stál na žádankách, na podpisech a na paní Boháčové, protože papír a zvyk jsou v téhle zemi pevnější než ocel.
+Paní Boháčová měla čtvrteční provoz v rukou jako dirigent: v osm třicet naložila první vozík, podklady podle rozpisu, a odvezla ho do přípravny; v devět dvacet druhý, do sálu; mezi tím seděla za pultem a pletla a její jehlice odměřovaly registr spolehlivěji než hodiny na zdi. Tereza pracovala. Četla podklady, dělala poznámky, odevzdávala je — a měřila. Cesta do přípravny: čtyři minuty tam i zpět, pokud se Boháčová nezastavila na řeč s techniky. Cesta do sálu: sedm až devět minut, protože u sálu se podklady předávaly proti podpisu. Kamera: na pult. Skříně řady F: východní stěna, zásuvky po ročnících, rok 2025 třetí odspodu. Zámky na skříních se přes den nezamykaly — režim stál na žádankách, na podpisech a na paní Boháčové.
 
 V devět dvacet, když Boháčová odvážela druhý vozík, Tereza málem vstala. Svaly už měla rozhodnuté; zastavila je poslední kontrolní myšlenka — cesta k sálu s předáním proti podpisu trvá sedm až devět minut, ale dnes byl u sálu provoz a technici a fronta na podpis mohla být kratší, mohla být delší, nedalo se to měřit. Zůstala sedět a dvě minuty poté se Boháčová vrátila zkratkou, dřív, s prázdným vozíkem, a Tereza seděla nad svou řadou R s tužkou v ruce a děkovala svalům, že mají pomalejší velení. Jednou. Měla jediný pokus a pokus se nedal utratit za skoro.
 
@@ -45,7 +45,7 @@ U tří osob. Tereza stála nad tím údajem a verifikátorka v ní pracovala pr
 
 Četla ten odstavec dvakrát a věděla, že ho bude číst do konce života. Uzavření subjektu vyhodnoceno jako neproveditelné. Nezabili jí dceru. Zvažovali to — slovem vyhodnoceno — a nevyšlo jim to v tabulce, protože Ema byla moc vidět: dcera zaměstnankyně, očkovací průkaz, třídní kniha. Doložitelnost, která ji měla chránit. Chránila ji. Přesně do výše položky, pod kterou začínal postup kombinovaný.
 
-> Postup kombinovaný: a) přemístění subjektu dle protokolu o změně evidence (samostatná složka, stupeň I-a; zde nepřipojeno); b) zápis události „utonutí" do intervalu 14. 7. 2025, 15:20–16:05, vodní nádrž Orlík (interval bezsvědečný, ověřeno sondáží; přítomnost matky mimo výhled — viz situační náčrt). Tělo: nezapisuje se, v souladu s předpokládanou absencí nálezu. Zápis proveden 17. 7. 2025, okno řádné, brána: průchod na první předložení. Doběh: standardní, ukončen 21. 7. 2025.
+> Postup kombinovaný: a) přemístění subjektu dle protokolu o změně evidence (samostatná složka, stupeň I-a; zde nepřipojeno); b) zápis události "utonutí" do intervalu 14. 7. 2025, 15:20–16:05, vodní nádrž Orlík (interval bezsvědečný, ověřeno sondáží; přítomnost matky mimo výhled — viz situační náčrt). Tělo: nezapisuje se, v souladu s předpokládanou absencí nálezu. Zápis proveden 17. 7. 2025, okno řádné, brána: průchod na první předložení. Doběh: standardní, ukončen 21. 7. 2025.
 
 Stála u vysunuté zásuvky, prsty na papíře, a četla úřední popis toho, jak jí vzali dítě.
 
@@ -105,7 +105,7 @@ A šel.
 
 * * *
 
-Zbytek čtvrtka odpracovala. Do poslední žádanky, do posledního podpisu; odevzdala poznámky, popřála Boháčové hezký večer, sešla po schodech, vrátila kartu do kapsy. Bylo to snad nejtěžší odpoledne jejího života a zároveň nejjednodušší: tělo dělalo práci, kterou umělo, a to druhé v ní, to, co od desíti nula dvou stálo bez hnutí nad pěti listy, počkalo. Naučila se to u rakve s věncem, u telefonu, který nezazvonil, u tisíce cizích spisů: velké věci počkají. Velké věci mají čas, to jen malé spěchají. Budova ji vypustila do soumraku jako každý den, vrátnice, pozdrav, ulice — a teprve na ulici, mezi cizími lidmi, si dovolila jít o zlomek pomaleji a nechat to všechno dosednout.
+Zbytek čtvrtka odpracovala. Do poslední žádanky, do posledního podpisu; odevzdala poznámky, popřála Boháčové hezký večer, sešla po schodech, vrátila kartu do kapsy. Bylo to snad nejtěžší odpoledne jejího života a zároveň nejjednodušší: tělo dělalo práci, kterou umělo, a to druhé v ní, to, co od desíti nula dvou stálo bez hnutí nad pěti listy, počkalo. Naučila se to u rakve s věncem, u telefonu, který nezazvonil, u tisíce cizích spisů: velké věci počkají. Budova ji vypustila do soumraku jako každý den, vrátnice, pozdrav, ulice — a teprve na ulici, mezi cizími lidmi, si dovolila jít o zlomek pomaleji a nechat to všechno dosednout.
 
 Doma nerozsvítila. Napřed dlouho stála v předsíni, v plášti, zády ke dveřím, a nechala tělo, ať si dodělá, co celý den odkládalo: třas přišel a odešel, tiše, věcně, za tři minuty, bez jediné slzy, protože slzy potřebují svědka a tady žádný nebyl. Pak pověsila plášť, sedla si ke stolu s korunou v prstech a skládala si to nahlas, bezhlasně, po číslech, protože čísla unesou i to, co věty neunesou.
 

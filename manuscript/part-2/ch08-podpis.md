@@ -7,7 +7,7 @@ date_in_story: 2031-10-21
 target_words: 3600
 plants: []
 payoffs: [P-T2-1, P-T2-2, P-T2-3]
-status: draft
+status: revised
 ---
 
 > **Oběžník OB-2028/019** · rámcové zajištění terénních dokumentačních služeb · interní
@@ -19,9 +19,13 @@ Seděla u stolu u okna, před sebou čistý list — psát se smělo, pálit um�
 
 Kotva první: čtvrtky. Pět set dvanáct posledních pamětníků, úmrtí dvakrát nad očekáváním ve čtvrtek, p hluboko pod tisícinou. Čtvrtek není den v týdnu jako jiné dny; čtvrtek je provozní rytmus. A ona znala v celé zemi jedinou instituci, která žila čtvrtečním rytmem tak, že ho bylo vidět na panelu výtahu: zavřené čtvrté patro, ozon v chodbách, síť, co třikrát za dopoledne klekne. Ať se ve čtvrtém patře dělalo cokoli, dělalo se to ve čtvrtek — a ve čtvrtek umírali svědci. Dvě řady čísel se stejným tepem. V jejím oboru se tomu říkalo korelace provozu, a korelace provozu se nesoudí, ale taky se nepřehlíží.
 
-Kotva druhá: Zárubův sklep. Loni v zimě shořel celý sklep — a rok nato zemřel muž, jehož paměť zůstala poslední. Hruškovi odvezli deníky a mapy před smrtí, ne po ní. Vzor byl vždy týž a vždy ve stejném pořadí: nejdřív papíry, potom lidé. To pořadí nebylo krutost, to pořadí byla metodika — kdo uklízí papíry dřív než lidi, potřebuje vědět, co je kotva, jak se sčítá síť a kdy fakt změkne. Tohle nevěděli vrazi. Tohle věděl její obor. Venku, mimo budovu, neexistovala profese, která by uměla spočítat, že recept v peněžence je nula a svědectví z druhé ruky taky — a právě takhle se tady počítalo.
+Dopsala řádek a chvíli poslouchala dům: trubky, lednička, nic. Pak psala dál.
 
-Kotva třetí: řemeslo. Úřední obálka s pravým razítkem. Ohlášení předem, protože ohlášenému úředníkovi se otvírá. Služební chůze, kterou sousedka pojmenovala dřív než cokoli jiného. Vozy z resortních aukcí s prázdnými držáky po majácích. Nikdo se neskrýval, protože úřední vzhled je v téhle zemi neprůstřelný — a úřední vzhled se nedá koupit v železářství jako oranžová vesta. Ten se fasuje. Do toho se člověk musí narodit služebně.
+Kotva druhá: pořadí. Zárubovi shořel sklep rok předtím, než zemřel; Hruškovi odvezli deníky před smrtí, ne po ní. Nejdřív papíry, potom lidé — a to pořadí nebyla krutost, to byla metodika. Kdo uklízí papíry dřív než lidi, umí spočítat, že recept v peněžence je nula a svědectví z druhé ruky taky. Takhle se počítalo jen v jednom oboru. V jejím.
+
+Namočila si zápěstí pod studenou vodu, jak se drží bdělost, a vrátila se k listu.
+
+Kotva třetí: řemeslo. Úřední obálka s pravým razítkem; ohlášení předem, protože ohlášenému úředníkovi se otvírá; vozy z resortních aukcí s prázdnými držáky po majácích. Nikdo se neskrýval, protože úřední vzhled je v téhle zemi neprůstřelný — a ten se nedá koupit v železářství jako oranžová vesta. Ten se fasuje.
 
 Zkoušela to vyvrátit. Celou noc, poctivě, jako se vyvracejí cizí nálezy. Hypotéza: cizí služba. Padla na čtvrtcích — cizí služba by nepracovala v rytmu českého úředního týdne a nefasovala by vozy z resortních aukcí. Hypotéza: soukromá struktura, dědické podvody ve velkém. Padla na výběru obětí — Záruba ani Hruška neměli majetek, který by stál za benzin; umírali lidé, jejichž jediné bohatství byla paměť. Hypotéza: náhoda, apofenie, truchlící mozek skládající vzory. Ta byla nejodolnější, ta se držela do třech do rána — a padla na spisu V-2031-0387, protože náhoda neumí přepsat výrok se zachovanou podpisovou doložkou a čistou kartou pohybů. Náhodě chybí přístup. Všechno, co viděla, mělo přístup.
 
@@ -45,7 +49,7 @@ Když protokol došel, nezvedla se. Mach si sundal brýle, vyčistil je kapesní
 
 Dveře za ním zapadly tiše, metodicky.
 
-Hledala hodinu a čtvrt a byla to nejpodivnější hodina jejího života: listovala nudou. Oběžník o parkování ve dvoře. Pokyn k jednotné úpravě podpisových doložek. Zrušení oběžníku, kterým se rušil oběžník. Vrstvy provozní šedi, rok za rokem, a někde mezi nimi, zasunutá stejně nedbale jako pokyn o parkování, musela ležet věta, kterou se platí za třináct křížků na mapě — protože takhle stát pracuje: nemá trezory na zlo, má šanony, a zlo v nich leží založené mezi parkováním a razítky, spolehlivěji ukryté, než by je ukryl kterýkoli trezor světa.
+Hledala hodinu a čtvrt a byla to nejpodivnější hodina jejího života: listovala nudou. Oběžník o parkování ve dvoře. Pokyn k jednotné úpravě podpisových doložek. Zrušení oběžníku, kterým se rušil oběžník. Vrstvy provozní šedi, rok za rokem, a někde mezi nimi, zasunutá stejně nedbale jako pokyn o parkování, musela ležet věta, kterou se platí za třináct křížků na mapě — protože takhle stát pracuje: nemá trezory na zlo, má šanony.
 
 Našla to ve třetí složce odspodu, mezi oběžníkem o spisové rozluce a pokynem k výměně razítkových barev: čtyři listy sešité v rohu, hlavička sekretariátu, rok dva tisíce dvacet osm.
 
@@ -109,7 +113,15 @@ Položila tu otázku klidně, protože si ji připravila; byla to nejdůležitě
 
 "Bude spravedlivá."
 
-"Bude ve válce." Halina to řekla skoro něžně. "Napořád. Tvrdý fakt je zbraň, která se nikdy neopotřebuje, paní Wagnerová. Každá doložená křivda je věčná munice: dá se vytáhnout za sto let, za dvě stě, pokaždé znovu nabitá. Vy jste to viděla v malém tisíckrát — dvě rodiny, jeden doložený plot, tři generace nenávisti; to je vaše denní agenda. Teď to zvětšte na národy. Vezměte si kterékoli pohraničí v téhle části světa a spočítejte, kolik generací tam po sobě vraždilo s doloženými seznamy křivd v ruce — seznamy byly vždycky první výzbroj, dřív než pušky. A pak si všimněte, kde se zabíjet přestalo: tam, kde záznamy shořely, svědci vymřeli a vnukům zbyla jen mlha a z mlhy se nedá střílet. Mír, paní Wagnerová, historicky vzato, není dílo smíření. Je to dílo eroze. My jsme eroze, která přišla do práce včas. Dějiny, které nemohou změknout, jsou dějiny, ve kterých se nedá odpustit, protože odpuštění — podívejte se do toho slova — je dohoda o změkčení. My ji jen provádíme technicky. Měkká minulost znamená mír. Někdo musí zahradničit zapomínání, jinak se svět udusí vlastní pamětí."
+"Bude ve válce." Halina to řekla skoro něžně. "Napořád. Tvrdý fakt je zbraň, která se nikdy neopotřebuje, paní Wagnerová. Každá doložená křivda je věčná munice: dá se vytáhnout za sto let, za dvě stě, pokaždé znovu nabitá. Vy jste to viděla v malém tisíckrát — dvě rodiny, jeden doložený plot, tři generace nenávisti; to je vaše denní agenda."
+
+Kolem prošla servírka s tácem, cinkla lžička; kavárna žila dál, plná lidí, kteří o tomhle rozhovoru neměli vědět nic. Tereza mlčela.
+
+"Teď to zvětšte na národy. Vezměte si kterékoli pohraničí v téhle části světa a spočítejte, kolik generací tam po sobě vraždilo s doloženými seznamy křivd v ruce — seznamy byly vždycky první výzbroj, dřív než pušky. A pak si všimněte, kde se zabíjet přestalo: tam, kde záznamy shořely, svědci vymřeli a vnukům zbyla jen mlha. Z mlhy se nedá střílet."
+
+Káva před Terezou chladla; nechala ji.
+
+"Mír, paní Wagnerová, historicky vzato, není dílo smíření. Je to dílo eroze. My jsme eroze, která přišla do práce včas. Dějiny, které nemohou změknout, jsou dějiny, ve kterých se nedá odpustit — odpuštění, podívejte se do toho slova, je dohoda o změkčení; my ji jen provádíme technicky. Měkká minulost znamená mír. Někdo musí zahradničit zapomínání, jinak se svět udusí vlastní pamětí."
 
 "Zahradničit." Tereza se nedotkla kávy. "Viděla jsem vaše zahradničení zblízka. Křeslo u kamen. Košile zapnutá ke krku, protože se oblékl pro úřad. Kávu vám uvařil."
 
@@ -123,7 +135,7 @@ Bylo to dobré. To bylo na tom to strašné — bylo to opravdu dobré, promyšl
 
 "Máte v tom počtu chybu," řekla.
 
-"Najděte ji." Halina to řekla okamžitě, bez ironie, a poprvé za celou dobu se v té kalibrované tváři něco pohnulo — zájem. "Myslím to vážně. Já nejsem věřící, paní Wagnerová, já jsem počtářka. Jestli v naší rovnici najdete chybu — skutečnou, doložitelnou, ne slzu — přineste mi ji a já změním stranu dřív, než ji dopočítáte nahlas. Tím se lišíme od vrahů: vrah u svého činu zůstane, i když mu vyvrátíte důvod." Položila na stůl přesnou hotovost za oba nápoje, bankovky srovnané lícem. "Do té doby vám radím, co bych radila sestře: přestaňte. Ne kvůli nám. Vy máte v domě zastánce, o jakém nemáte tušení, a zastánci se opotřebovávají. A přestaňte hlavně proto, že jste poslední, kdo z toho všeho ještě může odejít živý a celý. Jonáš nemohl. Vy zatím ano."
+"Najděte ji." Halina to řekla hned, bez ironie, a poprvé za celou dobu se v té kalibrované tváři něco pohnulo — pobavení, tenké jako čárka v účtu. "Myslím to vážně, i když vím, jak to dopadne: hledali ji přede mnou lidé s lepším aparátem, než máte vy, a všichni nakonec podepsali. Já nejsem věřící, paní Wagnerová, já jsem počtářka. Jestli v naší rovnici najdete chybu — skutečnou, doložitelnou, ne slzu — přineste mi ji a já změním stranu dřív, než ji dopočítáte nahlas. Tím se lišíme od vrahů: vrah u svého činu zůstane, i když mu vyvrátíte důvod." Položila na stůl přesnou hotovost za oba nápoje, bankovky srovnané lícem. "Do té doby vám radím, co bych radila sestře: přestaňte. Ne kvůli nám. Vy máte v domě zastánce, o jakém nemáte tušení, a zastánci se opotřebovávají. A přestaňte hlavně proto, že jste poslední, kdo z toho všeho ještě může odejít živý a celý. Jonáš nemohl. Vy zatím ano."
 
 Vstala, urovnala židli, a teprve pak, už v plášti, se na Terezu podívala naposled, a v tom pohledu bylo cosi, co Tereza nedokázala pojmenovat jinak než profesionální lítost — soucit člověka, který umí číst budoucnost z účetnictví.
 

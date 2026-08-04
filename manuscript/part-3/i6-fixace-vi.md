@@ -7,7 +7,7 @@ date_in_story: 2026
 target_words: 900
 plants: []
 payoffs: []
-status: draft
+status: revised
 ---
 
 Tenhle steh jsem si nechávala na konec a šetřila jsem si na něj celé roky, jako se šetří na dárek, o kterém člověk ví dřív, než zná obchod.

@@ -7,7 +7,7 @@ date_in_story: 2031-09-25
 target_words: 3300
 plants: []
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Spis V-2031-0387** · avízo matriky: úmrtí účastníka řízení · doručeno čt 25. 9. 2031, 09:41

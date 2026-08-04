@@ -7,7 +7,7 @@ date_in_story: 2019
 target_words: 800
 plants: [P-T4-2]
 payoffs: []
-status: draft
+status: revised
 ---
 
 Za oknem kvete šeřík. Kvete každý rok a každý rok mě to překvapí, protože přes zimu na něj zapomenu; je nenápadný jako všechno, co se opakuje. Otevírám okno, aby vůně mohla dovnitř, a chvíli jen tak stojím a dýchám. I tohle patří k řemeslu, ačkoli to žádný postup nepředepisuje: připomenout si před prací, jak voní svět, do kterého se bude šít.

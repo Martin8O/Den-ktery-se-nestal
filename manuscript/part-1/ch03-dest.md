@@ -7,7 +7,7 @@ date_in_story: 2031-09-22
 target_words: 3300
 plants: [P-T2-1, P-T3-2]
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Provozní záznam K-2031-224** · kalibrační sonda hlavice · operátor: Wagnerová, T.
@@ -89,7 +89,7 @@ Rozložila ho na stole v kanceláři, pod lampou, a četla ho poprvé v životě
 
 Posudek o příčině smrti měl jednu stranu. Jednu. Utonutí šestiletého dítěte bez těla — a soudní lékař to uzavřel na jedné straně, bez ohledání, protože nebylo co ohledávat, s formulací mechanismus úmrtí odpovídá; odpovídá čemu, ptala se teď rozborem, když nebylo tělo, které by odpovídalo nebo neodpovídalo. Podpis: doktor, kterého neznala, razítko okresu, kde se nikdy nesoudilo. Tenký posudek. U cizího spisu by to slovo napsala na okraj tužkou: tenké.
 
-Zpráva o pátrání měla stran devatenáct a byla důkladná; důkladnost tady nechyběla, tady chyběl výsledek. Tři týdny, potápěči, sonar, snížená hladina o dva metry kvůli souběžné opravě hráze — spis to uváděl s pečlivostí, která se tehdy, před šesti lety, četla na útěchu: udělalo se všechno. Teď se týž seznam četl obráceně. Udělalo se všechno a voda nevydala nic. Orlík vydával utonulé do týdne, do dvou; byla na to smutná domácí statistika vodní záchranné služby, citovaná hned v úvodu zprávy, snad aby si pátrači dodali naděje. Šest let jí říkali, že výjimky existují. Existovaly. Jenže výjimka je slovo, kterým se zavírá spis, a anomálie je slovo, kterým se otevírá — a rozdíl mezi nimi je jen v tom, kdo čte.
+Zpráva o pátrání měla stran devatenáct a byla důkladná; důkladnost tady nechyběla, tady chyběl výsledek. Tři týdny, potápěči, sonar, snížená hladina o dva metry kvůli souběžné opravě hráze — spis to uváděl s pečlivostí, která se tehdy, před šesti lety, četla na útěchu: udělalo se všechno. Teď se týž seznam četl obráceně. Udělalo se všechno a voda nevydala nic. Orlík vydával utonulé do týdne, do dvou; byla na to smutná domácí statistika vodní záchranné služby, citovaná hned v úvodu zprávy, snad aby si pátrači dodali naděje. Šest let jí říkali, že výjimky existují. Existovaly. Jenže výjimka je slovo, kterým se zavírá spis, a anomálie je slovo, kterým se otevírá.
 
 Svědci. Bartoňovi, manželé z kempu, viděli Emu naposledy u vody ve tři čtvrtě na tři. Pak viděli — nic. Nikdo neviděl nic. Zpráva o pátrání to psala černě na bílém, úředně, bez zájmu o to, co píše: v úseku 15:20–16:05 se na pláži nenacházel žádný svědek s výhledem na hladinu; matka četla ve stínu borovic, cca 20 m od vody. Pětačtyřicet minut odpoledne na veřejné pláži u přehrady, v sezoně, za jasného dne — a v tom okně nikdo, ani jeden pár očí, jediné dítě u vody a hladina bez dozoru přesně tak dlouho, jak bylo potřeba. U cizího spisu by se zeptala, čím to, že se svět na tři čtvrtě hodiny tak ochotně vyklidil.
 
@@ -109,11 +109,19 @@ Na okraj spisu, tužkou, kterou pak pečlivě vygumovala, si napsala tři slova:
 
 "Ty máš úmrtnost za koníček odjakživa."
 
-"Za koníček mám demografii. Úmrtnost mám nově. Vydrž, ono to je vtipné." Odsunul tác a rozložil na stůl papír přeložený načtvero, potištěný drobnou tabulkou. "Pamatuješ, jak jsem dělal pro archiv tu revizi kotevních sítí? Napadlo mě spočítat si takovou hloupost: lidi, kterým říkám poslední pamětníci. Žijící jediná kotva. Někdo, kdo je poslední na světě, kdo pamatuje nějaký fakt — poslední svědek svatby, poslední žák zbořené školy, poslední nájemník domu, co už nestojí. Archiv je umí vyjmenovat, to je celkem snadný dotaz, drží se to u revizí restitucí. Máme jich v evidenci pár tisíc živých, průběžně to ubývá a přibývá. Jsou to úžasné osudy, mimochodem. Poslední člověk, který pamatuje, jak vypadala synagoga v Hostivaři zevnitř. Poslední žačka jedné zapadlé houslové školy, poslední, kdo slyšel hrát zakladatele. Jedna paní v Bubenči je poslední žijící svědek svatby, ze které pochází půlka jednoho šlechtického restitučního nároku — ta má u nás v poznámce vykřičník, tu hlídáme jak porcelán. No a já si k nim přitáhl úmrtní data. Čistě ze zvědavosti, chtěl jsem vidět, jestli umírají jinak než zbytek populace. Stará samota, víš, ta zabíjí, to je známé."
+"Za koníček mám demografii. Úmrtnost mám nově. Vydrž, ono to je vtipné." Odsunul tác a rozložil na stůl papír přeložený načtvero, potištěný drobnou tabulkou. "Pamatuješ, jak jsem dělal pro archiv tu revizi kotevních sítí? Napadlo mě spočítat si takovou hloupost: lidi, kterým říkám poslední pamětníci. Žijící jediná kotva. Někdo, kdo je poslední na světě, kdo pamatuje nějaký fakt — poslední svědek svatby, poslední žák zbořené školy, poslední nájemník domu, co už nestojí. Archiv je umí vyjmenovat, to je celkem snadný dotaz, drží se to u revizí restitucí. Máme jich v evidenci pár tisíc živých, průběžně to ubývá a přibývá."
+
+Tereza míchala polévkou, kterou nejedla; poslouchala tak, jak se poslouchá rádio, a bylo jí u toho poprvé za celý den skoro dobře.
+
+"Jsou to úžasné osudy, mimochodem. Poslední člověk, který pamatuje, jak vypadala synagoga v Hostivaři zevnitř. Poslední žačka jedné zapadlé houslové školy, poslední, kdo slyšel hrát zakladatele. Jedna paní v Bubenči je poslední žijící svědek svatby, ze které pochází půlka jednoho šlechtického restitučního nároku — ta má u nás v poznámce vykřičník, tu hlídáme jak porcelán. No a já si k nim přitáhl úmrtní data. Čistě ze zvědavosti, chtěl jsem vidět, jestli umírají jinak než zbytek populace. Stará samota, víš, ta zabíjí, to je známé."
 
 "A umírají jinak?"
 
-"Umírají ve čtvrtek." Řekl to s gestem kouzelníka, který vytahuje králíka, a čekal na smích, a Tereza se doopravdy zasmála, protože to znělo dokonale pitomě — statistika v roli horoskopu. "Neškleb se. Poslouchej. Vzorek za posledních deset let, pět set dvanáct lidí, které archiv někdy vedl jako jedinou žijící kotvu netriviálního faktu. Očekávané rozložení úmrtí v týdnu: rovnoměrné, sedmina na den, drobný víkendový efekt. Skutečnost: čtvrtek dvakrát nad očekáváním. Dvakrát, Terezo. To je p hluboko pod jednou tisícinou. U obyčejné populace nic takového nenajdeš, zkoušel jsem to na kontrolním vzorku, tam čtvrtek ničím nevyčnívá. Jenom poslední pamětníci mají v týdnu oblíbený den, a je to čtvrtek. Není to nádhera? Někde v datech bydlí skřítek a já mu šlapu na paty."
+"Umírají ve čtvrtek." Řekl to s gestem kouzelníka, který vytahuje králíka, a čekal na smích, a Tereza se doopravdy zasmála, protože to znělo dokonale pitomě — statistika v roli horoskopu. "Neškleb se. Poslouchej. Vzorek za posledních deset let, pět set dvanáct lidí, které archiv někdy vedl jako jedinou žijící kotvu netriviálního faktu. Očekávané rozložení úmrtí v týdnu: rovnoměrné, sedmina na den, drobný víkendový efekt. Skutečnost: čtvrtek dvakrát nad očekáváním. Dvakrát, Terezo. To je p hluboko pod jednou tisícinou. U obyčejné populace nic takového nenajdeš, zkoušel jsem to na kontrolním vzorku, tam čtvrtek ničím nevyčnívá."
+
+Poklepal na tabulku, jednou, jako se klepe na rameno.
+
+"Jenom poslední pamětníci mají v týdnu oblíbený den, a je to čtvrtek. Není to nádhera? Někde v datech bydlí skřítek a já mu šlapu na paty."
 
 "Chyba vzorku," řekla Tereza, protože to bylo řemeslné a protože se jí ulevilo, že smí pět minut myslet na cizí záhadu. "Definice posledního pamětníka je archivní; archiv dělá revize v pevných dnech; máš tam artefakt evidence. Umírají v týdnu rovnoměrně a čtvrtek jim zapisuje úředník."
 

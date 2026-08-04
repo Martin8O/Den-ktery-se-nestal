@@ -7,7 +7,7 @@ date_in_story: 2025
 target_words: 800
 plants: [P-T4-4]
 payoffs: []
-status: draft
+status: revised
 ---
 
 Je jedno léto, do kterého chodím šít nejčastěji a nejopatrněji.

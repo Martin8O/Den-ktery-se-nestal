@@ -7,7 +7,7 @@ date_in_story: 2031-09-18
 target_words: 3400
 plants: [P-T1-1]
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Spis V-2031-0412** · dědické řízení Řehoř · návrh sondy, operátor: bude určen
@@ -15,7 +15,7 @@ status: draft
 
 Ve čtvrtek jezdil výtah v Ústavu jen do třetího patra. Čtvrté svítilo na panelu červeně — červeně svítilo každý čtvrtek, co Tereza pamatovala, a nejspíš dávno předtím — a nový personál se učil neptat zhruba do konce zkušební doby. Provozní důvody, říkalo se. Úklid, říkalo se taky. Tereza kdysi patřívala k těm, kdo se neptali, protože jim to bylo jedno; teď patřila k těm, kdo se neptali z profesionální hygieny. Staré úřady mají rituály všechny a čtvrtek byl den, kdy chodby ve třetím patře voněly po ozonu a kávě z automatu se nedalo věřit, protože automat sdílel jištění s něčím, co třikrát za dopoledne shodilo síť.
 
-Ústav retrospekce sídlil v bloku bývalé pojišťovny mezi Vinohrady a Vršovicemi: první republika zvenku, sedmdesátá léta uvnitř, okna vysoká, kliky mosazné, podlahy vrzavé přesně tam, kde si to pamatovaly generace úředníků. Veřejnost znala přízemí — podatelnu, čekárnu s vyrudlými plakáty Víte, co je kotva?, přepážky, kde se přijímaly návrhy na verifikaci. Patra znali jen zaměstnanci a účastníci řízení. O čtvrtém patře nevěděl nikdo nic a všichni věděli, že se o něm neví, což je forma vědění, kterou úřady pěstují nejraději.
+Ústav retrospekce sídlil v bloku bývalé pojišťovny mezi Vinohrady a Vršovicemi: první republika zvenku, sedmdesátá léta uvnitř, okna vysoká, kliky mosazné, podlahy vrzavé přesně tam, kde si to pamatovaly generace úředníků. Veřejnost znala přízemí — podatelnu, čekárnu s vyrudlými plakáty Víte, co je kotva?, přepážky, kde se přijímaly návrhy na verifikaci. Patra znali jen zaměstnanci a účastníci řízení. O čtvrtém patře nevěděl nikdo nic a všichni věděli, že se o něm neví.
 
 Toho čtvrtka přišla Tereza v osm, pověsila plášť, srovnala na stole tři spisy podle čísel a půl hodiny dělala to, čím začínala každý den: četla nová podání. Návrh na verifikaci hranice pozemku, doložený čtyřmi generacemi plotů. Návrh na verifikaci otcovství z roku 1969, podaný mužem, jenž se narodil 1970 a celý život se bál zeptat. Třetí podání bylo psané rukou, na lince vytržené ze sešitu: paní z Vysočiny prosila o doložení, že její syn, který se s ní deset let nestýká, jí jako malý říkal maminko moje zlatá. Takové návrhy chodily každý týden a měly vlastní razítko pro zamítnutí — mimo působnost, fakt bez právního dopadu — a Tereza je zamítala vždy vlastnoručně, s celou formulací, protože formulářová zkratka jí na ně připadala sprostá. Lidé si mysleli, že Ústav je od pravdy; Ústav byl od tvrdosti, což bývalo někdy totéž a někdy ne, a rozdíl mezi obojím se Tereza naučila nevysvětlovat.
 
@@ -93,7 +93,9 @@ Mach se posadil do křesla, jako se sedá do vlaku, kterým se jezdí do práce 
 
 Prstenec se roztočil. Nebylo to divadlo; žádný blesk, žádný hukot, jen se v sále nepatrně změnil tlak, jako když v dálce projede vlak tunelem, a světla v lištách přešla z bílé do slámové. Tereza to znala z druhé strany, z křesla — pocit, že vám někdo listuje v hlavě rukama v rukavicích, zdvořile, důkladně, bez ptaní. Odsud, z velínu, nebylo vidět nic než člověk se zavřenýma očima, kterému se pod víčky rychle pohybují oči, a čísla na panelu: hloubka, rozptyl, tvrdost.
 
-Sedm minut se nedělo nic, co by se dalo vyprávět. V tom byl celý rozdíl mezi řemeslem a jeho pověstí: veřejnost si sondu představovala jako promítání, jako okno do včerejška s obrazem a zvukem, a ono to bylo počítání. Přístroj se neptal, jak minulost vypadala; ptal se, jak pevně drží. Deset tisíc drobných dotazů za vteřinu, každý s odpovědí drží — nedrží, a z té krupice odpovědí rostla na panelu křivka. Operátor k tomu byl potřeba, protože dotazy se musely o něco opřít — o lidskou paměť, o její řečiště, vyježděná léty vzpomínání — a platil za to právě proto: přístroj si jeho řečištěm prohrnoval vlastní vodu. Tak to aspoň stálo v příručkách, obrazněji, než by si přístroj zasloužil. Tereza na křivku nikdy nedokázala myslet technicky, když v křesle seděl někdo, koho znala. Myslela na to, kudy zrovna teče cizí voda.
+Sedm minut se nedělo nic, co by se dalo vyprávět. V tom byl celý rozdíl mezi řemeslem a jeho pověstí: veřejnost si sondu představovala jako promítání, jako okno do včerejška s obrazem a zvukem, a ono to bylo počítání. Přístroj se neptal, jak minulost vypadala; ptal se, jak pevně drží. Deset tisíc drobných dotazů za vteřinu, každý s odpovědí drží — nedrží, a z té krupice odpovědí rostla na panelu křivka.
+
+Operátor k tomu byl potřeba, protože dotazy se musely o něco opřít — o lidskou paměť, o její řečiště, vyježděná léty vzpomínání — a platil za to právě proto: přístroj si jeho řečištěm prohrnoval vlastní vodu. Tak to aspoň stálo v příručkách, obrazněji, než by si přístroj zasloužil. Tereza na křivku nikdy nedokázala myslet technicky, když v křesle seděl někdo, koho znala. Myslela na to, kudy zrovna teče cizí voda.
 
 Tvrdost naskočila v sedmé minutě.
 
@@ -111,7 +113,9 @@ Bratři odešli každý jiným schodištěm. Mladší se u dveří velínu zasta
 
 * * *
 
-Odpoledne se ve třetím patře krájel dort. Ekonomické oddělení ho objednalo hned ráno — dvě stě sond byl rekord budovy a rekordy se v úřadech slaví s logistickou předvídavostí. Marcipánová dvoustovka, káva z konvic, ředitel pronesl tři věty, z nichž dvě byly citace řádu, a třetí, o Machově příkladné službě paměti národa, četl z lístku. Jonáš stál u mísy s chlebíčky a Tereze potichu hlásil statistiku: "Průměr budovy je čtyřicet sond za kariéru. Karel má pětinásobek průměru. Kdyby se sondy běhaly, Karel právě zaběhl maraton za hodinu — fyziologicky by se o něm měly psát články, jenže o nás se články nepíšou." Vtipkoval a nespouštěl přitom z Macha oči a Tereza ten pohled znala; tak se dívá statistik na odlehlou hodnotu, kterou má rád. "Víš, co je na tom nejlepší?" dodal Jonáš tišeji. "Že mu nikdo z těch, co mu teď třesou rukou, nedokáže říct, co přesně ho ta služba stála. On sám to neví. To je jediná evidence v téhle budově, která se vede tak, že se maže. Zkus si to představit: účetnictví, kde se doklady platí doklady." Zarazil se nad vlastní větou. "To bych si měl zapsat. To je skoro definice."
+Odpoledne se ve třetím patře krájel dort. Ekonomické oddělení ho objednalo hned ráno — dvě stě sond byl rekord budovy a rekordy se v úřadech slaví s logistickou předvídavostí. Marcipánová dvoustovka, káva z konvic, ředitel pronesl tři věty, z nichž dvě byly citace řádu, a třetí, o Machově příkladné službě paměti národa, četl z lístku.
+
+Jonáš stál u mísy s chlebíčky a Tereze potichu hlásil statistiku: "Průměr budovy je čtyřicet sond za kariéru. Karel má pětinásobek průměru. Kdyby se sondy běhaly, Karel právě zaběhl maraton za hodinu — fyziologicky by se o něm měly psát články, jenže o nás se články nepíšou." Vtipkoval a nespouštěl přitom z Macha oči a Tereza ten pohled znala; tak se dívá statistik na odlehlou hodnotu, kterou má rád. "Víš, co je na tom nejlepší?" dodal Jonáš tišeji. "Že mu nikdo z těch, co mu teď třesou rukou, nedokáže říct, co přesně ho ta služba stála. On sám to neví. To je jediná evidence v téhle budově, která se vede tak, že se maže. Zkus si to představit: účetnictví, kde se doklady platí doklady." Zarazil se nad vlastní větou. "To bych si měl zapsat. To je skoro definice."
 
 Mach stál u okna s talířkem v ruce a přijímal gratulace tím svým způsobem: každou vyslechl, poděkoval, zařadil.
 

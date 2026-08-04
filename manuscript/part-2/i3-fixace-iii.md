@@ -7,7 +7,7 @@ date_in_story: 2031
 target_words: 800
 plants: []
 payoffs: []
-status: draft
+status: revised
 ---
 
 Dnes nešiju. Dnes se jen dívám, a to je ze všeho nejtěžší.

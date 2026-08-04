@@ -7,7 +7,7 @@ date_in_story: 2031
 target_words: 800
 plants: [P-T4-1]
 payoffs: []
-status: draft
+status: revised
 ---
 
 Nejdřív se dívám. Dívání je většina práce; kdo začíná jehlou, párá.
@@ -26,7 +26,7 @@ Píšu ten steh perem, nanečisto, na papír, který potom spálím. Pero drží
 
 Pak dlouho sedím a zkouším steh proti látce. Tam, kde se zápis dotkne světa, nesmí nic vyboulit: třídírna měla tu noc slabou směnu — má, doložitelně. Přihrádky spolu sousedí — sousedí. Oko se unaví — unaví se každé. Nikde nelžu. Lhát se při šití nedá, látka lež vytlačí jako tělo třísku; dá se jen vybírat mezi pravdami, které si směna, přihrádka a oko mohou dovolit. Vybírám tu nejmenší. Vždycky vybírám tu nejmenší. Velké pravdy nechávám být, velké pravdy mají svědky a svědek je uzel, přes který jehla neprojde.
 
-Ještě chvíli čekám. Tomu okamžiku před došitím se nedá vyhnout a nedá se zkrátit: jehla stojí nad látkou a já procházím všechno, co vím, že se z toho stehu jednou vyvine. Dopis dojde oklikou. Spis padne na vybraný stůl. Oči, které ho otevřou, se zastaví na jednom čísle, a to zastavení bude bolet — mě ne; ty oči. Bude bolet dlouho a k něčemu bude. Tohle je místo, kde by se ruka mohla zachvět, kdybych jí to dovolila. Nedovolím. Kdo chce šít jen stehy, které nebolí, ať šije polštáře.
+Ještě chvíli čekám. Tomu okamžiku před došitím se nedá vyhnout a nedá se zkrátit: jehla stojí nad látkou a já procházím všechno, co vím, že se z toho stehu jednou vyvine. Dopis dojde oklikou. Spis padne na vybraný stůl. Oči, které ho otevřou, se zastaví na jednom slově, a to zastavení bude bolet — mě ne; ty oči. Bude bolet dlouho a k něčemu bude. Tohle je místo, kde by se ruka mohla zachvět, kdybych jí to dovolila. Nedovolím. Kdo chce šít jen stehy, které nebolí, ať šije polštáře.
 
 Došiju. Uzlík schovám do rubu — datum svozu, číslo pytle, jméno nikoho. Zápis projde, protože nemá s čím se hádat; volná noc ho přijme, jako přijímá déšť suchá zem, a stane se z něj minulost, obyčejná, úterní, ničí. Ráno bude svět o jeden zbloudilý dopis bohatší a nikdo v něm nebude vědět, že se něco stalo, protože se — teď už — nic jiného nestalo.
 

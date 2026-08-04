@@ -7,11 +7,11 @@ date_in_story: 2031-10-09
 target_words: 3400
 plants: [P-T2-3]
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Oznámení č. j. SD-2031/88412** · přepočet výsluhového příspěvku, osobní projednání
-> termín: čtvrtek 9. 10. 2031, 07:30 · „pracovník se dostaví na adresu; průkaz předloží"
+> termín: čtvrtek 9. 10. 2031, 07:30 · "pracovník se dostaví na adresu; průkaz předloží"
 
 Ve čtvrtek v půl deváté ráno zavolal Jonáš potřetí a Hruškův telefon potřetí vyzváněl do prázdna.
 
@@ -103,7 +103,7 @@ Poslední kotvy Františka Hrušky odjely dodávkou někdy v posledních dnech �
 
 "Musíme zavolat záchranku," řekl Jonáš od futra. "Nebo policii. Musíme to ohlásit."
 
-"A řekneme jim co?" Tereza to neřekla tvrdě; řekla to klidně, úředně, hlasem na výroky, a nenáviděla se za to, jak snadno jí to šlo. "Že dva zaměstnanci Ústavu retrospekce vlezli oknem do domu muže, kterého si vedli v soukromé statistice? Že úmrtí, které bude mít za dvě hodiny razítko ‚bez cizího zavinění', je vražda, protože — protože co, Jonáši? Protože chybí papíry a káva je studená?" Ukázala na obálku, na hrnky, na prázdnou vitrínu, jedno po druhém. "Tohle všechno je v pořádku. V tom je ta metoda. Každý kus zvlášť je v pořádku a nikdo nikdy neposkládá celek, protože celek je vidět jenom z mapy, kterou máš za skříní."
+"A řekneme jim co?" Tereza to neřekla tvrdě; řekla to klidně, úředně, hlasem na výroky, a nenáviděla se za to, jak snadno jí to šlo. "Že dva zaměstnanci Ústavu retrospekce vlezli oknem do domu muže, kterého si vedli v soukromé statistice? Že úmrtí, které bude mít za dvě hodiny razítko 'bez cizího zavinění', je vražda, protože — protože co, Jonáši? Protože chybí papíry a káva je studená?" Ukázala na obálku, na hrnky, na prázdnou vitrínu, jedno po druhém. "Tohle všechno je v pořádku. V tom je ta metoda. Každý kus zvlášť je v pořádku a nikdo nikdy neposkládá celek, protože celek je vidět jenom z mapy, kterou máš za skříní."
 
 "Tak co teda uděláme? Odejdeme oknem a necháme ho tady?"
 
@@ -149,7 +149,7 @@ Před Andělem, když vystupovala, ji Jonáš chytil za rukáv.
 
 "Ta sousedka," řekl. "Slyšelas ji. Ouřada, co se dozvonil. Auto s držákem na maják. Obálka s razítkem. Terezo — oni se ani neschovávají. Jim stačí, že vypadají služebně. To je celá jejich neviditelnost: úřední vzhled je v téhle zemi neprůstřelná vesta." Pustil rukáv. "Kdo si tohle může dovolit?"
 
-Neodpověděla. Odpověď měla v hlavě celou cestu z Kladna, složenou z detailů jako z kotev: ohlášená návštěva, průkaz předloží, repasovaný služební vůz, klid člověka, který nechá hostitele uvařit kávu, protože má čas, protože je v právu, protože takhle se chodí do domů celý život — služebně. Nevyslovila ji. Vyslovit ji znamenalo začít ji dokládat a dokládat ji znamenalo kopat pod vlastním domem.
+Neodpověděla. Odpověď měla v hlavě celou cestu z Kladna, složenou z detailů jako z kotev: ohlášená návštěva, průkaz předloží, repasovaný služební vůz, klid člověka, který nechá hostitele uvařit kávu, protože má čas, protože je v právu, protože takhle se chodí do domů celý život — služebně. A protože hlava potřebuje pro věci jména, dala jim jedno, potichu, po tom, co po nich zbývalo v domě: Tiší. Nevyslovila jméno ani odpověď. Vyslovit je znamenalo začít je dokládat a dokládat je znamenalo kopat pod vlastním domem.
 
 Večer v osm jí zazvonil telefon. Budka; v pozadí tramvaj.
 

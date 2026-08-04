@@ -7,7 +7,7 @@ date_in_story: 2031-10-27
 target_words: 3300
 plants: []
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Poučení o mlčenlivosti P-IV/2031-77** · Wagnerová T., rozšíření prověrky: IV. podlaží
@@ -37,7 +37,9 @@ Cestou do čtvrtého patra — po služebním schodišti, kolem dveří s čteč
 
 Odpočívadlo, otočka, další rameno schodů. Nikde nikdo; jejich kroky a radiátory.
 
-"Znal jste případ dvou katastrů?" pokračoval, aniž čekal. "Devadesát čtyři, jižní Čechy. Při odsunu se ztratily knihy, po válce se vedly nové, v padesátých letech se našly ty staré — a padesát let existovaly obě řady vedle sebe, každá pravá, každá s razítky, a úřady braly tu, která se zrovna hodila. Dvě minulosti jednoho údolí, obě doložené. Víte, jak se to řešilo do té doby? Silou. Kdo měl lepšího advokáta, měl lepší včerejšek. My jsme to údolí měřili čtyři měsíce, kotvu po kotvě, a když jsme skončili, mělo poprvé od války jednu minulost. Ne spravedlivou — spravedlnost neměříme. Jednu. A ono se ukázalo, Terezo, že lidem stačí ta jednota. Že se dá žít s křivým včerejškem, pokud je jen jeden. S dvěma pravými se žít nedá."
+"Znal jste případ dvou katastrů?" pokračoval, aniž čekal. "Devadesát čtyři, jižní Čechy: dvě řady pozemkových knih, obě pravé, obě s razítky, a úřady braly tu, která se zrovna hodila. Dvě minulosti jednoho údolí. Měřili jsme je čtyři měsíce, kotvu po kotvě, a když jsme skončili, mělo údolí poprvé od války minulost jednu. Ne spravedlivou — spravedlnost neměříme. Jednu. A lidem, Terezo, ta jednota stačila. S křivým včerejškem se žít dá, pokud je jen jeden. S dvěma pravými ne."
+
+Třetí patro. Za dveřmi na chodbu zvonil něčí telefon a zase přestal; Roubal stoupal dál, rukou po zábradlí, a nechal těm větám čas dopadnout.
 
 "Pak přišel retrospektor a dal státu to, co stát nikdy neměl: rozhodčí instanci. Konečnou. Sondu, proti které není odvolání, protože neměří výpovědi, měří svět. Víte, co se stalo s křivými svědky? Vymřeli. Ne fyzicky — profesně. Přestalo se to vyplácet. Jedna generace, Terezo, a z téhle země zmizel celý průmysl kupčení se včerejškem, který tu kvetl sto let. To jsme udělali my. To je ta část, na kterou jsem pyšný a budu, dokud dýchám."
 
@@ -51,7 +53,7 @@ Odpočívadlo, otočka, další rameno schodů. Nikde nikdo; jejich kroky a radi
 
 Cestou chodbou minuli dvoje dveře bez čísla. První, dvoukřídlé, s čtečkou a s prostým štítkem SÁL II, byly pobité plechem a pod prahem jim slabě svítilo; Roubal kolem nich prošel, jako se prochází kolem strojovny — tudy ne, tam se chodí jindy a jinak. Druhé, obyčejné, nesly štítek PŘÍPRAVNA a byly pootevřené: uvnitř stůl, na něm rozložené desky, lampa s kloubem, židle odsunutá, jako když někdo na chvíli odešel. Tereza si obě polohy uložila do hlavy, bez komentáře, způsobem, jakým si verifikátor ukládá dispozice cizího bytu: bezděčně, navždy.
 
-Registr sídlil na konci chodby, za dalšími dveřmi s čtečkou: sál s nízkým stropem, kartotéční skříně po stěnách, uprostřed dva stoly na čtení a služební pult. Za pultem seděla žena v letech s pletením v klíně — pletení odložila, když vešli, přesným pohybem, který říkal, že tu sedí dlouho a viděla už všechno. Registrátorka. Tereza se s tím slovem setkala poprvé a pochopila je hned: knihovnice knih, které nesmí nikdo číst — a soudě po pletení a po klidu, poslední člověk v budově, kterého by kdy napadlo se do nich podívat. Nejspolehlivější zámek je nezvědavý člověk; i tohle si někdo kdysi spočítal.
+Registr sídlil na konci chodby, za dalšími dveřmi s čtečkou: sál s nízkým stropem, kartotéční skříně po stěnách, uprostřed dva stoly na čtení a služební pult. Za pultem seděla žena v letech s pletením v klíně — pletení odložila, když vešli, přesným pohybem, který říkal, že tu sedí dlouho a viděla už všechno. Registrátorka. Tereza se s tím slovem setkala poprvé a pochopila je hned: knihovnice knih, které nesmí nikdo číst — a soudě po pletení a po klidu, poslední člověk v budově, kterého by kdy napadlo se do nich podívat. Nejspolehlivější zámek je nezvědavý člověk.
 
 "Paní Wagnerová má od dnešního dne přístup stupně dvě," řekl Roubal. "Agenda po Machovi. Ukažte jí režim, prosím."
 
@@ -101,11 +103,11 @@ Tereza seděla u čtecího stolu, záda rovná, tužka v ruce nad poznámkami k 
 
 Jonáš nenašel číslo další oběti. Jonáš našel zápis — provedený, evidovaný, kategorie K — vztahující se ke dni, kdy se utopila Ema Wagnerová. Našel ho ve středu. Ve čtvrtek nežil.
 
-Dopsala poznámky k řadě R, každé písmeno, odevzdala je registrátorce, podepsala odchod. Šla po služebním schodišti dolů, patro za patrem, krok za krokem, a držela obličej i záda i dech, protože od dneška věděla jistě, že tahle budova umí číst i to, co člověk nese v zádech. Na odpočívadle třetího patra minula uklízečku s vozíkem; pozdravily se. Všechno bylo obyčejné. Všechno tady bylo vždycky obyčejné — v tom byla celá metoda téhle budovy, od vitríny v přízemí po pletení ve čtvrtém patře: obyčejnost jako izolační vrstva, ve které se dá skladovat cokoliv.
+Dopsala poznámky k řadě R, každé písmeno, odevzdala je registrátorce, podepsala odchod. Šla po služebním schodišti dolů, patro za patrem, krok za krokem, a držela obličej i záda i dech, protože od dneška věděla jistě, že tahle budova umí číst i to, co člověk nese v zádech. Na odpočívadle třetího patra minula uklízečku s vozíkem; pozdravily se. Všechno bylo obyčejné. Všechno tady bylo vždycky obyčejné — v tom byla celá metoda téhle budovy, od vitríny v přízemí po pletení ve čtvrtém patře.
 
 Večer nešla rovnou domů; obešla blok, dvakrát, s korunou v kapse sevřenou v dlani, a myslela ve tmě mezi lampami, protože venku se myslelo poctivěji — na ulici se nedalo předstírat, že je co číst, a zbývalo jen jít a skládat.
 
-Myslela na Roubala a nedokázala ho složit. Skládala ho po vrstvách jako tenkrát na chodbě u okna do dvora — a vrstvy vycházely stejně, což u Roubala nebyl výsledek, nýbrž diagnóza. Muž, který ji dnes vpustil do největšího tajemství své budovy — proč? Vrstva první: ochrana; uvnitř je bezpečněji než u dveří, a on to ví, a má ji rád. Vrstva druhá: dohled; uvnitř je viditelněji než venku, každý její dotaz teď nese podpis, a on to ví taky. Vrstva třetí, nejhorší: obě předchozí zároveň, upřímně a bez rozporu, protože pro Roubala ochrana a dohled nebyly protiklady — byly to synonyma, celý jeho život byla ochrana dohledem a dohled ochranou, stát v jednom slově. Zastánce, řekla Halina. Zastánci se opotřebovávají. Možná dnes viděla, jak vypadá opotřebovávání zastánce zblízka: pouští chráněnce blíž a blíž k ohni, protože už nemá, kam jinam by ho postavil.
+Myslela na Roubala a nedokázala ho složit. Skládala ho po vrstvách jako tenkrát na chodbě u okna do dvora — a vrstvy vycházely stejně, což u Roubala nebyl výsledek, nýbrž diagnóza. Muž, který ji dnes vpustil do největšího tajemství své budovy — proč? Ochrana: uvnitř je bezpečněji než u dveří, a on to ví, a má ji rád. Dohled: uvnitř je viditelněji než venku, každý její dotaz teď nese podpis, a on to ví taky. A nejhorší čtení: obojí zároveň, upřímně a bez rozporu, protože pro Roubala ochrana a dohled nebyly protiklady — byly to synonyma, celý jeho život byla ochrana dohledem a dohled ochranou, stát v jednom slově. Zastánce, řekla Halina. Zastánci se opotřebovávají. Možná dnes viděla, jak vypadá opotřebovávání zastánce zblízka: pouští chráněnce blíž a blíž k ohni, protože už nemá, kam jinam by ho postavil.
 
 A myslela na čtvrtek. Pozítří. Fixační okno, provoz, půlka řady F venku ze skříní, přípravna se stolem pod lampou. Registr při oknu — to ještě nevěděla, jak vypadá; věděla jen, že celé patro bude vzhůru a zaměstnané, že se v zaměstnaných chodbách chodí nejsnáz a že spis kategorie K s datem čtrnáctého července mohl, docela dobře mohl, ležet ve čtvrtek na některém z těch stolů. Nevěděla, jak se k němu dostane. Věděla, že to zjistí do čtvrtka — a že jestli existuje log, který ji jednou pověsí, začal se psát dnes v 09:12, jejím vlastním podpisem, hranou dlaně přes čerstvý inkoust.
 

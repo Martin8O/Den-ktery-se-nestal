@@ -7,7 +7,7 @@ date_in_story: 2031-10-16
 target_words: 3700
 plants: [P-T3-3]
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Protokol o ohledání č. OHL-2031/2214** · Berg, Jonáš, nar. 12. 2. 2003, analytik
@@ -81,7 +81,7 @@ Domluvili si ji po Kladně, u piva, které nedopili. Kdyby se přestalo dát tel
 
 Šla do knihovny pěšky přes Karlín a jeho ulice ji vedla kolem jeho domu, protože jinudy to nešlo, a před jeho domem stála dodávka.
 
-Ne policejní. Stěhovací, bílá, s nájezdovou rampou, a dva muži v pracovním z ní právě vynášeli — dovnitř, do domu, prázdné krabice. Třetí stál u vchodu se seznamem. Pracovali rychle a spořádaně a nikomu nebyli divní: po smrti se byty vyklízejí, od toho jsou pozůstalí, a kolemjdoucí žena v šedém plášti se u toho nezastavila, jen šla o poznání pomaleji a dívala se, jak se dívají verifikátoři, po vrstvách. Krabice: nové, složené, s potiskem firmy. Seznam v ruce třetího: podložka s klipem, úřední úchop. Chůze: služební. U chodníku za dodávkou vůz, tmavý, a vzadu na něm držák, prázdný, po majáku.
+Ne policejní. Stěhovací, bílá, s nájezdovou rampou, a dva muži v pracovním z ní právě vynášeli — dovnitř, do domu, prázdné krabice. Třetí stál u vchodu se seznamem. Z pekárny v přízemí táhlo kvasnicemi jako vždycky — těsto nečeká, pec jela i dnes. Pracovali rychle a spořádaně a nikomu nebyli divní: po smrti se byty vyklízejí, od toho jsou pozůstalí, a kolemjdoucí žena v šedém plášti se u toho nezastavila, jen šla o poznání pomaleji a dívala se, jak se dívají verifikátoři, po vrstvách. Krabice: nové, složené, s potiskem firmy. Seznam v ruce třetího: podložka s klipem, úřední úchop. Chůze: služební. U chodníku za dodávkou vůz, tmavý, a vzadu na něm držák, prázdný, po majáku.
 
 Nezpomalila víc. Nezastavila se. Došla na roh, zahnula, a teprve tam, z výlohy papírnictví, se dívala na odraz ulice a počítala: čtyřiadvacet hodin po nálezu. Rodina — Jonáš mluvíval o sestřenici v Písku, jednou za rok, o Vánocích. Sestřenice z Písku nezajistí do druhého dne stěhovací firmu s novými krabicemi a seznamem. Tohle nebyla pozůstalost. Tohle byla sklizeň. Mapa ze zdi — ta jeho, pracovní, kterou si po večerech kreslil znovu, protože originál odevzdal Tereze —, krabice od bot s proužky, notesy, výpisy: všechno, co Jonáš za čtyři roky nashromáždil a čemu říkal koníček, právě odjíždělo v nových krabicích, řádně, se seznamem, a zítra to nikde nebude a pozítří to nikdy nebylo.
 
@@ -113,9 +113,9 @@ V neděli odpoledne vytáhla zpoza skříně tubus a rozvinula mapu na stole. ST
 
 Pohřeb byl v pondělí ve Strašnicích, v malé síni, a bylo na něm to nejhorší počasí, jaké mohlo být: krásně.
 
-Vysoké, čisté, říjnové nebe, slunce nízko a zlatě, listí na trávnících obřadně žluté. Fotogenický den. Doložitelně pěkný. Tereza stála ve třetí řadě, mezi datovou sekcí a ekonomickým, a přistihla se, že se dívá vzhůru do té modři a nenávidí ji — a věděla přesně, hořce, odkud se ta nenávist bere. Na jednom pohřbu, před šesti lety, pršelo, a svět tvrdí, že ne. Na tomhle nepršelo, a svět to jednou doloží, družice, zápisy, sto svědků; nebe nad Jonášem bude mít navždy pravdu. Počasí lže jen jí. Nebo ona jemu. Stála v slunci, které si nezasloužil ani on, ani ona, a chybělo jí to, co neměla: déšť, který by aspoň jednou padal doloženě.
+Vysoké, čisté, říjnové nebe, slunce nízko a zlatě, listí na trávnících obřadně žluté. Fotogenický den. Doložitelně pěkný. Tereza stála ve třetí řadě, mezi datovou sekcí a ekonomickým, a přistihla se, že se dívá vzhůru do té modři a nenávidí ji — a věděla přesně, odkud se ta nenávist bere. Na jednom pohřbu, před šesti lety, pršelo, a svět tvrdí, že ne. Na tomhle nepršelo, a svět to jednou doloží, družice, zápisy, sto svědků; nebe nad Jonášem bude mít navždy pravdu. Počasí lže jen jí. Nebo ona jemu. Stála v slunci, které si nezasloužil ani on, ani ona, a chybělo jí to, co neměla: déšť, který by aspoň jednou padal doloženě.
 
-Řečnil někdo z vedení sekce, krátce a slušně: pracovitost, kolegialita, nenahraditelná ztráta. Slova jela po kolejích, po kterých jezdí na všech pohřbech, a Tereza stála v nich s kamennou tváří a odváděla nejtěžší směnu svého života — truchlit uvnitř a měřit navenek, obojí naplno, ani jedno nesmělo polevit. Dívala se po síni: kdo přišel, kdo stojí kde, kdo se dívá na koho. Nenáviděla se za to. Dělala to dál. Jonáš by to pochopil, Jonáš by to schválil, Jonáš by jí šeptem hlásil rozdělení četností: hele, datová vpravo, ekonomické vlevo, to je segregace, Terezo, to bych měl spočítat — a to, že ten hlas slyšela takhle přesně, i s tempem, i s tou radostí uvnitř, bylo horší než všechno, co řečník přečetl z papíru.
+Řečník z vedení sekce jel po kolejích, po kterých se jede na všech pohřbech: pracovitost, kolegialita, nenahraditelná ztráta. Tereza stála v těch slovech s kamennou tváří a odváděla nejtěžší směnu svého života — truchlit uvnitř a měřit navenek, obojí naplno, ani jedno nesmělo polevit. Dívala se po síni: kdo přišel, kdo stojí kde, kdo se dívá na koho. Nenáviděla se za to. Dělala to dál. Jonáš by to pochopil, Jonáš by to schválil, Jonáš by jí šeptem hlásil rozdělení četností: hele, datová vpravo, ekonomické vlevo, to je segregace, Terezo, to bych měl spočítat — a to, že ten hlas slyšela takhle přesně, i s tempem, i s tou radostí uvnitř, bylo horší než všechno, co řečník přečetl z papíru.
 
 Roubal seděl v první řadě, rovný, starý, s kloboukem na kolenou, a neplakal, jen se díval na rakev pohledem, kterým se díval na spisy, jež nešly uzavřít. Mach stál vzadu u dveří, klobouk v ruce. Rakev byla světlá a na ní věnec od Ústavu se stuhou, na které stálo Věrnému strážci paměti, a Tereza se na tu stuhu dívala a nechala tu větu, ať si v ní udělá, co umí. Věrnému strážci paměti. Od instituce, jejíž spisy se přepisují s čistou kartou pohybů. Bylo to míněno upřímně. Všechno tady bylo míněno upřímně. V tom byl celý ten stroj: skládal se z lidí, kterým bylo líto.
 

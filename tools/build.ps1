@@ -195,8 +195,8 @@ if ($Format -in @('pdf', 'all')) {
         $pdfArgs = @($inputs) + $common + @(
             "--pdf-engine=$engine",
             '-V', 'papersize=a5',
-            '-V', 'geometry:margin=1.8cm',
-            '-V', 'fontsize=10pt',
+            '-V', 'geometry:margin=2cm',
+            '-V', 'fontsize=11pt',
             '-V', 'linkcolor=black',
             '-V', 'mainfont=Palatino Linotype',
             '-V', 'monofont=Consolas',

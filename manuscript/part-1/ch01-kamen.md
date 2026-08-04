@@ -7,11 +7,11 @@ date_in_story: 2031-09-16
 target_words: 3600
 plants: [P-T2-2, P-T3-1, P-T5-1]
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Spis V-2031-0387** · verifikace náhrobního zápisu · žadatel: Záruba, Alois, nar. 1950
-> otevřeno 16. 9. 2031, 08:40 · kotevní síť: sčítá se · revize: 0 · stav: TERÉNNÍ ŠETŘENÍ
+> přiděleno postoupením · otevřeno 16. 9. 2031, 08:40 · kotevní síť: sčítá se · revize: 0 · stav: TERÉNNÍ ŠETŘENÍ
 
 Kámen stál sedmým rokem a jméno na něm bylo starší o celý lidský život. MIROSLAVA ZÁRUBOVÁ, kapitálkami do černé žuly, zlacení v rytinách pořád čisté; pod jménem dvě data, mezi nimiž leželo jedenasedmdesát let. Tereza přejela ukazováčkem spodní hranu písmen, jako se přejíždí hřbet knihy, o níž se ještě neví, jestli bude potřeba. Kameník ryl podle objednávkového listu, objednávkový list opisoval z matriky. Ruka se mohla splést v čárce, v háčku, v jednom datu. Ne ve čtyřech slabikách.
 
@@ -85,7 +85,7 @@ Naděje v obličeji se mu zavírala pomalu, po patrech, jako se zhasíná dům. 
 
 "Svědci?"
 
-"Jaří, myslíte? Sestra umřela v devatenáctém. Její — Milenini — kamarádky ze školy, ty už taky ne. Helenka Tůmová loni na jaře, ta byla poslední, ta u nás bývala každý čtvrtek. My jsme se brali v pětasedmdesátém, slečno. Paní. Kdo má z pětasedmdesátého žít?"
+"Živí, myslíte? Sestra umřela v devatenáctém. Její — Milenini — kamarádky ze školy, ty už taky ne. Helenka Tůmová loni na jaře, ta byla poslední, ta u nás bývala každý čtvrtek. My jsme se brali v pětasedmdesátém, slečno. Paní. Kdo má z pětasedmdesátého žít?"
 
 Tereza psala. Požár: prosinec 2030, doložen zásahovou zprávou. Poslední svědek úmrtí: jaro 2031. Žadatel zůstal sám v červnu, námitku podal v srpnu. Časová osa člověka, kterému svět postupně sebral všechno, čím by se mohl hádat, a který se přesto hádat přišel. Na papíře to byla smůla. Smůla taky měla svůj tvar: náhodný. Tenhle tvar náhodný nebyl, byl úhledný, a Tereza tu myšlenku zapsala do okraje jedním slovem — úplnost — a nechala ji být, protože pro ni neměla jedinou kotvu a ona nebyla placená od domněnek.
 
@@ -163,7 +163,7 @@ Papír posudku už znala nazpaměť, tak četla jen rukama. Čtrnáctý červene
 
 Tereza si pamatovala déšť.
 
-Pamatovala si ho na pohřbu — jak bubnoval do napnutého igelitu nad výkopem, jak nosiči přešlapovali v blátě a lano klouzalo, jak kapky stékaly po víku rakve, která byla lehká, protože voda Emu nevrátila a nebylo co nést, a jak si tehdy pomyslela, nesmyslně, že Ema bude promoklá. Pohřeb byl devatenáctého, pět dní poté; sucho pořád trvalo. Doloženo: jasno, třicet jedna stupňů. Vdova po řidiči — ne, vdova ne; matka. Matka si z pohřbu odnesla mokré vlasy a nikdo jiný na světě.
+Pamatovala si ho na pohřbu — jak bubnoval do napnutého igelitu nad výkopem, jak nosiči přešlapovali v blátě a lano klouzalo, jak kapky stékaly po víku rakve, která byla lehká, protože voda Emu nevrátila a nebylo co nést, a jak si tehdy pomyslela, nesmyslně, že Ema bude promoklá. Pohřeb byl devatenáctého, pět dní poté; sucho pořád trvalo. Doloženo: jasno, třicet jedna stupňů. Vdova — ne, vdova ne; pro tohle žádné slovo není; matka. Matka si z pohřbu odnesla mokré vlasy a nikdo jiný na světě.
 
 A pamatovala si víc než déšť, to bylo na tom to nejhorší — paměť toho dne nebyla mlha, byla ostrá po okrajích, ostřejší než všechno, co si pamatovala odjinud. Chlórová vůně přehradní vody, kterou léto zahustilo. Oranžový kruh bójky, líně se otáčející. Vlastní hlas, který říká dvě minutky, Emi, jen dočtu odstavec. Ten den v ní stál celý, přesný, s hodinami i stíny — a přesně v něm, mezi doloženým suchem a doloženým jasnem, pršelo na pohřbu, který se konal pátý den poté. Jedna jediná položka inventury se rozcházela se světem. U cizích spisů se tomu říkalo anomálie. U vlastní hlavy se tomu šest let neříkalo nijak.
 

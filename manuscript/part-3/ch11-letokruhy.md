@@ -7,19 +7,21 @@ date_in_story: 2031-11-04
 target_words: 3600
 plants: []
 payoffs: [P-T1-1, P-T1-2, P-T1-3]
-status: draft
+status: revised
 ---
 
 > **Žádanka o sondu č. 173/W** · spis R-1998/311, revize podkladů · hloubková, vrstevná
 > operátor: Wagnerová T. · schváleno: Roubal V. · termín: út 4. 11. 2031, 09:00
 
-Pátek po čtvrtku odpracovala jako herečka: agenda, žádanky, pozdravy, oběd, který nesnědla. Věděla teď víc, než kdy chtěl kdokoli, aby věděla, a to vědění nemělo kam růst — spis kategorie K si nemohla vyžádat, složku stupně jedna á neuměla najít a jediný člověk, který by jí rozuměl, ležel ve Strašnicích. Zbývala jediná stopa, o které nikdo nevěděl, že po ní půjde, protože o ní sama do soboty nevěděla.
+Pátek po čtvrtku odpracovala jako herečka: agenda, žádanky, pozdravy, oběd, který nesnědla. Věděla teď víc, než kdy chtěl kdokoli, aby věděla, a to vědění nemělo kam růst — spis kategorie K si nemohla vyžádat, složku stupně jedna á neuměla najít a jediný člověk, který by jí rozuměl, ležel ve Strašnicích. A byla tu ještě Jonášova záloha — ať je, kde chce, hlavně ať o ní nevíš, řekl tenkrát u mapy. Celý pátek večer v duchu procházela místa, která by vybral: sklepy, knihovny, úschovny; všechna mlčela stejně. Věděla jen dvě věci — že bude tam, kam se nechodí pro data, a že ji nesmí hledat nápadně.
 
 V sobotu ráno šla Tereza do Karlína koupit rohlíky.
 
 Říkala si, že jde koupit rohlíky, celou cestu tramvají, a teprve před pekárnou si přiznala, že rohlíky se dají koupit na sto jiných místech a že sem přišla, protože tohle bylo poslední místo v Praze, kde Jonáš ještě trochu byl: vůně kvasnic, plechy za výlohou, schodiště vedle vchodu, po kterém se chodilo k němu nahoru. Pekařka za pultem ji poznala — vídaly se, když sem chodila s Jonášem v sobotu pro pečivo — a když jí podávala sáček, zaváhala, tím způsobem, jakým váhají lidé, kteří nevědí, jestli se smí ptát.
 
 "Vy jste bývala kamarádka pana Berga, viďte." Neptala se; rovnala si to. "To je hrozné, co se stalo. Takový mladý. My jsme mu sem nosili vždycky první rohlíky z pece, on tvrdil, že dělá statistiku křupavosti." Usmála se a hned se přestala usmívat, protože smích a smrt se v obchodě špatně srovnávají. A pak, úplně mimochodem, řekla větu, kvůli které se toho rána v Karlíně rozhodlo o všem dalším: "Jo — a nevíte náhodou, co s tou jeho bednou? Máme ji dole ve sklepě, mezi moukou. Věci po dědečkovi, říkal, ať to nemusí tahat do patra. Přijde si pro to ta sestřenice z Písku? My bychom neradi, aby se to vyhodilo."
+
+Věci po dědečkovi. Jonáš neměl po dědovi nic než svetry — a svetry nosil. Tereza stála se sáčkem rohlíků v ruce a v hlavě jí docvakl pátek večer: tam, kam se nechodí pro data. Do sklepa pod pekárnou se chodí pro mouku.
 
 Sklep pekárny byl hluboký, klenutý, provoněný moukou a kvasem; bedna stála v koutě za pytli, obyčejná, dřevěná, s vypáleným razítkem nějakého dávného velkoobchodu. Navrchu ležely svetry. Tři dědovy svetry, pečlivě složené, s tím copánkovým vzorem, který se nepletl čtyřicet let — a Tereza chvíli klečela na studené podlaze, ruce na vlně, a nedokázala je zvednout, protože zvednout je znamenalo připustit, že tohle je pozůstalost, a pozůstalost se zvedá jen jednou.
 
@@ -41,13 +43,13 @@ Vracela se tam v neděli a v pondělí večer, s baterkou a s rukavicemi proti c
 
 * * *
 
-Šanon MŮJ NEJMILEJŠÍ PADĚLEK začínal fotokopií: zakládající výkres, faksimile z vitríny, přefocené přes sklo — i s odleskem zářivky, Jonáš ho fotil potají, nejspíš telefonem, nejspíš s koláčem v druhé ruce. Pak metodicky, list za listem, všechno, co se o výkresu dalo zjistit zvenčí: posudek vodoznaku (papírna zavedla síto v třiadevadesátém — doloženo, třikrát nezávisle), spisová historie „nálezu", novinový výstřižek z nultých let o ministerském šetření. To všechno Tereza znala; to byla ta historka od vitríny, folklor budovy.
+Šanon MŮJ NEJMILEJŠÍ PADĚLEK začínal fotokopií: zakládající výkres, faksimile z vitríny, přefocené přes sklo — i s odleskem zářivky, Jonáš ho fotil potají, nejspíš telefonem, nejspíš s koláčem v druhé ruce. Pak metodicky, list za listem, všechno, co se o výkresu dalo zjistit zvenčí: posudek vodoznaku (papírna zavedla síto v třiadevadesátém — doloženo, třikrát nezávisle), spisová historie "nálezu", novinový výstřižek z nultých let o ministerském šetření. To všechno Tereza znala; to byla ta historka od vitríny, folklor budovy.
 
 Neznala poslední tři listy.
 
-Jonáš si vyžádal — legálně, přes archivní správu, s odvoláním na revizi kotevních sítí — inventurní soupisy fondu, ve kterém byl výkres v osmasedmdesátém „nalezen". Neúplná řada technické dokumentace, převzatá s pozůstalostí, uskladněná, léta nedotčená. Inventura z roku 1977: sto čtyřicet dvě položky. Inventura z roku 1979, po stěhování: sto čtyřicet tři. Žádný přírůstkový záznam. Žádné razítko o převzetí. Fond, do kterého deset let nikdo nesáhl, byl najednou o jednu ruličku bohatší — a pod soupisy Jonášova poznámka, tužkou, s datem tři dny před smrtí:
+Jonáš si vyžádal — legálně, přes archivní správu, s odvoláním na revizi kotevních sítí — inventurní soupisy fondu, ve kterém byl výkres v osmasedmdesátém "nalezen". Neúplná řada technické dokumentace, převzatá s pozůstalostí, uskladněná, léta nedotčená. Inventura z roku 1977: sto čtyřicet dvě položky. Inventura z roku 1979, po stěhování: sto čtyřicet tři. Žádný přírůstkový záznam. Žádné razítko o převzetí. Fond, do kterého deset let nikdo nesáhl, byl najednou o jednu ruličku bohatší — a pod soupisy Jonášova poznámka, tužkou, s datem tři dny před smrtí:
 
-Položka nepřibyla. Položka se objevila. Rozdíl viz můj sešit, heslo „vložen, ne nalezen".
+Položka nepřibyla. Položka se objevila. Rozdíl viz můj sešit, heslo "vložen, ne nalezen".
 
 Sešit v šanonu nebyl. Sešit nejspíš odjel v nových krabicích se seznamem. Ale nebyl potřeba; Tereza seděla na pytli mouky, na klíně kopie dvou inventur, a skládala to, co se skládalo samo, protože všechny kusy už měla a chybělo jen připustit, že patří k sobě.
 
@@ -57,7 +59,7 @@ Věděla, jak vypadá zápis do měkkého místa. Četla jeden takový před pá
 
 A tady se to zlomilo a Tereza vstala z pytle mouky a chvíli chodila po sklepě, mezi klenbami, protože tělo potřebovalo pohyb, když hlava dělala tohle.
 
-Retrospektor byl postaven podle výkresu. Výkres byl fixován retrospektorem. Kruh. Žádný počátek, žádný vynálezce, žádná garáž s géniem — technologie, která si sama podala ruku přes půl století, informace bez autora, obíhající v uzavřené smyčce jako voda v topení. Nikdo necestoval; nikdo nemusel. Stačilo jednou — kdy vlastně? nikdy; vždycky — vsadit do minulosti papír a minulost si poslušně dopočítala budoucnost, která ten papír jednou vsadí.
+Retrospektor byl postaven podle výkresu. Výkres byl fixován retrospektorem. Kruh — voda v topení, která obíhá a hřeje a nikde nepramení. Žádný počátek, žádný vynálezce, žádná garáž s géniem: technologie, která si sama podala ruku přes půl století, informace bez autora. Nikdo necestoval; nikdo nemusel. Stačilo, aby v minulosti jednou ležel papír — kdy se tam vzal? nikdy; vždycky —, a minulost si poslušně dopočítala budoucnost, která ho tam jednou vloží.
 
 Zkoušela to shodit, řemeslně, jako shazovala všechno. Hypotéza: výkres vložil do fondu člověk, fyzicky, někdy mezi inventurami — obyčejný padělatel s přístupem. Jenže obyčejný padělatel v sedmdesátých letech by nekreslil stroj, který funguje; padělá se to, co existuje, ne to, co teprve bude, a tenhle papír byl konstrukčně správný do posledního závitu, což se vědělo, protože podle něj stavěli. Hypotéza: výkres je pravý a starý a vodoznak je omyl posudků. Tři nezávislé posudky, jeden na náklady ministerstva; a papírny vedou vzorníky sít, to není dojem, to je evidence. Hypotéza: existoval génius, který stroj vymyslel, nakreslil na špatný papír a vsunul do fondu, aby se proslavil nálezem — a pak celý život předstíral, že neví, jak ho to napadlo, místo aby slávu shrábl. Lidé jsou divní, ale takhle divní nejsou; a génius by uměl vysvětlit princip, a zakladatel, jak stálo ve všech pamětech, princip vysvětlit neuměl nikdy, jen ho uměl postavit.
 
@@ -103,7 +105,7 @@ Seděla v křesle, dokud to šlo, a pak vstala, poděkovala techničce a šla do
 
 Večer doma rozložila po stole Jonášovy výtisky a počítala — jeho čísly, svou tužkou, na papíře, který ráno spálí.
 
-Počítalo se jí špatně a počítala stejně, pomalu, s přestávkami na dýchání; práce byla pořád jediné zábradlí, které drželo. Kotevní hustota země: za deset let plus jedenáct procent. Nová dokumentace, kamery, notáři, kotevní pojištění tvrdých lidí — svět se dokládal ochotně a sám. K tomu fixace: každá vytvrdí své okolí navždy, vytvrzené neměkne, jednosměrný západkový mechanismus. K tomu čistky, které měkčí bod za bodem, jenže co Tiší změkčí, to dřív nebo později někdo zafixuje — díra se šije, proto se hloubí. Sečteno: podíl měkké minulosti klesal. Ne lineárně. Se zrychlením, protože tvrdé plochy se stýkají a rostou jako led na hladině, a mezi nimi zbývají kanály, užší a užší.
+Počítalo se jí špatně a počítala stejně, pomalu, s přestávkami na dýchání. Kotevní hustota země: za deset let plus jedenáct procent. Nová dokumentace, kamery, notáři, kotevní pojištění tvrdých lidí — svět se dokládal ochotně a sám. K tomu fixace: každá vytvrdí své okolí navždy, vytvrzené neměkne, jednosměrný západkový mechanismus. K tomu čistky, které měkčí bod za bodem, jenže co Tiší změkčí, to dřív nebo později někdo zafixuje — díra se šije, proto se hloubí. Sečteno: podíl měkké minulosti klesal. Ne lineárně. Se zrychlením, protože tvrdé plochy se stýkají a rostou jako led na hladině, a mezi nimi zbývají kanály, užší a užší.
 
 A budoucnost — budoucnost není nic než zítřejší měkká minulost. Až zamrznou kanály, nezamrzne jen včerejšek. Nebude kam vsadit žádný nový zápis, žádnou opravu, žádný zázrak; svět dojede na kolejích toho, co už je doloženo, a dějiny skončí — ne ohněm, ne soudem. Uzávěrkou. Jonáš to měl spočítané na okraji posledního výtisku, bez komentáře, jen číslo a otazník, a Tereza to číslo přepočítala třikrát a vyšlo jí pokaždé totéž, na dohled, směšně blízko, v řádu životů, ne věků.
 
@@ -111,7 +113,7 @@ A ještě jedno jí z těch čísel vypadlo, vedlejší produkt, kterého si Jon
 
 Odložila tužku a dlouho seděla nad tím vším — nad smyčkou bez počátku, nad vrstvami bez lidí, nad ledem, který roste — a poctivě, na váhu, zkusila unést, co to znamená: že Ústav nehlídá minulost, Ústav utrácí vesmír; že každé razítko, každá sonda, i ta dnešní, i ty její, ukusuje z posledního měkkého; že proti tomuhle je jedna přemístěná holka aritmetická nula, zrnko, chyba zaokrouhlení.
 
-Nechala tu myšlenku dojít až na konec, protože nedomyšlené myšlenky se vracejí v horších hodinách. Kdyby byla filozof, možná by u ní zůstala: zachraň měkkost světa, ne jedno dítě; zavři Ústav, ne jeden spis; mysli na miliardy zítřků, ne na jednu školní tašku. Znala lidi, kteří by to uměli. Halina by to uměla — Halina by to spočítala a podepsala a spala by dobře. A možná by měli pravdu, ti počtáři velkých čísel, možná se pravda opravdu měří na tuny.
+Nechala tu myšlenku dojít až na konec, protože nedomyšlené myšlenky se vracejí v horších hodinách. Kdyby byla filozof, možná by u ní zůstala: zachraň měkkost světa, ne jedno dítě. Halina by to spočítala, podepsala a spala by dobře — a možná se pravda opravdu měří na tuny.
 
 Nechala tu myšlenku dojít až na konec. A pak ji položila na stůl vedle ostatních a řekla jí, tiše a nahlas, aby to bylo slyšet v celé prázdné kuchyni:
 
@@ -121,6 +123,6 @@ Vesmír počká. Tuhne pomalu, po staletích, a bude tuhnout stejně, ať ona dn
 
 Jonáš by jí rozuměl, napadlo ji, a poprvé od rána si tu větu směla myslet bez jeho hlasu, jen v titulcích. Jonáš, který uměl počítat, co svět ztrácí, a nebát se výsledku, měl na okraji svých tabulek pět set dvanáct řádků a pamatoval si z nich jména. Varhaník. Poslední žačka houslové školy. Paní s vykřičníkem v Bubenči. Nikdy neřekl vzorek. Říkal lidi. Statistika bez jmen je jen jiný druh zapomínání — a proti zapomínání tady byla, s celým svým směšným, nedoložitelným arzenálem: jednou hlavou, jednou mincí a jedním sklepem plným cizí pečlivosti.
 
-Spálila výpočty nad dřezem — Jonášovy výtisky se vrátí do sklepa, mezi mouku, kam patří — umyla si ruce a šla si stoupnout k oknu, do tmy nad městem, které svítilo a dokládalo se a tvrdlo. Zítra bude středa. Ve středu se dají posílat vzkazy, které nikam nespěchají, a shánět lidé, kteří nechtějí být k nalezení; věděla už, jak na obojí, a věděla, v jakém pořadí. Napřed čísla. Potom kavárna. A někde za tím vším, na konci pořadí, o kterém zatím nedokázala myslet vcelku, jen po krocích — složka stupně jedna á. Někde pod ním, v klenutém sklepě mezi moukou, ležel šanon s nejmilejším padělkem mrtvého statistika. Někde nad ním, ve čtvrtém patře, spal registr. A pod tím vším, kilometry a staletí dolů, ležely vrstvy.
+Spálila výpočty nad dřezem — Jonášovy výtisky se vrátí do sklepa, mezi mouku, kam patří — umyla si ruce a šla si stoupnout k oknu, do tmy nad městem, které svítilo a dokládalo se a tvrdlo. Zítra bude středa. Ve středu se dají posílat vzkazy, které nikam nespěchají, a shánět lidé, kteří nechtějí být k nalezení; věděla už, jak na obojí, a věděla, v jakém pořadí. Napřed čísla. Potom kavárna. A někde za tím vším, na konci pořadí, o kterém zatím nedokázala myslet vcelku, jen po krocích — složka stupně jedna á. A pod tím vším, kilometry a staletí dolů, vrstvy.
 
 Pod prvním lidským stehem našla starší. A pod ním starší. Letokruhy. Něco tady šilo dávno před námi — a nikdo u toho nedržel pero.

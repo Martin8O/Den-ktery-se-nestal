@@ -7,7 +7,7 @@ date_in_story: 2031-11-07
 target_words: 3400
 plants: [P-T4-3]
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Avízo IV/2031-119** · Wagnerová T.: přístup na IV. podlaží dočasně pozastaven, provozní
@@ -23,7 +23,7 @@ Přístup na čtvrté podlaží pozastaven, provozní důvody, námitka nepříp
 
 Ten čtvrtek seděla zase dole, ve třetím patře, nad obyčejnou agendou, jako celých čtrnáct let — jenže čtrnáct let nevěděla, co jede nahoře, a teď to věděla a poslouchala budovu nad stropem. Vozíky. Kroky. V poledne tlumené hučení sálu. Provoz běžel, okno pracovalo, někde nahoře vezla Boháčová podklady, které už Tereza neuvidí — a ona seděla pod tím vším s vystydlým čajem a učila se novou disciplínu: být venku. Šlo to hůř než všechno, co se kdy učila. Vevnitř se dalo jednat; venku se dalo jen čekat, a čekání bylo řemeslo Tichých, ne její.
 
-Potkala ho v poledne na chodbě, s deskami pod paží. Zastavil se sám.
+Roubala potkala v poledne na chodbě, s deskami pod paží. Zastavil se sám.
 
 "To avízo není ode mě," řekl bez úvodu, tiše, a poprvé za čtrnáct let vypadal jako člověk, který spěchá. "Je nade mnou. Rozumíte? Poprvé za třicet let je něco nade mnou." Přehodil si desky. "Buďte teď úplně obyčejná, Terezo. Několik týdnů. Žádné sondy, žádné indexy, žádná pilnost — pilnost je teď nápadná. Obyčejnost vás podrží."
 
@@ -51,7 +51,7 @@ Takže tohle byl Halinin archiv. Tereza šla podél regálů ke stolu pomalu, ru
 
 "To záleží na tom, jak rychle počítáte."
 
-"Rychle," řekla Halina. "Špatně, jak se ukazuje, ale rychle." A to bylo poprvé a naposled, co Tereza viděla Halinu Vranou udělat vtip, a byl přesně takový, jaký čekala: nůž, obrácený špičkou k sobě.
+"Rychle," řekla Halina. "Špatně, jak se ukazuje, ale rychle." A to bylo poprvé a naposled, co Tereza viděla Halinu udělat vtip, a byl přesně takový, jaký čekala: nůž, obrácený špičkou k sobě.
 
 Položila na stůl to, co třídila dvě noci: ne šanony — výtah, dvanáct listů, přepsaných vlastní rukou, čísla a křivky a tři řádky odvození. Připravovala si je jako obhajobu, protože obhajoba to byla: mluvila za mrtvého, který už svá čísla vysvětlit nemohl, a před soudcem, který zabíjel za špatné dotazy. List po listu, bez rétoriky — Halina byla poslední člověk na světě, na kterého by platila rétorika — jen metodika, prameny, vzorek, kontrolní vzorek. U pátého listu si Halina přisunula židli blíž. U sedmého poprvé sáhla po vlastní tužce. Kotevní hustota země za deset let. Skoková tvrdnutí kolem každé uzavřené zóny. A rovnice, kterou z toho odvodila: co jednotka změkčí, to se do deseti let zafixuje natvrdo, i s okolím; bilance každé čistky je záporná; síť tvrdne rychleji, než měkne, a tvrdne tím rychleji, čím víc se čistí, protože každá díra volá po stehu a každý steh je navždy.
 
@@ -71,13 +71,21 @@ V půl sedmé Halina odložila tužku, srovnala listy na hranu a dlouho se díva
 
 "Jen tak?" Tereza to nedokázala zadržet. "Čtyřicet minut a tužka?"
 
-"Čekala jste obrácení na víru? Slzy?" Halina zavrtěla hlavou, jednou. "Já nemám víru, o kterou bych přišla. Mám bilanci. Bilance se změnila." Odmlčela se a poprvé za celý večer uhnula pohledem, o ten milimetr, který u ní znamenal zemětřesení. "Ale když už se ptáte: ne, není to jen tak. Patnáct let jmen, která jsem vážila dvakrát, protože součet vycházel kladně. Teď nevychází. Víte, co to znamená pro člověka, jako jsem já? Ne. Nevíte a nepřejte si to vědět. A teď mi řekněte, co potřebujete, než si to rozmyslím — to byl žert," dodala bezbarvě. "Já si věci nerozmýšlím. To je moje jediná dobrá vlastnost."
+"Čekala jste obrácení na víru? Slzy?" Halina zavrtěla hlavou, jednou. "Já nemám víru, o kterou bych přišla. Mám bilanci. Bilance se změnila." Odmlčela se a poprvé za celý večer uhnula pohledem, o ten milimetr, který u ní znamenal zemětřesení. "Ale když už se ptáte: ne, není to jen tak. Patnáct let jmen, která jsem vážila dvakrát, protože součet vycházel kladně. Teď nevychází. Víte, co to znamená pro člověka, jako jsem já? Ne. Nevíte a nepřejte si to vědět. A teď mi řekněte, co potřebujete, než si to rozmyslím — to byl žert," dodala bezbarvě. "Já si věci nerozmýšlím. To je moje jediná dobrá vlastnost. A abyste věděla, co ta tužka právě stála: od zítřka nepřevezmu obálku. U nás se nedává výpověď, paní Wagnerová; u nás se přestane brát telefon a čeká se, do které kolonky vás zapíšou. Takže ne. Není to jen tak."
 
 * * *
 
 Bylo to jednání a vedly ho jako jednání, dvě přesné ženy nad vystydlým čajem, položku po položce.
 
-Halina dala na stůl dvě věci. Přístup — a vysvětlila ho tak, jak se vysvětluje trasa, po které se půjde jen jednou. Jednotka měla na čtvrtém podlaží své cesty: servisní schodiště ze dvora, kterým se ve čtvrtek nosil materiál a kterým procházely karty bez jmen, vedené na útvar; rozpis podpůrných směn, do kterého viděla; a mrtvý úhel jediné kamery — pás podél východní stěny, kudy se dalo projít od dveří k regálům, aniž pult cokoli zaznamenal, protože kamera hlídala braní, ne chůzi. "Karta bude fungovat jeden večer," řekla. "Který, to si řeknete vy, a řeknete mi to co nejpozději — co nevím, nemůžu zapomenout špatně. Rozpis zařídím tak, aby na trase nikdo nebyl. Nebudu tam. Tím pro mě ten večer končí; co uděláte uvnitř, je vaše řemeslo, ne moje." Položila na stůl obyčejnou šedou kartu bez potisku, a vedle ní, jako druhou polovinu téže věty, klíč s papírovým štítkem popsaným jen číslem. A seznam — vytáhla z regálu tenké desky a položila je před Terezu: evidence kotev spisu F-2025-0714-K, vedená jednotkou, průběžně, šest let. Jednotka si hlídala své zápisy; ke každé fixaci vedla síť kotev, které ji drží, protože zápis, kterému se zhroutí síť, měkne, a měknoucí zápis je provozní riziko. Byla to zrcadlová práce k té její: verifikátoři hlídali, aby pravdy nepadaly, jednotka hlídala, aby nepadaly zápisy, a obě řemesla používala tytéž tabulky, tytéž váhy, tutéž trpělivost. Šest let si mysleli, že hlídají spis. Ve skutečnosti hlídali ji — poslední živý sloup pod vlastním dílem — a evidence to říkala bez okolků, řádek po řádku, s daty kontrol: hrob navštěvován, výročí dodržováno, vazba stabilní. Někdo si každý rok odškrtl, že dost truchlí.
+Halina dala na stůl dvě věci. Přístup — a vysvětlila ho tak, jak se vysvětluje trasa, po které se půjde jen jednou. Jednotka měla na čtvrtém podlaží své cesty: servisní schodiště ze dvora, kterým se ve čtvrtek nosil materiál a kterým procházely karty bez jmen, vedené na útvar; rozpis podpůrných směn, do kterého viděla; a mrtvý úhel jediné kamery — pás podél východní stěny, kudy se dalo projít od dveří k regálům, aniž pult cokoli zaznamenal, protože kamera hlídala braní, ne chůzi. "Karta bude fungovat jeden večer," řekla. "Který, to si řeknete vy, a řeknete mi to co nejpozději — co nevím, nemůžu zapomenout špatně. Rozpis zařídím tak, aby na trase nikdo nebyl. Nebudu tam. Tím pro mě ten večer končí; co uděláte uvnitř, je vaše řemeslo, ne moje." Položila na stůl obyčejnou šedou kartu bez potisku, a vedle ní, jako druhou polovinu téže věty, klíč s papírovým štítkem popsaným jen číslem.
+
+A seznam. Vytáhla z regálu tenké desky a položila je před Terezu: evidence kotev spisu F-2025-0714-K, vedená jednotkou, průběžně, šest let. Jednotka si hlídala své zápisy; ke každé fixaci vedla síť kotev, které ji drží, protože zápis, kterému se zhroutí síť, měkne, a měknoucí zápis je provozní riziko. Byla to zrcadlová práce k té její: verifikátoři hlídali, aby nepadaly pravdy, jednotka hlídala, aby nepadaly zápisy, a obě řemesla používala tytéž tabulky, tytéž váhy, tutéž trpělivost.
+
+Šest let si mysleli, že hlídají spis. Ve skutečnosti hlídali ji — poslední živý sloup pod vlastním dílem — a evidence to říkala bez okolků, řádek po řádku, s daty kontrol: hrob navštěvován, výročí dodržováno, vazba stabilní. Někdo si každý rok odškrtl, že dost truchlí.
+
+Jednu položku chtěla navíc a řekla si o ni rovnou: složka stupně jedna á. Přemístění. Kde je.
+
+"Ne." Halina to řekla bez zaváhání a bez omluvy. "Ne že nechci — nemám. Jednotka odvede a předá; co je za předávkou, naše evidence nevede. To je nad námi, v obálkách, které se neotvírají u nás, a kdybych vám slíbila, že to zjistím, lhala bych." A po vteřině, jediný ústupek, hlasem o stupeň nižším: "Vím jen, že se to dělá pořádně. Přemístěné děti se nedávají do děr — díra je provozní riziko. Víc útěchy nemám a i tahle je z druhé ruky."
 
 "Proč mi to všechno dáváte?" zeptala se Tereza nad kartou a klíčem, protože otázka byla poctivá a musela padnout. "Chyba v rovnici vysvětluje, proč končíte. Nevysvětluje, proč pomáháte mně."
 

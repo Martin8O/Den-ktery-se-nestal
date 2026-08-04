@@ -7,7 +7,7 @@ date_in_story: 2031-11-27
 target_words: 3500
 plants: []
 payoffs: [P-T4-1, P-T4-2, P-T4-3, P-T4-4, P-T5-1]
-status: draft
+status: revised
 ---
 
 > **Personální evidence, výpis k 27. 11. 2031** · dotaz: Wagnerová T., sekce verifikace
@@ -41,7 +41,7 @@ Sníh padal od rána, první toho roku, mokrý a slavnostní, a město pod ním 
 
 A tam, u stánku s perníkem, uviděla dítě.
 
-Nehledala ji. To si potom opakovala celou noc a bylo to pravda a nebylo to celé: nehledala ji, ale chodila poslední týden městem víc, než bylo nutné, dlouhými oklikami, s očima, které si ze šesti let zvyku prohlížely každou dětskou čepici — a město je smyčka náhod a náhoda a ona, jak věděla od jisté doby, šijí stejným stehem. Stály u stánku s perníkem, matka a dcera, venkovsky oblečené, s taškou na výlet; matka v prošívané bundě ukazovala na něco za sklem a smála se, a dívka vedle ní —
+Nehledala ji. To si potom opakovala celou noc a bylo to pravda a nebylo to celé: nehledala ji, ale chodila poslední týden městem víc, než bylo nutné, dlouhými oklikami, s očima, které si ze šesti let zvyku prohlížely každou dětskou čepici — a adventní Praha je město, do kterého se jezdí na výlet z celé země, a ona s tím nepočítala a počítala zároveň, jak to umějí jen lidé jejího řemesla. Město je smyčka náhod; a náhoda a ona, jak věděla od jisté doby, šijí stejným stehem. Stály u stánku s perníkem, matka a dcera, venkovsky oblečené, s taškou na výlet; matka v prošívané bundě ukazovala na něco za sklem a smála se, a dívka vedle ní —
 
 Dvanáct let. Vyšší, než čekala. Vlasy tmavé, rovné, po — vlasy tmavé a rovné. Stála u stánku v zelené bundě s kapucí, na zádech batůžek s klíčenkou ve tvaru delfína, a poskakovala z nohy na nohu tím způsobem, jakým poskakují děti, kterým je zima a jsou šťastné a nechtějí jít domů, a když se zasmála — neslyšela ten smích přes ulici, jen ho viděla, celý, v ramenou, v hlavě zakloněné — udělalo se Tereze v hrudi něco, co by se muselo jmenovat zároveň všechno a prázdno.
 
@@ -71,13 +71,17 @@ Domů došla za tmy. Byt ji přivítal, jak vítají byty, které už nikdo nepr
 
 Rozuměla teď svému novému stavu celému a po cestě domů si ho poprvé pojmenovala bez hořkosti, protože hořkost je taky druh účetnictví a ona zavírala knihy. Nedoloženost nebyla díra. Nedoloženost byla místnost. Svět nahoře, nad prahem, žil ze samých potvrzení — jméno, číslo, podpis, zůstatek — a celý život si myslela, že pod tou sítí je jen pád. Nebyl. Bylo tam ticho a místo a zvláštní, přísná svoboda: žena, kterou nevede žádná evidence, nemůže nic ztratit, nemůže být vydírána, prověřena, uzavřena postupem dle čehokoli. Nemá nárok na nic a nikdo nemá nárok na ni. Tiší zabíjeli měkké lidi, protože měkcí lidé nikomu nechyběli — a přesně v tom byl teď její pancíř: nikdo nezabíjí toho, kdo už v žádné tabulce není. Halina to řekla dávno, aniž věděla, že vyslovuje návod: kdybyste změkla, byla byste položka jako každá jiná. Změkla. A vypadla z ceníku.
 
-Jíst bude. To si spočítala střízlivě už první týden: hotovost ze zrušeného účtu vydrží skromné roky, a až nevydrží, existují práce, které se platí z ruky do ruky a neptají se — hlídání, úklid, korektury; město je plné škvír a ona teď byla škvírní obyvatelstvo. Potřeby měla malé a zmenšovaly se; věci, které se kupují, jsou většinou kotvy, a ona odvykala kotvám jako kuřák cigaretám, den po dni, s občasnou slabostí u výloh papírnictví.
+Jíst bude. To si spočítala střízlivě už první týden: hotovost ze zrušeného účtu vydrží skromné roky, a až nevydrží, existují práce, které se platí z ruky do ruky a neptají se — hlídání, úklid, korektury; město je plné škvír a ona teď byla škvírní obyvatelstvo. Nájem posílala dál sama, hotově, poukázkou na účet domu; peníze bez jména přijímal dům ochotně a měřáky se neptají nikoho. Potřeby měla malé a zmenšovaly se; věci, které se kupují, jsou většinou kotvy, a ona odvykala kotvám jako kuřák cigaretám, den po dni, s občasnou slabostí u výloh papírnictví.
 
 Rozsvítila lampu na stole. Sedla si. A pak, poprvé od té noci v sále, udělala něco, co nebyl úklid, evidence ani přežívání: vzala čistý sešit, který si kdysi koupila v papírnictví na rohu, protože odejít bez ničeho by bylo nápadné, otevřela ho na první straně a vzala pero.
 
 Do levé ruky.
 
-Nikdy o tom nepřemýšlela; levá ruka byla její od začátku, od školy, od prvního inkoustu. Teď se na tu ruku dívala, jak drží pero nad prázdnou stranou — a inkoust se jí táhl za hranou dlaně a stříbřil ji, jako ji stříbřil celý život: na protokolech, na parapetu pod Roubalovým pohledem, na žádankách, na poučení o mlčenlivosti, na podpisu, kterým si před šestnácti dny — před celým jedním věkem — stvrdila vlastní účet. Levačky by měly fasovat rychleschnoucí barvu, řekl jí kdysi nad parapetem vlídný hlas, který se teď pečlivě díval jinam. Tereza seděla nad tím obrazem — pero, levá ruka, stříbrná hrana — a rozuměla mu najednou celému, do dna, protože ho už jednou viděla: zvenku, dávno, v jedné větě, kterou si tenkrát nezapsala. Pero v levé ruce. Mince ražby jejího ročníku, ohlazená obracením. Šeřík — vzpomněla si na dvůr, na okno u automatu, na holé listopadové větve, na jaře kveteš pro někoho jiného, a věděla s jistotou, která nepotřebovala doklad, že si najde pokoj, ze kterého na ten dvůr bude vidět, protože její řemeslo bude potřebovat dům, který se nedívá, a čtvrtky, které má odteď volné. A věta. Ta věta, kterou si pomyslela nad vysunutou zásuvkou a nikomu ji neřekla, vlastně ani sobě — nejtěžší není zapsat; nejtěžší je nechat nezapsané — ta věta na ni čekala celou dobu tady, na téhle straně stolu, jako čeká nářadí na ruku, která do něj doroste.
+Nikdy o tom nepřemýšlela; levá ruka byla její od začátku, od školy, od prvního inkoustu. Teď se na tu ruku dívala, jak drží pero nad prázdnou stranou — a inkoust se jí táhl za hranou dlaně a stříbřil ji, jako ji stříbřil celý život: na protokolech, na parapetu pod Roubalovým pohledem, na žádankách, na poučení o mlčenlivosti, na podpisu, kterým si před šestnácti dny — před celým jedním věkem — stvrdila vlastní účet. Levačky by měly fasovat rychleschnoucí barvu, řekl jí kdysi nad parapetem vlídný hlas, který se teď pečlivě díval jinam.
+
+Tereza seděla nad tím obrazem — pero, levá ruka, stříbrná hrana — a rozuměla mu naráz celému, do dna, protože ho už jednou viděla: zvenku, dávno, v jedné větě, kterou si tenkrát nezapsala. Pero v levé ruce. Mince ražby jejího ročníku, ohlazená obracením. Šeřík — vzpomněla si na dvůr, na okno u automatu, na holé listopadové větve, na jaře kveteš pro někoho jiného, a věděla s jistotou, která nepotřebovala doklad, že si najde pokoj, ze kterého na ten dvůr bude vidět, protože její řemeslo bude potřebovat dům, který se nedívá, a čtvrtky, které má odteď volné.
+
+A věta. Ta věta, kterou si pomyslela nad vysunutou zásuvkou a nikomu ji neřekla, vlastně ani sobě — nejtěžší není zapsat; nejtěžší je nechat nezapsané — ta věta na ni čekala celou dobu tady, na téhle straně stolu, jako čeká nářadí na ruku, která do něj doroste.
 
 Nebyla první, kdo tudy šel. Někdo přesně takový šel před ní — šest let, možná déle, někdo nám celou dobu zametá cestu, vám, přesněji — někdo, kdo věděl, kdy má zmizet záznam o cestě do knihovny, do kterého ročníku se má založit kalibrační protokol, které jméno má vypadnout ze seznamu prověrek mezi středou a čtvrtkem. Celé týdny se ptala, kdo to je, a bála se odpovědi, a teď seděla s perem v levé ruce nad prázdným sešitem a odpověď byla tak prostá, že se jí dalo jen tiše zasmát: nikdo tam nebyl. Nikdo tam nikdy nebyl — jen smyčka, která se právě, tady, u tohohle stolu, dovírala. Ty cesty ještě nikdo nezametl. Ty cesty teprve zamete. Ona.
 
@@ -97,7 +101,7 @@ Okenice. Západní okno. Olejnička.
 
 Zamést: knihovna, pátek. K-224, špatný ročník. Prověrky, středa.
 
-Řádky se skládaly a ona po nich sestupovala jako po schodech, které sama vyšlapala z druhé strany, a rozuměla teď celé té dráze — každé náhodě, která ji nesla, každé drobnosti, ze které si osud nedokázal pomoct, každému stehu, který ji dovedl přesně sem, k tomuhle stolu, k tomuhle peru, k téhle ruce. Nebyla vyvolená a nebyla vedená; byla jen na obou koncích téže nitě, a nit se právě dopnula, bez uzlu, hladce, jak se dopínají věci, které nikdy nebyly dvě. Čas na to bude mít: žena, která není v žádné evidenci, má všechen čas světa a všechny čtvrtky k tomu.
+Řádky se skládaly a ona po nich sestupovala jako po schodech, které sama vyšlapala z druhé strany. Nebyla vyvolená a nebyla vedená; byla jen na obou koncích téže nitě, a nit se právě dopnula, bez uzlu, hladce, jak se dopínají věci, které nikdy nebyly dvě. Čas na to bude mít: žena, která není v žádné evidenci, má všechen čas světa a všechny čtvrtky k tomu.
 
 A pod poslední řádek seznamu, po chvíli, připsala ještě jeden, ten, který zbýval a který ponese všechny ostatní, protože bez něj by nebyl stůl ani pero ani stroj ani dům, který se nedívá:
 
@@ -105,7 +109,7 @@ Výkres. Papír koupit. Nespěchá — má čas do roku 1978.
 
 Seděla nad tím řádkem dlouho a bylo jí — a to slovo si napsala do sešitu jako poslední zápis toho dne, protože bylo přesné a nikdo ho nikdy nebude číst — lehko a strašně zároveň.
 
-Venku sněžilo na město, které ji neznalo. V evidencích téhle země po ní zbývalo pár osiřelých záznamů, zaokrouhlovaných k nule s každou uzávěrkou; v hlavách pár měknoucích stop — vrátný se zaváháním, kolegyně s rozpačitým pozdravem, starý muž, který se pečlivě díval jinam, muž s unaveným hodným hlasem, který jednou za čas zvedne telefon a nebude vědět, na koho čekal. To všechno doběhne, doteče, zaokrouhlí se. Nevadilo to. Poprvé za celý život to nevadilo — protože všechno, co stálo za nesení, nesla: holčičku s tíhou spící hlavy, smích viděný přes ulici, plavat umí, a řemeslo, kterým se dá to všechno jednou, drobnost po drobnosti, splatit světu, který o tom nesmí vědět.
+Venku sněžilo na město, které ji neznalo. V evidencích téhle země po ní zbývalo pár osiřelých záznamů, zaokrouhlovaných k nule s každou uzávěrkou; v hlavách pár měknoucích stop — vrátný se zaváháním, kolegyně s rozpačitým pozdravem, starý muž, který se pečlivě díval jinam, muž s unaveným hodným hlasem, který jednou za čas zvedne telefon a nebude vědět, na koho čekal. Nesrovnalost z jedné čtvrteční noci založil kdosi ve čtvrtém patře k roční uzávěrce, mezi věci, které se nemají najít; jednotka zůstala stát v technické pauze, bez své počtářky, a čtvrtky nahoře běžely dál. To všechno doběhne, doteče, zaokrouhlí se. Nevadilo to. Poprvé za celý život to nevadilo — protože všechno, co stálo za nesení, nesla: holčičku s tíhou spící hlavy, smích viděný přes ulici, plavat umí, a řemeslo, kterým se dá to všechno jednou, drobnost po drobnosti, splatit světu, který o tom nesmí vědět.
 
 Jednou, za roky, až bude ruka jistá a lem toho léta zase o kus dál, přijde možná i steh, na který si dnes ještě netroufala myslet vcelku — něco malého u vody, nedoloženého, něžného, dárek bez jmenovky pro holku, která má ráda holuby a perník a delfíny. Nespěchá to. Nic už nespěchá. Trpělivost je vlastnost institucí, řekl kdysi Jonáš, a mýlil se v jednom: je to i vlastnost matek, kterým zbývá všechen čas světa.
 

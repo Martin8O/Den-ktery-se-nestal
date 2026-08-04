@@ -7,7 +7,7 @@ date_in_story: 2031-10-01
 target_words: 3400
 plants: [P-T1-2]
 payoffs: []
-status: draft
+status: revised
 ---
 
 > **Spis V-2031-0387** · stav: UZAVŘENO (řízení odpadá, § 22/1c) · archivace trvalá
@@ -41,11 +41,11 @@ Tereza se dívala na mapu a dělala v hlavě to, co uměla nejlíp: kotevní roz
 
 "Jak dlouho?" zeptala se. "Jak dlouho se to děje?"
 
-"Nejstarší skoková ztráta, kterou mám, je jedenáct let zpátky. Ale to je hrana mých dat, ne hrana jevu. Klidně to může běžet dvacet let. Třicet." Jonáš pokrčil rameny. "Pomalu, Terezo. Jedna zóna za rok, za dva. Kdo spěchá, dělá chyby, kdo spěchá, potřebuje výsledky. Tihle nespěchají, tihle hospodaří. To mi na tom celém dělá největší starost — trpělivost je vlastnost institucí."
+"Nejstarší skoková ztráta, kterou mám, je dvanáct let zpátky. Ale to je hrana mých dat, ne hrana jevu. Klidně to může běžet dvacet let. Třicet." Jonáš pokrčil rameny. "Pomalu, Terezo. Jedna zóna za rok, za dva. Kdo spěchá, dělá chyby, kdo spěchá, potřebuje výsledky. Tihle nespěchají, tihle hospodaří. To mi na tom celém dělá největší starost — trpělivost je vlastnost institucí."
 
 "Chybí ti tam třetí druh," řekla, pořád zády k němu, protože profesionál v ní nedokázal mlčet ani teď. "Počítáš papíry a lidi. Kotvy jsou tři: dokumenty, paměť, věci. Fyzické stopy — budovy, hroby, stromy, jizvy. Ty se ničí nejhůř a nejnápadněji, potřebuješ demolici, požár, povodeň." Otočila se. "Zkus si ke svým zónám přiložit stavební úřady a vodohospodáře. Jestli má tvůj systém rukopis, jaký myslím, najdeš tam totéž: legální zásahy, doložené, smůla. Demolice po statice. Kácení po vichřici."
 
-"Libeň," řekl Jonáš tiše a poklepal na vlaječku s nejstarším křížkem. "Demolice po statice. Rok devatenáct." Chvíli bylo ticho. "Já věděl, že tě mám pozvat dřív."
+"Libeň," řekl Jonáš tiše a poklepal na vlaječku nejstarší zóny. "Demolice po statice. Rok devatenáct." Chvíli bylo ticho. "Já věděl, že tě mám pozvat dřív."
 
 "Tohle jsi dal dohromady kdy?"
 
@@ -55,7 +55,11 @@ Tereza se dívala na mapu a dělala v hlavě to, co uměla nejlíp: kotevní roz
 
 Jonáš poslouchal tak, jak neposlouchal nikdy: bez jediného vtipu, s lokty na kolenou, a hrnek mu v dlaních vystydl, aniž se napil. Když došla ke spisu, vstal, došel k mapě a položil prst na vlaječku bez křížku, a když domluvila, dlouho bylo ticho a v tichu bylo slyšet, jak dole v pekárně někdo skládá plechy.
 
-"Ty víš, co ti řeknu, že jo," řekl pak. "Že tvoje verze spisu nemá jedinou kotvu. Že jsi unavená ženská po hrozných letech, která si mohla zapamatovat vlastní výrok špatně. To ti řekne každý, komu to řekneš, a bude mít pravdu, protože to je metodicky správně." Otočil se od mapy. "A já ti řeknu tohle: já tě čtyři roky poslouchám mluvit o spisech. Ty si nepamatuješ obsahy, ty si pamatuješ formulace. Jednou jsi mi u oběda odcitovala tři odstavce posudku, protože tě rozčílila čárka. Jestli mi řekneš, že ve výroku stálo námitka žadatele, tak tam stálo námitka žadatele." Pokrčil rameny, skoro omluvně. "U archivu tvoje paměť neváží nic. U mě váží. Ber to jako vadu mé metodiky."
+"Proč zrovna Záruba?" zeptal se pak. "Ty jsi za ta léta zamítla stovky lidí a všem ses uměla vyhnout obloukem. Proč ti nedá spát zrovna tenhle?"
+
+Odpověď měla připravenou z domova; hranice se drží formulacemi. "Protože je poslední." A Jonáš se na ni podíval o vteřinu déle, než bylo k čemu, zaznamenal si něco do té své vnitřní evidence a nezeptal se znovu.
+
+"Ty víš, co ti řeknu, že jo," řekl místo toho. "Že tvoje verze spisu nemá jedinou kotvu. Že jsi unavená ženská po hrozných letech, která si mohla zapamatovat vlastní výrok špatně. To ti řekne každý, komu to řekneš, a bude mít pravdu, protože to je metodicky správně." Otočil se od mapy. "A já ti řeknu tohle: já tě čtyři roky poslouchám mluvit o spisech. Ty si nepamatuješ obsahy, ty si pamatuješ formulace. Jednou jsi mi u oběda odcitovala tři odstavce posudku, protože tě rozčílila čárka. Jestli mi řekneš, že ve výroku stálo námitka žadatele, tak tam stálo námitka žadatele." Pokrčil rameny, skoro omluvně. "U archivu tvoje paměť neváží nic. U mě váží. Ber to jako vadu mé metodiky."
 
 Tereza se dívala do hrnku, protože kdyby se dívala na něj, musela by něco udělat s obličejem. Šest let jí nikdo neřekl nic laskavějšího — a nejhorší na tom bylo, že to nemyslel laskavě, myslel to metodicky, a proto se tomu nedalo nijak bránit.
 
@@ -69,9 +73,7 @@ Tereza se dívala do hrnku, protože kdyby se dívala na něj, musela by něco u
 
 * * *
 
-V úterý si ji našel Roubal.
-
-Ne na chodbě; pozval ji k sobě, což dělal zřídka, a jeho kancelář vypadala pořád stejně — žádné diplomy, žádné fotografie, jen police s ročníky věstníku a na stole psací souprava, o které se v budově říkalo, že je starší než republika. Nalil jí čaj, který nechtěla, do šálku, který nesnesl odmítnutí, a deset minut mluvil o terénu po Machovi: předávací protokoly, rozjeté případy, dva spory, které bude přebírat — restituce v Dejvicích, kde se hádaly tři generace o jednu zahradu, a revize trestního rozsudku z devadesátých let, ošklivá věc, u které Mach nechal poznámku psanou svým seznamovým stylem: pomalu, po kotvách, nevěřit ničemu z tisku. Roubal jí předával terén po způsobu majetku: s inventurou, s čísly, s drobnými radami vsunutými mezi položky, a Tereza poslouchala a kývala a bylo jí přitom zvláštně smutno, protože tohle byl Roubal, kterého znala čtrnáct let — pečlivý, spravedlivý, oddaný řemeslu — a ona už nedokázala poslouchat ani inventuru, aniž v ní hledala druhé dno.
+V úterý ji Roubal pozval k sobě, což dělal zřídka. Kancelář vypadala pořád stejně — žádné diplomy, žádné fotografie, jen police s ročníky věstníku a na stole psací souprava, o které se v budově říkalo, že je starší než republika. Nalil jí čaj, který nechtěla, do šálku, který nesnesl odmítnutí, a deset minut mluvil o terénu po Machovi: předávací protokoly, rozjeté případy, dva spory, které bude přebírat — restituce v Dejvicích, kde se hádaly tři generace o jednu zahradu, a revize trestního rozsudku z devadesátých let, ošklivá věc, u které Mach nechal poznámku psanou svým seznamovým stylem: pomalu, po kotvách, nevěřit ničemu z tisku. Roubal jí předával terén po způsobu majetku: s inventurou, s čísly, s drobnými radami vsunutými mezi položky, a Tereza poslouchala a kývala a bylo jí přitom zvláštně smutno, protože tohle byl Roubal, kterého znala čtrnáct let — pečlivý, spravedlivý, oddaný řemeslu — a ona už nedokázala poslouchat ani inventuru, aniž v ní hledala druhé dno.
 
 Od pondělka byl terén její. Kývla na to minulý týden — kvůli přístupu, řekla si tenkrát, a znělo to rozumně, a teprve když teď Roubal přeskládal papíry a podíval se na ni tím svým způsobem, došlo jí, že rozumné důvody a bezpečné důvody nejsou totéž.
 
