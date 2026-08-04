@@ -35,7 +35,7 @@
 **friction** Služební limit sond; Machův rozklad jako zrcadlo Terezina možného konce; instituce, jež své zakládající falzum vede v evidenci a dál na něm stojí.
 **turn** Čtenář (a Tereza) pochopí: doložení není poznání, je to MOC — a platí se pamětí.
 **out-hook** *Limit je dvě stě. Tereza má sto sedmdesát dva. To není statistika, to je odpočet.*
-**beats** Čtvrteční provoz Ústavu (fixační okno jen jako „uzavřené patro") · sonda na case-of-the-week s vyčísleným účtem předem · Mach (mluví v seznamech; zapomněl dceřinu svatbu) · archivní exkurz: výkres 1978 + vodoznak z 90. let, „prokázané falzum s pravými důsledky" · Jonáš a jeho svetry po dědovi; Tereza levačka (mimochodem, na stránce).
+**beats** Čtvrteční provoz Ústavu (fixační okno jen jako „uzavřené patro") · výkres 1978 ve vitríně + vodoznak z 90. let, „prokázané falzum s pravými důsledky" (scéna s Jonášem; svetry po dědovi) · sonda na case-of-the-week s vyčísleným účtem předem · Mach (mluví v seznamech; zapomněl dceřinu svatbu) · Tereza levačka (mimochodem, na stránce). *(pořadí beatů srovnáno s rukopisem na WP1 — vitrína před sondou nabíjí ch05)*
 **plants** P-T1-1 · **payoffs** —
 **cast** Roubal (scene) · Jonáš (scene) · Mach (scene) · **location** Ústav retrospekce, Praha
 **register** Tereza + institucionální komedie s ledem pod nohama; Jonáš rychlý, teplý.
@@ -100,7 +100,7 @@
 
 ### ch07 · Jonáš
 `part II · seq 2.1 · slug ch07-jonas · POV Tereza · date 2031-10-16 · target 3,700 · tier frontier·max`
-**goal** Set-piece bolesti: Jonáš zavražděn (čtvrtek; „zástava"). Mapa zmizela. Poslední zpráva v mrtvé schránce: spisová značka `F-2025-0714-K` — Tereza ji čte jako číslo další oběti. Bod, odkud není návratu.
+**goal** Set-piece bolesti: Jonáš zavražděn (čtvrtek; „zástava"). Jonášova záloha a pracovní materiály zmizely při „vyklizení" bytu (mapa sama zůstává u Terezy — viz ch05). Poslední zpráva v mrtvé schránce: spisová značka `F-2025-0714-K` — Tereza ji čte jako číslo další oběti. Bod, odkud není návratu. *(karta srovnána s rukopisem na WP2)*
 **friction** Musí na pohřeb a do práce s kamennou tváří; smutek se pere s pudem sebezáchovy; nemá důkaz, jen jistotu.
 **turn** Spiklenci → poslední živá. Strach → studený vztek (Terezin motor části III).
 **out-hook** *Spisová značka. Jonáš jí místo rozloučení nechal spisovou značku. Tak dobře. Bude to spis, který ho zabil — a ona zjistí čí.*
@@ -172,7 +172,7 @@
 **goal** Halinina dezerce: Tereza jí předloží důkaz, že rovnice Tichých nekonverguje (každá čistka plodí další; síť tvrdne rychleji, než měkne; jejich „mír" = dřívější konec dějin — K3). Halina nezradí ze soucitu, ale protože umí číst matematiku. Přinese přístup a seznam. A poznámku, která zamrazí: „někdo nám celou dobu zametá cestu."
 **friction** Vzájemná nedůvěra profesionálek; Halinina podmínka (žádní mrtví); čas — Roubal po ch10 stahuje smyčku (logy promluvily).
 **turn** Sama proti instituci → dvě proti instituci; a plán dostane obrys: kotvy Eminy smrti.
-**out-hook** *„Doktor je mrtvý. Svědek je mrtvý." Halina obrátila list. „Poslední kotva jste vy, paní Wagnerová. Vaše mateřství. Nejlevnější střih jste vždycky vy."*
+**out-hook** *„Doktor je mrtvý. Svědek je mrtvý." Halina obrátila list. „Poslední kotva jste vy, paní Wagnerová. Vaše mateřství. Nejlevnější střih jste vždycky vy."* *(WP3: doručen doslovně v závěru scény u Haliny; kapitolu ZAVÍRÁ plant P-T4-3 — vědomá odchylka, juxtapozice s I-5)*
 **beats** Schůzka na Halinině území (pravidla, prohlídka) · důkaz nekonvergence (na stránce, stručně, neprůstřelně) · dezerce + podmínky · aritmetika kotev Eminy smrti — enumerace, poslední řádek: mateřství (out-hook).
 **plants** P-T4-3 · **payoffs** —
 **cast** Halina (scene) · **location** Libeň, Halinin „archiv"
@@ -210,7 +210,7 @@
 **goal** T4 + T5 PÁLÍ. Doběh usedl: svět bez Terezina mateřství (kolegové ji míjejí, spisy ji „nenacházejí" — Ústav ji tiše vymazává a ona to NECHÁ). Ulice: Ema (12, zdravá, s cizí matkou) se na ni podívá jako na neznámou ženu — a Tereza to unese, protože to je přesně to, co koupila. Doma vezme pero do levé ruky a začne šít: čtenář pozná hlas mezikapitol (T4 — levá ruka, šeřík, koruna, věta z ch10 zaklapnou NA STRÁNCE). Poslední steh, který zbývá došít: výkres. Smyčka drží. Poslední věta: „Paměť jednoho člověka neváží nic." — a poprvé v knize to není prohra.
 **friction** Pokušení jediného doteku (oslovit Emu — neudělá to); mizení bolí prakticky (klíče, účty, jméno); samota bez svědka.
 **turn** Ztráta → úkryt: nedoloženost jako svoboda; Zapisovatelka se narodí z trosek verifikátorky.
-**out-hook** *(poslední věta knihy = P-T5-1; bez dalšího textu za ní)*
+**out-hook** *(poslední věta hlavní linie/kapitoly = P-T5-1; bez dalšího textu za ní — knihu jako celek uzavírá epilog I-6)*
 **beats** Svět po doběhu (tichá jízda důsledků; ŽÁDNÉ vysvětlování) · ulice — Ema (scéna psaná na maximální zdrženlivost; 18+ knihy je tady: bolest bez jediného drastického slova) · návrat: levá ruka, pero, seznam stehů (čtenář vidí, že F-I–F-V už zná) · rozhodnutí došít výkres (I-4 ↔ budoucnost) · věta-klešť.
 **plants** — · **payoffs** P-T4-1, P-T4-2, P-T4-3, P-T4-4, P-T5-1
 **cast** Ema (scene, beze slov) · **location** Praha, ulice; „byt", který už nikdo nepronajímá
@@ -227,6 +227,7 @@
 - Kapitol 15 (I: 5 · II: 5 · III: 5) + 6 fixací = 21 souborů.
 - Slovní rozpočet: kapitoly 52 200 + fixace 5 000 = **57 200 slov** ≈ 200 stran A5.
 - POV: Tereza 15/15 kapitol (fixace `pov: none`); vlákno dat přísně rostoucí 09-16 → 11-27.
-- Ledger: 14 řádků; každý plant i payoff má kartu; žádný plant po ch12 (I-4 poslední sázecí
-  mezikapitola; ch15 jen vyplácí). Fixace I-3 a I-6 bez řádku (echo/epilog by design).
+- Ledger: 14 řádků; každý plant i payoff má kartu; poslední planty P-T4-3 (ch12) a P-T4-4 (I-5);
+  ch13–ch15 už jen vyplácejí. Fixace I-3 a I-6 bez řádku (echo/epilog by design). *(audit
+  upřesněn na WP3)*
 - Tiery: max = ch01, ch07, ch08, ch10, ch11, ch14, ch15, I-4, I-5, I-6 · high = zbytek.

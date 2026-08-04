@@ -15,7 +15,7 @@
   právě proto přežije vymazání.
 - Levačka (P-T4-1). Talisman: koruna ročník 1987 v kapse pláště (P-T4-2). Pedantka na detail;
   citově zamrzlá v den pohřbu; suchý, přesný humor, který si dovolí jen u Jonáše.
-- Tělesně: první mikroinfarkty paměti od ch04 (zapomene vůni Eminých vlasů — cena, kterou kniha
+- Tělesně: první mikroinfarkt paměti v ch03 (zapomene vůni Eminých vlasů — cena, kterou kniha
   vyčíslí nahlas).
 
 ## Viktor Roubal (60) — šéf sekce verifikace; otcovská figura a podpis čistek
@@ -32,7 +32,8 @@
   návratu a Terezin motor pro část III.
 
 ## Halina Vraná (35) — Tichá; Terezino temné zrcadlo
-- Likvidátorka posledních svědků, vystudovaná teoretička her. Chladná, zdvořilá, bez sadismu:
+- U jednotky „patnáct let" (ch12) — naverbována ve 20 při studiu; teorii her dostudovala už
+  „v provozu". Likvidátorka posledních svědků. Chladná, zdvořilá, bez sadismu:
   „měkká minulost znamená mír" — vraždí, aby se dějiny nedaly zneužít.
 - Dezertuje (ch12) ne ze soucitu, ale protože jí Tereza dokáže, že rovnice Tichých nekonverguje
   (K3). Přinese přístup a seznam. V ch14 kryje vloupání; dál její osud kniha nedokládá — záměrně.
@@ -46,7 +47,8 @@
 ## Vedlejší (jednou větou)
 - **Alois Záruba (81)** — stařec z ch01 (Milena/Miroslava); první oběť, kterou čtenář zná
   jménem; zemře ve čtvrtek (ch04).
-- **Mach (57)** — vyhořelý verifikátor, 199 sond, mluví v seznamech; živý účet ceny (Z5), ch02.
+- **Mach (70; Karel)** — vyhořelý verifikátor, 199→200 sond (dvoustá ch02, pak metodika), nastoupil
+  1982 (VÚDR), mluví v seznamech; živý účet ceny (Z5), ch02. *(věk zpřesněn na WP1 dle prózy)*
 - **Pavel (46)** — bývalý manžel; jediná scéna (ch13, telefon): kotva, kterou Tereza musí
   nechat být.
 - **Vlachová (†2025)** — poslední pamětnice; čistka, kterou viděla Ema.

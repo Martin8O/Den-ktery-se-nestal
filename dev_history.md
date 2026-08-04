@@ -2,6 +2,48 @@
 
 > Professional changelog of progress + decisions. Newest entries on top. Decision index: `docs/adr.md`.
 
+## 2026-08-04 — P1 · The whole novel drafted: 21/21 units, ledger 14/14 paid, gate green
+
+**Shipped.** The complete first draft: 15 chapters + 6 interludes, **53,039 words**, every unit
+inside its hard band, every chapter opening on its file-header artefact and closing on its
+carded out-hook. All 21 files moved `stub` → `draft`.
+
+**Method (unattended chain per `Local/chain-W.md`).** One unit per step: read the card + the
+previous chapter + the open ledger rows → draft to the card → run the gate on the file → deepen
+in-run if the draft came out skeletal (it consistently did: first passes landed ~40 % under
+target and were deepened, never patched) → log new facts to `bible/` in the *same* step → append
+a row to `Local/chain-log.md` (the resume point, which survived a mid-run context reset). No
+STOP condition fired: the gate never went red twice on one unit, no ledger conflict, no content
+question needed the author.
+
+**Ledger.** All five twists fired on their carded chapters (T2 → ch08, T3 → ch10, T1 → ch11,
+T4+T5 → ch15). `bible/foreshadowing-ledger.md` is **14/14 planted → paid**, front-matter mirrors
+the grid on every file, gate-verified.
+
+**Bible growth.** `invented-canon.md` INV-006 → INV-105 (one row per invented fact, all logged in
+the prompt that used them); glossary extended with people, places, document codes and vocative
+forms; `characters.md` corrected twice (supporting-cast age, first-cost chapter); `timeline.md`
+unchanged — the drafted dates matched the S3 spine, including real 2031 Thursdays.
+
+**Review panels (WP1 · WP2 · WP3), four independent readers each.** Voice · continuity ·
+structure/pacing · a *blind* reader-guesser allowed to read nothing but the manuscript. Result:
+**21/21 units "fit", zero redrafts**; ~60 findings triaged and fixed in place. Highlights: WP1
+tightened prop-planting and removed a leaked line; WP2 caught six continuity contradictions and a
+card that had drifted from the prose (card corrected, prose kept); WP3 removed a meta-explanation
+that would have burned a twist early, reconciled the heist clock, and closed three softness
+findings from the full-book audit. The final blind audit — 21 files, no bible — reported fair-play
+"exceptional", the causal structure paradox-free, the ending "tenderness, not kitsch", and
+independently verified the book's calendar against real 2031 dates. → ADR-007, ADR-008
+
+**Verification (real runs, end of prompt).** `python tools\gate.py` → **GREEN, 0 hard violations**
+(53 report-only notes: deliberate figures and the raw material for the P2 subtraction pass).
+`--cards` → GREEN, 0 warnings. `--selftest` → GREEN, all 17 checks fired on seeded bad input.
+
+**Model-fit:** used frontier·high, panels as sub-agents → fit. The per-unit gate + in-run
+deepening was the load-bearing habit; the panels earned their cost three times over (every
+serious defect came from a reader who had not written the text). Next time: draft the first pass
+~50 % longer — the systematic under-shoot cost an extra deepening lap on nearly every unit.
+
 ## 2026-08-03 — K0 · Kickoff: premise locked, bible written, tooling green, plan approved
 
 **Premise & story frame.** Ran a multi-agent premise panel: four independent concept authors

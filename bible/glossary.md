@@ -23,6 +23,22 @@
 - **Zapisovatelka** — hlas mezikapitol (T4)
 - **fixační registr** — interní evidence fixací (spisové značky `F-RRRR-MMDD-P`)
 - **`F-2025-0714-K`** — Emin fixační spis (ch09/ch10)
+- Domácké/vokativní tvary: „Terko" (Pavel Tereze) · „Emo/Emi" (oslovení Emy, dopisy) ·
+  „Míla/Milenka" (Zárubová)
 - Osoby: Tereza Wagnerová · Ema · Pavel · Viktor Roubal · Jonáš Berg · Halina Vraná ·
-  Alois Záruba · Mach · Vlachová · Novotní (Emina rodina po ch14)
-- Místa: Praha · Malvazinky · Žižkov · Karlín · Vršovice · Libeň · Kladno · Strašnice
+  Alois Záruba · Mach · Vlachová · Novotní (Emina rodina po ch14) ·
+  Miroslava/Milena Zárubová („Míla" — obě čtení; ch01) · Helena Tůmová (†2031, ch01) ·
+  Karel Mach (ch02) · Anna (Machova dcera, ch02) · Řehořovi (Antonín Řehoř †, dva synové —
+  dědický spor, ch02)
+- **`V-2031-0412`** — verifikační spis případu Řehoř (ch02)
+- **`OB-2028/019`** — oběžník s rámcovou smlouvou „jednotky T" (ch08; podpisová doložka Roubal)
+- **jednotka T** — smluvní/rozpočtové krytí Tichých v papírech Ústavu (ch08)
+- **`V-2031-0387`** — verifikační spis Zárubova případu (ch01; formát verifikačních značek
+  `V-RRRR-NNNN`, INV-006)
+- Místa: Praha · Malvazinky · Žižkov · Karlín · Vršovice · Libeň · Kladno · Strašnice ·
+  Orlík (nádrž — místo Emina „utonutí") · Vinohrady/Vinohradská (sídlo Ústavu poblíž) ·
+  Bubeneč (pamětnice s vykřičníkem, ch03/ch11) · Botič (zastávka — kontakt s Halinou, ch13) ·
+  Kotlaska (Halinin archiv, Libeň, ch12) · Budějovice (zařízení Bartoňové, ch12)
+- František Hruška (84, Kladno — poslední pamětník 14. zóny, ch05) · Marie Boháčová
+  (registrátorka fixačního registru, ch09–10) · Bartoňovi (svědci z kempu, ch03) · **`K-2031-224`** — kalibrační záznam Tereziny noční sondy
+  (ch03) · **`2025/S-441`** — civilní sonda k Eminu osvědčení o úmrtí (ch03)
