@@ -2,6 +2,35 @@
 
 > Professional changelog of progress + decisions. Newest entries on top. Decision index: `docs/adr.md`.
 
+## 2026-08-26 — Publication audit: the repo was never actually public
+
+**The finding.** ADR-013 recorded the repo as *published*, the README was rewritten for readers
+and the privacy sweep was done — but the visibility switch was never flipped. For three weeks the
+project's own documentation asserted a state the repository did not have. Found while preparing to
+link the book from the author's public site, where a private repo would have answered every visitor
+with a 404. The repo is public now, with the spoiler consequence of `bible/` re-accepted knowingly.
+
+**Two paths from the author's disk, still in tracked files.** `CLAUDE.md` carried
+`D:\Projekty\Scifi` in its title, and `tools/make_cover.py` hard-coded the same absolute path as
+its default output — which also meant the cover generator could not run for anyone who cloned the
+repo. The default now resolves relative to the script's own location; verified it points back at
+`book/cover.png`.
+
+**Statistics the E6 pass had silently invalidated.** The README's stat table and
+`docs/architecture.md` still quoted the pre-E6 book: 53,393 words (now 53,470), a 13,837-word bible
+(13,860), a 12-record decision index (14). The commit count was dropped from the table rather than
+corrected — it invalidates itself on every housekeeping push, this one included. E6 was added to
+the prompt table it had been missing from. The claim that *everything around the prose is English*
+was corrected: the bible, the style guide and `CLAUDE.md` are Czech and always were.
+
+**Verification.** `python tools\gate.py` → GREEN, 0 hard. `--cards` → GREEN, 0 warnings.
+`--selftest` → GREEN, all 17 checks fired. `tools/make_cover.py` compiles and its resolved default
+path checked by hand. → ADR-015
+
+**Model-fit:** used frontier·high → mild overkill for the edits themselves, correct for the audit:
+the finding that mattered (a published-state claim that was never true) came from checking the
+world against the docs rather than reading the docs, and that habit is worth the tier.
+
 ## 2026-08-04 — E6 · De-mannerism pass: the audit's findings applied, no artificial flaws
 
 A blind full-book audit ("does this read machine-written?") returned verdict (c) — *the machine

@@ -6,6 +6,7 @@ ring, a torn seam running down the page held by red thread stitches, title
 set in Palatino Linotype. Pure Pillow, no external assets.
 """
 import math
+import os
 import random
 import sys
 
@@ -173,6 +174,7 @@ d.text((tx0 + 6, rule_y + 40), "román", font=f_sub, fill=INK_SOFT)
 # author, bottom left
 d.text((tx0 + 6, H - 260), "Martin", font=f_author, fill=INK)
 
-out = sys.argv[1] if len(sys.argv) > 1 else "D:/Projekty/Scifi/book/cover.png"
+_REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+out = sys.argv[1] if len(sys.argv) > 1 else os.path.join(_REPO, "book", "cover.png")
 img.save(out, "PNG")
 print("cover written:", out, img.size)

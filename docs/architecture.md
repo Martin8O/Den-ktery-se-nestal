@@ -1,6 +1,6 @@
 # Architecture — how this book is built
 
-An original Czech-language science-fiction novel (53,393 words ≈ 178 A5 pages), written natively
+An original Czech-language science-fiction novel (53,470 words ≈ 178 A5 pages), written natively
 in Czech, one verifiable slice at a time. The method externalises the story's structure into
 checkable artefacts so every step is locally correct and the book stays globally consistent.
 

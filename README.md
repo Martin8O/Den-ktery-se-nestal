@@ -7,7 +7,8 @@ with the worldbuilding bible it was written against, the foreshadowing ledger th
 setup to its payoff, the one-command quality gate that had to pass before any page was kept, and
 the build pipeline that turns the manuscript into an EPUB, a MOBI and a 178-page A5 PDF.
 
-The prose is Czech. Everything around it — code, docs, commit messages — is English.
+The prose and the story bible are Czech. Everything engineered around them — code, repo docs,
+commit messages — is English; `CLAUDE.md` is Czech because it is written for the author.
 
 > ### ⚠️ Spoilers
 > `bible/` is the story's design document. `plot-architecture.md`, `foreshadowing-ledger.md` and
@@ -28,15 +29,15 @@ things in the book happen inside forms.
 
 | | |
 |---|---|
-| **Length** | 53,393 words · 178 pages (A5) |
+| **Length** | 53,470 words · 178 pages (A5) |
 | **Shape** | 3 parts × 7 units = 15 chapters + 6 first-person interludes |
 | **Chapter band** | 2,800–4,200 words hard, 3,200–3,800 target — every unit inside it |
 | **POV** | Close third, past tense, one head; interludes are first person, present tense |
 | **Twists** | 5, tracked across 14 plant → payoff rows, all paid |
 | **Invented facts** | 105 canon entries, every one logged in the prompt that first used it |
-| **Bible** | 13,837 words across 9 documents |
+| **Bible** | 13,860 words across 9 documents |
 | **Formats** | EPUB · MOBI · A5 PDF, built by one command |
-| **Written in** | 2 days, 3 author-facing prompts, 5 commits |
+| **Written in** | 2 days · 3 author-facing prompts, plus one later editing pass |
 
 ## How it was made
 
@@ -46,13 +47,15 @@ characters, twists, sentences — belonged to the model. Every method, scope and
 belonged to the author.** The author read no spoilers during production; twists were discussed in
 chat only by ledger id.
 
-The whole novel ran on **three author-facing prompts**:
+The whole novel ran on **three author-facing prompts** — with one more editing pass added after
+the repository was published:
 
 | Prompt | What it did |
 |---|---|
 | **K0 · Kickoff** | Multi-agent premise panel (4 independent concepts × 3 independent judges), then the full bible: world rules, characters, plot architecture, a 21-card chapter grid, the foreshadowing ledger, the Czech style guide. Quality gate ported and proved. Manuscript scaffolded as 21 stub files. |
 | **P1 · Write** | All 21 units, one per step, unattended. Each step: read the card + the previous chapter + the open ledger rows → draft to the card → run the gate → deepen in-run if thin → log new facts to the bible in the *same* step. A four-reader review panel after each part. |
 | **P2 · Edit & typeset** | Four independent blind full-book cold reads, a three-pass line edit, a Czech language pass, cover and typesetting, final verification. |
+| **E6 · De-mannerism** | A blind audit asked one question — *does this read machine-written?* — and answered it with counts, not impressions. Its findings were applied wherever they made the book read better. No artificial flaws: camouflage was rejected as a goal. |
 
 ### The chain
 
@@ -122,7 +125,7 @@ tools/gate.py             the quality gate (1,167 lines, stdlib only)
 tools/build.ps1           EPUB + MOBI + A5 PDF
 tools/make_cover.py       the cover, generated (Pillow, seeded, reproducible)
 book/                     front matter, colophon, metadata, cover
-docs/adr.md               decision index — 12 records, the "why" of the project
+docs/adr.md               decision index — 14 records, the "why" of the project
 docs/architecture.md      method notes
 dev_history.md            a professional changelog, newest first
 ```

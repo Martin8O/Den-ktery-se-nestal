@@ -1,6 +1,6 @@
-# CLAUDE.md — *Den, který se nestal* (D:\Projekty\Scifi)
+# CLAUDE.md — *Den, který se nestal*
 
-Původní česky psaný SF román (~57k slov ≈ 200 stran A5), psaný NATIVNĚ ČESKY, jeden ověřitelný
+Původní česky psaný SF román (hotový: 53 470 slov ≈ 178 stran A5), psaný NATIVNĚ ČESKY, jeden ověřitelný
 krok po druhém. **Dělba práce:** veškerá obsahová rozhodnutí (svět, postavy, zvraty, věty) patří
 asistentovi; metoda, rozsah a tempo patří autorovi. **Žádné obsahové otázky autorovi; ŽÁDNÉ
 SPOILERY v chatu** — zvraty se v konverzaci označují jen ledger id (T1…T5, P-T*-*).
