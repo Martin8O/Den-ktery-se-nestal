@@ -19,10 +19,12 @@ commit messages — is English; `CLAUDE.md` is Czech because it is written for t
 
 | Formát | Soubor |
 |---|---|
-| **EPUB** (čtečky, telefon) | [den-ktery-se-nestal.epub](download/den-ktery-se-nestal.epub?raw=1) |
-| **PDF** (A5, k tisku / na počítač) | [den-ktery-se-nestal.pdf](download/den-ktery-se-nestal.pdf?raw=1) |
+| **EPUB** (čtečky, telefon) | [den-ktery-se-nestal.epub](https://github.com/Martin8O/den-ktery-se-nestal/releases/download/v1.0/den-ktery-se-nestal.epub) |
+| **PDF** (A5, k tisku / na počítač) | [den-ktery-se-nestal.pdf](https://github.com/Martin8O/den-ktery-se-nestal/releases/download/v1.0/den-ktery-se-nestal.pdf) |
+| **MOBI** (starší Kindle) | [den-ktery-se-nestal.mobi](https://github.com/Martin8O/den-ktery-se-nestal/releases/download/v1.0/den-ktery-se-nestal.mobi) |
 
-Pro Kindle stačí poslat EPUB přes *Send to Kindle* — Amazon ho převede sám.
+Pro novější Kindle stačí poslat EPUB přes *Send to Kindle* — Amazon ho převede sám.
+Všechny soubory najdete i na stránce [vydání v1.0](https://github.com/Martin8O/den-ktery-se-nestal/releases/tag/v1.0).
 
 ---
 
