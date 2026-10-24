@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     Build EPUB, MOBI and A5 (book-size) PDF from the manuscript.
 
