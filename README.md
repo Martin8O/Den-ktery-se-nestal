@@ -15,6 +15,15 @@ commit messages — is English; `CLAUDE.md` is Czech because it is written for t
 > `invented-canon.md` contain **every twist, in full, with its mechanism**. If you intend to read
 > the book, read `manuscript/` (or a built file) and stay out of `bible/`.
 
+## 📖 Stáhnout knihu · Download the book
+
+| Formát | Soubor |
+|---|---|
+| **EPUB** (čtečky, telefon) | [den-ktery-se-nestal.epub](download/den-ktery-se-nestal.epub?raw=1) |
+| **PDF** (A5, k tisku / na počítač) | [den-ktery-se-nestal.pdf](download/den-ktery-se-nestal.pdf?raw=1) |
+
+Pro Kindle stačí poslat EPUB přes *Send to Kindle* — Amazon ho převede sám.
+
 ---
 
 ## The book
